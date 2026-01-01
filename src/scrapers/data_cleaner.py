@@ -46,10 +46,11 @@ class EpisodeDataCleaner:
         episode_mapping = {}
         for i, ep in enumerate(raw_episodes):
             title = ep['raw_title']
-            if 'TRANSCRIPT' in title and 'Ep.' in title:
+            if 'TRANSCRIPT' in title and ('Ep.' in title or 'Ep ' in title):
                 # Extract episode number and movie title from transcript
                 # Format: "TRANSCRIPT Friendly Fire Ep. 155: Operation Amsterdam (1959)"
-                match = re.search(r'Ep\.\s*(\d+):\s*(.+?)(?:\s*\((\d{4})\))?$', title)
+                # Also handles: "TRANSCRIPT Friendly Fire Ep 141: Lone Survivor (2013)"
+                match = re.search(r'Ep\.?\s*(\d+):\s*(.+?)(?:\s*\((\d{4})\))?$', title)
                 if match:
                     ep_num = match.group(1)
                     movie_title = match.group(2).strip()

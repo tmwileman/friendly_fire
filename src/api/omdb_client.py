@@ -46,6 +46,10 @@ class OMDBClient:
     ) -> Optional[Dict]:
         """
         Search for a movie by title and optional year.
+        Will try multiple strategies if initial search fails:
+        1. Title + year (if year provided)
+        2. Title only (fallback if year search fails)
+        3. Cleaned title variations (remove special chars)
 
         Args:
             title: Movie title to search for
@@ -66,6 +70,50 @@ class OMDBClient:
             logger.debug(f"Cache hit for: {title} ({year})")
             return self._cache[cache_key]
 
+        # Try multiple search strategies
+        search_strategies = [
+            (title, year),  # Original with year
+        ]
+
+        # If year provided, also try without year as fallback
+        if year:
+            search_strategies.append((title, None))
+
+        # Try with cleaned title (remove extra spaces, special chars)
+        cleaned_title = ' '.join(title.split())  # Normalize whitespace
+        if cleaned_title != title:
+            search_strategies.append((cleaned_title, year))
+            if year:
+                search_strategies.append((cleaned_title, None))
+
+        result = None
+        for search_title, search_year in search_strategies:
+            result = self._query_omdb(search_title, search_year)
+            if result:
+                # Found a match!
+                if (search_title, search_year) != (title, year):
+                    logger.info(f"Found match using alternate strategy: '{search_title}' ({search_year})")
+                break
+
+        # Cache the result (even if None)
+        self._cache[cache_key] = result
+
+        if not result:
+            logger.warning(f"Movie not found after trying all strategies: {title} ({year})")
+
+        return result
+
+    def _query_omdb(self, title: str, year: Optional[str] = None) -> Optional[Dict]:
+        """
+        Internal method to query OMDB API once.
+
+        Args:
+            title: Movie title
+            year: Optional year
+
+        Returns:
+            Movie data dict or None if not found
+        """
         # Prepare query parameters
         params = {
             'apikey': self.api_key,
@@ -74,7 +122,10 @@ class OMDBClient:
         }
 
         if year:
-            params['y'] = year
+            # Clean year - sometimes has extra info like "[Director's Cut]"
+            year_clean = str(year).split()[0]  # Take first word
+            if year_clean.isdigit():
+                params['y'] = year_clean
 
         try:
             logger.debug(f"Querying OMDB for: {title} ({year})")
@@ -85,18 +136,15 @@ class OMDBClient:
 
             # Check if movie was found
             if data.get('Response') == 'False':
-                logger.warning(f"Movie not found: {title} ({year}) - {data.get('Error', 'Unknown error')}")
-                self._cache[cache_key] = None
+                logger.debug(f"Not found: {title} ({year}) - {data.get('Error', 'Unknown error')}")
                 return None
 
             # Validate essential fields
             if 'imdbID' not in data:
                 logger.warning(f"No IMDb ID in response for: {title}")
-                self._cache[cache_key] = None
                 return None
 
-            # Cache and return
-            self._cache[cache_key] = data
+            # Success!
             logger.info(f"Found movie: {data.get('Title')} ({data.get('Year')}) - IMDb ID: {data.get('imdbID')}")
 
             # Rate limiting
