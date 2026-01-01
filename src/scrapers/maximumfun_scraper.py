@@ -19,7 +19,7 @@ class MaximumFunScraper:
     MAX_RETRIES = 3
     RETRY_DELAY = 2  # seconds
 
-    def __init__(self, max_pages: int = 15):
+    def __init__(self, max_pages: int = 20):
         """
         Initialize the scraper.
 
@@ -45,8 +45,8 @@ class MaximumFunScraper:
         logger.info(f"Starting to scrape episodes from {self.BASE_URL}")
         episodes = []
 
-        for page in range(1, self.max_pages):
-            logger.info(f"Scraping page {page}/{self.max_pages - 1}")
+        for page in range(1, self.max_pages + 1):
+            logger.info(f"Scraping page {page}/{self.max_pages}")
 
             page_episodes = self._scrape_page(page)
 
@@ -57,7 +57,7 @@ class MaximumFunScraper:
             episodes.extend(page_episodes)
 
             # Be polite: random delay between requests
-            if page < self.max_pages - 1:
+            if page < self.max_pages:
                 delay = uniform(1, 3)
                 logger.debug(f"Waiting {delay:.2f} seconds before next request")
                 sleep(delay)
@@ -101,7 +101,7 @@ class MaximumFunScraper:
                 if h4_tag:
                     title = h4_tag.text.strip()
                     # Find the link to the episode page
-                    a_tag = container.find('a') or (h4_tag.find('a') if h4 else None)
+                    a_tag = container.find('a') or (h4_tag.find('a') if h4_tag else None)
                     episode_url = a_tag.get('href') if a_tag else None
 
                     if title:
@@ -139,7 +139,7 @@ class MaximumFunScraper:
         self.close()
 
 
-def scrape_friendly_fire_episodes(max_pages: int = 15) -> List[Dict[str, str]]:
+def scrape_friendly_fire_episodes(max_pages: int = 20) -> List[Dict[str, str]]:
     """
     Convenience function to scrape Friendly Fire episodes.
 

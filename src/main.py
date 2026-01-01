@@ -50,7 +50,7 @@ def main():
 
         # Step 1: Scrape podcast episodes
         logger.info("\n[Step 1/5] Scraping Maximum Fun for episodes...")
-        raw_episodes = scrape_friendly_fire_episodes(max_pages=15)
+        raw_episodes = scrape_friendly_fire_episodes(max_pages=20)
         logger.info(f"✓ Scraped {len(raw_episodes)} raw episodes")
 
         if not raw_episodes:
