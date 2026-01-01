@@ -1,77 +1,99 @@
-/* Friendly Fire Movie Tracker - Minimal Styles */
+/* Friendly Fire Movie Tracker - Refined Minimal Styles */
 
 body {
-    margin: 40px auto;
-    max-width: 650px;
-    line-height: 1.6;
-    font-size: 18px;
-    color: #444;
-    padding: 0 10px;
+    margin: 50px auto;
+    max-width: 900px;
+    line-height: 1.65;
+    font-size: 17px;
+    color: #2c3e50;
+    padding: 0 20px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    background: #fafafa;
 }
 
 h1, h2, h3 {
     line-height: 1.2;
+    color: #1a1a1a;
+    font-weight: 600;
 }
 
 header {
-    margin-bottom: 40px;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e0e0e0;
 }
 
 header h1 {
-    font-size: 2em;
-    margin-bottom: 0.2em;
+    font-size: 2.2em;
+    margin-bottom: 0.3em;
+    font-weight: 700;
+    letter-spacing: -0.02em;
 }
 
 .subtitle {
     color: #666;
-    font-size: 1.1em;
+    font-size: 1.15em;
+    font-weight: 400;
 }
 
 .last-updated {
     color: #999;
     font-size: 0.9em;
-    margin-top: 10px;
+    margin-top: 12px;
 }
 
 /* Statistics */
 .statistics {
-    margin: 30px 0;
-    padding: 20px;
-    background: #f9f9f9;
-    border-left: 3px solid #444;
+    margin: 35px 0;
+    padding: 25px 30px;
+    background: white;
+    border-left: 4px solid #3498db;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
 
 .stat-card {
     display: inline-block;
-    margin-right: 30px;
+    margin-right: 40px;
 }
 
 .stat-number {
-    font-size: 2em;
-    font-weight: bold;
-    color: #000;
+    font-size: 2.2em;
+    font-weight: 700;
+    color: #1a1a1a;
 }
 
 .stat-label {
     font-size: 0.9em;
-    color: #666;
+    color: #7f8c8d;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-weight: 500;
 }
 
 /* Filters */
 .filters {
-    margin: 30px 0;
+    margin: 35px 0;
 }
 
 .filter-group label {
     margin-right: 10px;
+    font-weight: 500;
+    color: #2c3e50;
 }
 
 .filter-group select {
     font-size: 16px;
-    padding: 5px;
-    border: 1px solid #ccc;
+    padding: 8px 12px;
+    border: 1px solid #d0d0d0;
+    border-radius: 4px;
     background: white;
+    transition: border-color 0.2s ease;
+}
+
+.filter-group select:focus {
+    outline: none;
+    border-color: #3498db;
 }
 
 /* Loading/Error */
@@ -97,7 +119,11 @@ header h1 {
 
 /* Table */
 #table-container {
-    margin: 40px 0;
+    margin: 45px 0;
+    background: white;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    padding: 20px;
 }
 
 table {
@@ -108,39 +134,50 @@ table {
 
 table thead th {
     text-align: left;
-    padding: 12px 8px;
-    border-bottom: 2px solid #444;
-    font-weight: bold;
+    padding: 14px 10px;
+    border-bottom: 2px solid #2c3e50;
+    font-weight: 600;
+    color: #1a1a1a;
+    font-size: 0.95em;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
 }
 
 table tbody td {
-    padding: 12px 8px;
-    border-bottom: 1px solid #ddd;
+    padding: 14px 10px;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+table tbody tr {
+    transition: background-color 0.15s ease;
 }
 
 table tbody tr:hover {
-    background: #f9f9f9;
+    background: #f8f9fa;
 }
 
 /* Streaming badges */
 .streaming-badges {
     display: flex;
     flex-wrap: wrap;
-    gap: 6px;
+    gap: 7px;
 }
 
 .streaming-badge {
     display: inline-block;
-    padding: 3px 8px;
+    padding: 5px 10px;
     font-size: 0.85em;
     background: #444;
     color: white;
     text-decoration: none;
-    border-radius: 3px;
+    border-radius: 4px;
+    font-weight: 500;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
 .streaming-badge:hover {
-    background: #000;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
 
 .badge-netflix { background: #e50914; }
@@ -162,7 +199,7 @@ table tbody tr:hover {
 
 /* Links */
 .movie-links a {
-    color: #0074d9;
+    color: #3498db;
     text-decoration: none;
 }
 
@@ -172,16 +209,19 @@ table tbody tr:hover {
 
 .link-button {
     display: inline-block;
-    padding: 4px 10px;
-    background: #444;
+    padding: 6px 12px;
+    background: #2c3e50;
     color: white;
     text-decoration: none;
-    border-radius: 3px;
+    border-radius: 4px;
     font-size: 0.85em;
+    font-weight: 500;
+    transition: background-color 0.2s ease, transform 0.15s ease;
 }
 
 .link-button:hover {
-    background: #000;
+    background: #1a252f;
+    transform: translateY(-1px);
 }
 
 /* Rating */
@@ -195,84 +235,106 @@ table tbody tr:hover {
 
 /* Footer */
 footer {
-    margin-top: 60px;
-    padding-top: 20px;
-    border-top: 1px solid #ddd;
-    color: #666;
+    margin-top: 70px;
+    padding-top: 25px;
+    border-top: 1px solid #e0e0e0;
+    color: #7f8c8d;
     font-size: 0.9em;
 }
 
 footer a {
-    color: #0074d9;
+    color: #3498db;
     text-decoration: none;
+    transition: color 0.2s ease;
 }
 
 footer a:hover {
+    color: #2980b9;
     text-decoration: underline;
 }
 
-/* DataTables overrides for minimal look */
+/* DataTables overrides */
 .dataTables_wrapper .dataTables_length,
 .dataTables_wrapper .dataTables_filter,
 .dataTables_wrapper .dataTables_info,
 .dataTables_wrapper .dataTables_paginate {
-    margin: 10px 0;
+    margin: 12px 0;
 }
 
 .dataTables_wrapper .dataTables_filter input {
-    border: 1px solid #ccc;
-    padding: 5px;
-    font-size: 16px;
-    margin-left: 5px;
+    border: 1px solid #d0d0d0;
+    padding: 8px 12px;
+    font-size: 15px;
+    margin-left: 8px;
+    border-radius: 4px;
+    transition: border-color 0.2s ease;
+}
+
+.dataTables_wrapper .dataTables_filter input:focus {
+    outline: none;
+    border-color: #3498db;
 }
 
 .dataTables_wrapper .dataTables_length select {
-    border: 1px solid #ccc;
-    padding: 5px;
-    font-size: 16px;
+    border: 1px solid #d0d0d0;
+    padding: 7px 10px;
+    font-size: 15px;
+    border-radius: 4px;
 }
 
 .dataTables_wrapper .dataTables_paginate .paginate_button {
-    padding: 5px 10px;
-    margin: 0 2px;
-    border: 1px solid #ccc;
+    padding: 6px 12px;
+    margin: 0 3px;
+    border: 1px solid #d0d0d0;
     background: white;
-    color: #444 !important;
+    color: #2c3e50 !important;
+    border-radius: 4px;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
 }
 
 .dataTables_wrapper .dataTables_paginate .paginate_button:hover {
-    background: #f9f9f9;
-    border-color: #444;
+    background: #f8f9fa;
+    border-color: #3498db;
 }
 
 .dataTables_wrapper .dataTables_paginate .paginate_button.current {
-    background: #444;
+    background: #3498db;
     color: white !important;
-    border-color: #444;
+    border-color: #3498db;
 }
 
 .dataTables_wrapper .dataTables_paginate .paginate_button.disabled {
-    color: #999 !important;
+    color: #bdc3c7 !important;
+    opacity: 0.6;
 }
 
 /* Mobile responsive */
-@media (max-width: 700px) {
+@media (max-width: 950px) {
     body {
         font-size: 16px;
-        margin: 20px auto;
+        margin: 30px auto;
+        padding: 0 15px;
+    }
+
+    header {
+        margin-bottom: 35px;
     }
 
     header h1 {
-        font-size: 1.8em;
+        font-size: 1.9em;
     }
 
     .statistics {
-        padding: 15px;
+        padding: 20px;
     }
 
     .stat-card {
         display: block;
-        margin: 10px 0;
+        margin: 15px 0;
+    }
+
+    #table-container {
+        padding: 15px;
     }
 
     table {
@@ -281,7 +343,7 @@ footer a:hover {
 
     table thead th,
     table tbody td {
-        padding: 8px 4px;
+        padding: 10px 6px;
     }
 
     .streaming-badges {
@@ -291,11 +353,13 @@ footer a:hover {
 
 /* Episode number link */
 .episode-link {
-    color: #0074d9;
+    color: #3498db;
     text-decoration: none;
     font-weight: 600;
+    transition: color 0.2s ease;
 }
 
 .episode-link:hover {
+    color: #2980b9;
     text-decoration: underline;
 }
