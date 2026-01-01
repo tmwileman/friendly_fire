@@ -157,27 +157,29 @@ table tbody tr:hover td {
 
 .streaming-badge {
     display: inline-block;
-    padding: 4px 8px;
+    padding: 5px 10px;
     font-size: 11px;
     background: #007bff;
     color: white;
     text-decoration: none;
-    border-radius: 3px;
-    font-weight: 500;
+    border-radius: 4px;
+    font-weight: 600;
+    transition: transform 0.2s, box-shadow 0.2s;
 }
 
 .streaming-badge:hover {
-    opacity: 0.8;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 
 .badge-netflix { background: #e50914; }
 .badge-prime { background: #00a8e1; }
 .badge-disney { background: #113ccf; }
-.badge-hbo { background: #8440ca; }
-.badge-hulu { background: #1ce783; color: #000; }
-.badge-apple { background: #000; }
+.badge-hbo { background: #9b59b6; }
+.badge-hulu { background: #3dbb3d; }
+.badge-apple { background: #1d1d1f; }
 .badge-paramount { background: #0064ff; }
-.badge-peacock { background: #000; }
+.badge-peacock { background: #000000; }
 
 .no-streaming {
     color: #999;
