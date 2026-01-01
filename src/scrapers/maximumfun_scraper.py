@@ -100,11 +100,16 @@ class MaximumFunScraper:
                 h4_tag = container.find('h4')
                 if h4_tag:
                     title = h4_tag.text.strip()
+                    # Find the link to the episode page
+                    a_tag = container.find('a') or (h4_tag.find('a') if h4 else None)
+                    episode_url = a_tag.get('href') if a_tag else None
+
                     if title:
                         episodes.append({
                             'raw_title': title,
                             'page': page_num,
-                            'url': url
+                            'url': url,
+                            'episode_url': episode_url
                         })
 
             logger.debug(f"Found {len(episodes)} episodes on page {page_num}")

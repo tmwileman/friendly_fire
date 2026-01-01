@@ -69,7 +69,8 @@ class JSONGenerator:
 
             # Build movie entry
             movie = {
-                'episode_number': str(row.get('number', '')),
+                'episode_number': str(row.get('number', '')) if pd.notna(row.get('number')) else None,
+                'episode_url': row.get('episode_url'),
                 'title': omdb_info.get('Title', row.get('episode', '')),
                 'year': omdb_info.get('Year', row.get('year', '')),
                 'imdb_id': imdb_id,

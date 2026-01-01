@@ -32,21 +32,40 @@ class EpisodeDataCleaner:
         Clean and parse raw episode data into structured DataFrame.
 
         Args:
-            raw_episodes: List of dictionaries with 'raw_title' key
+            raw_episodes: List of dictionaries with 'raw_title', 'episode_url' keys
 
         Returns:
-            pandas DataFrame with columns: number, episode, year, movie_year
+            pandas DataFrame with columns: number, episode, year, movie_year, episode_url
 
         Raises:
             ValueError: If no valid episodes found after cleaning
         """
         logger.info(f"Cleaning {len(raw_episodes)} raw episodes")
 
-        # Extract raw titles
-        raw_titles = [ep['raw_title'] for ep in raw_episodes]
+        # Extract episode numbers from TRANSCRIPT entries
+        episode_mapping = {}
+        for i, ep in enumerate(raw_episodes):
+            title = ep['raw_title']
+            if 'TRANSCRIPT' in title and 'Ep.' in title:
+                # Extract episode number and movie title from transcript
+                # Format: "TRANSCRIPT Friendly Fire Ep. 155: Operation Amsterdam (1959)"
+                match = re.search(r'Ep\.\s*(\d+):\s*(.+?)(?:\s*\((\d{4})\))?$', title)
+                if match:
+                    ep_num = match.group(1)
+                    movie_title = match.group(2).strip()
+                    # Find the actual episode with matching title
+                    for other_ep in raw_episodes:
+                        other_title = other_ep['raw_title']
+                        # Check if the other title contains the movie title and is not a transcript
+                        if 'TRANSCRIPT' not in other_title and movie_title.lower() in other_title.lower():
+                            episode_mapping[other_title] = {
+                                'number': ep_num,
+                                'url': other_ep.get('episode_url')
+                            }
+                            break
 
         # Parse into DataFrame
-        df = self._parse_titles(raw_titles)
+        df = self._parse_titles(raw_episodes, episode_mapping)
 
         # Clean and validate
         df = self._clean_episode_names(df)
@@ -64,28 +83,33 @@ class EpisodeDataCleaner:
         logger.info(f"Successfully cleaned {len(df)} valid episodes")
         return df
 
-    def _parse_titles(self, titles: List[str]) -> pd.DataFrame:
+    def _parse_titles(self, raw_episodes: List[Dict[str, str]], episode_mapping: Dict) -> pd.DataFrame:
         """
         Parse episode titles into components.
 
-        Expected format: "Ep 123: Movie Title (Year)"
+        Args:
+            raw_episodes: List of episode dictionaries
+            episode_mapping: Mapping of titles to episode numbers and URLs
+
+        Returns:
+            DataFrame with parsed episode data
         """
         parsed_data = []
 
-        for title in titles:
-            # Split on first colon to separate episode number from content
-            parts = title.strip().split(':', 1)
+        for ep_dict in raw_episodes:
+            title = ep_dict['raw_title']
+            episode_url = ep_dict.get('episode_url')
 
-            if len(parts) == 2:
-                number_part = parts[0].strip()
-                content_part = parts[1].strip()
-                parsed_data.append([number_part, content_part])
+            # Check if we have episode number from transcript mapping
+            if title in episode_mapping:
+                number = episode_mapping[title]['number']
+                episode_url = episode_mapping[title]['url'] or episode_url
+                parsed_data.append([number, title, episode_url])
             else:
-                # Handle edge cases where there's no colon
-                logger.debug(f"Skipping malformed title: {title}")
-                parsed_data.append([None, title])
+                # No episode number found, but still include the episode
+                parsed_data.append([None, title, episode_url])
 
-        df = pd.DataFrame(parsed_data, columns=['number', 'episode'])
+        df = pd.DataFrame(parsed_data, columns=['number', 'episode', 'episode_url'])
         return df
 
     def _clean_episode_names(self, df: pd.DataFrame) -> pd.DataFrame:

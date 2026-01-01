@@ -106,7 +106,7 @@ function updateStatistics(data) {
 function initializeTable() {
     // Prepare table data
     const tableData = moviesData.map(movie => [
-        movie.episode_number || '',
+        formatEpisodeNumber(movie.episode_number, movie.episode_url),
         movie.title || '',
         movie.year || '',
         formatRating(movie.imdb_rating, movie.imdb_votes),
@@ -155,6 +155,19 @@ function initializeTable() {
             }
         ]
     });
+}
+
+// Format episode number with link
+function formatEpisodeNumber(episodeNum, episodeUrl) {
+    if (!episodeNum) {
+        return '<span class="no-streaming">-</span>';
+    }
+
+    if (episodeUrl) {
+        return `<a href="${episodeUrl}" target="_blank" rel="noopener noreferrer" class="episode-link">${episodeNum}</a>`;
+    }
+
+    return episodeNum;
 }
 
 // Format IMDb rating
