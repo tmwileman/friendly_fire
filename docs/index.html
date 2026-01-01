@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Friendly Fire Movie Tracker</title>
+    <meta name="description" content="Track movies from the Friendly Fire podcast and find where to watch them">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- DataTables CSS (via CDN) -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.dataTables.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <h1>🎬 Friendly Fire Movie Tracker</h1>
+            <p class="subtitle">Find where to watch movies from the Friendly Fire podcast</p>
+            <div id="last-updated" class="last-updated">Loading...</div>
+        </header>
+
+        <!-- Statistics -->
+        <div id="statistics" class="statistics">
+            <div class="stat-card">
+                <div class="stat-number" id="total-movies">-</div>
+                <div class="stat-label">Total Movies</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="available-streaming">-</div>
+                <div class="stat-label">Available to Stream</div>
+            </div>
+        </div>
+
+        <!-- Filters -->
+        <div class="filters">
+            <div class="filter-group">
+                <label for="service-filter">Filter by Service:</label>
+                <select id="service-filter">
+                    <option value="">All Services</option>
+                    <option value="netflix">Netflix</option>
+                    <option value="prime">Prime Video</option>
+                    <option value="disney">Disney+</option>
+                    <option value="hbo">HBO Max</option>
+                    <option value="hulu">Hulu</option>
+                    <option value="apple">Apple TV+</option>
+                    <option value="paramount">Paramount+</option>
+                    <option value="peacock">Peacock</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Loading State -->
+        <div id="loading" class="loading">
+            <div class="spinner"></div>
+            <p>Loading movie data...</p>
+        </div>
+
+        <!-- Error State -->
+        <div id="error" class="error" style="display: none;">
+            <p>Failed to load movie data. Please try again later.</p>
+        </div>
+
+        <!-- Movies Table -->
+        <div id="table-container" style="display: none;">
+            <table id="movies-table" class="display responsive nowrap" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>Ep #</th>
+                        <th>Title</th>
+                        <th>Year</th>
+                        <th>IMDb Rating</th>
+                        <th>Where to Watch</th>
+                        <th>Links</th>
+                    </tr>
+                </thead>
+                <tbody id="movies-tbody">
+                    <!-- Populated by JavaScript -->
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Footer -->
+        <footer>
+            <p>
+                Data sourced from
+                <a href="https://maximumfun.org/podcasts/friendly-fire/" target="_blank">Maximum Fun</a>,
+                <a href="http://www.omdbapi.com/" target="_blank">OMDB API</a>, and
+                <a href="https://www.movieofthenight.com/about/api" target="_blank">Streaming Availability API</a>
+            </p>
+            <p>
+                This is an unofficial fan project. Listen to
+                <a href="https://maximumfun.org/podcasts/friendly-fire/" target="_blank">Friendly Fire</a>
+                wherever you get your podcasts!
+            </p>
+        </footer>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
