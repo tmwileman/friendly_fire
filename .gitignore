@@ -42,7 +42,3 @@ htmlcov/
 # Logs
 *.log
 logs/
-
-# Generated data (will be in gh-pages branch)
-docs/data/movies.json
-docs/data/metadata.json
