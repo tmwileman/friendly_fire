@@ -53,37 +53,55 @@ class JSONGenerator:
             # Get corresponding OMDB data
             omdb_info = omdb_data[idx] if idx < len(omdb_data) else None
 
-            # Skip if we don't have OMDB data (no IMDb ID)
-            if not omdb_info or not omdb_info.get('imdbID'):
-                logger.warning(f"Skipping episode {row.get('number')}: No OMDB data")
-                continue
-
-            imdb_id = omdb_info['imdbID']
+            # Get IMDb ID if available
+            imdb_id = omdb_info.get('imdbID') if omdb_info else None
 
             # Get corresponding streaming data
             streaming_info = None
-            for stream in streaming_data:
-                if stream and stream.get('imdb_id') == imdb_id:
-                    streaming_info = stream
-                    break
+            if imdb_id:
+                for stream in streaming_data:
+                    if stream and stream.get('imdb_id') == imdb_id:
+                        streaming_info = stream
+                        break
 
-            # Build movie entry
-            movie = {
-                'episode_number': str(row.get('number', '')) if pd.notna(row.get('number')) else None,
-                'episode_url': row.get('episode_url'),
-                'title': omdb_info.get('Title', row.get('episode', '')),
-                'year': omdb_info.get('Year', row.get('year', '')),
-                'imdb_id': imdb_id,
-                'imdb_rating': omdb_info.get('imdbRating', 'N/A'),
-                'imdb_votes': omdb_info.get('imdbVotes', 'N/A'),
-                'imdb_url': f"https://www.imdb.com/title/{imdb_id}",
-                'runtime': omdb_info.get('Runtime', 'N/A'),
-                'genre': omdb_info.get('Genre', 'N/A'),
-                'director': omdb_info.get('Director', 'N/A'),
-                'plot': omdb_info.get('Plot', 'N/A'),
-                'poster': omdb_info.get('Poster', ''),
-                'streaming_options': []
-            }
+            # Build movie entry (include all movies)
+            # If no IMDb data, use episode data from scraper
+            if omdb_info and imdb_id:
+                movie = {
+                    'episode_number': str(row.get('number', '')) if pd.notna(row.get('number')) else None,
+                    'episode_url': row.get('episode_url'),
+                    'title': omdb_info.get('Title', row.get('episode', '')),
+                    'year': omdb_info.get('Year', row.get('year', '')),
+                    'imdb_id': imdb_id,
+                    'imdb_rating': omdb_info.get('imdbRating', 'N/A'),
+                    'imdb_votes': omdb_info.get('imdbVotes', 'N/A'),
+                    'imdb_url': f"https://www.imdb.com/title/{imdb_id}",
+                    'runtime': omdb_info.get('Runtime', 'N/A'),
+                    'genre': omdb_info.get('Genre', 'N/A'),
+                    'director': omdb_info.get('Director', 'N/A'),
+                    'plot': omdb_info.get('Plot', 'N/A'),
+                    'poster': omdb_info.get('Poster', ''),
+                    'streaming_options': []
+                }
+            else:
+                # No IMDb data - use scraped data with disclaimer
+                logger.warning(f"No IMDb data for episode {row.get('number')}: {row.get('episode')}")
+                movie = {
+                    'episode_number': str(row.get('number', '')) if pd.notna(row.get('number')) else None,
+                    'episode_url': row.get('episode_url'),
+                    'title': row.get('episode', 'Unknown'),
+                    'year': row.get('year', 'N/A'),
+                    'imdb_id': None,
+                    'imdb_rating': 'N/A',
+                    'imdb_votes': 'N/A',
+                    'imdb_url': None,
+                    'runtime': 'N/A',
+                    'genre': 'N/A',
+                    'director': 'N/A',
+                    'plot': 'IMDb data not found for this movie. Episode information scraped from podcast website.',
+                    'poster': '',
+                    'streaming_options': []
+                }
 
             # Add streaming options if available
             if streaming_info and streaming_info.get('streaming_options'):
