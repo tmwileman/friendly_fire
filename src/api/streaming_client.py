@@ -99,10 +99,9 @@ class StreamingAvailabilityClient:
         try:
             logger.debug(f"Querying streaming availability for IMDb ID: {imdb_id}")
 
-            # Using the 'get' endpoint with IMDb ID
-            url = f"{self.BASE_URL}/get"
+            # Using the 'shows' endpoint with IMDb ID
+            url = f"{self.BASE_URL}/shows/{imdb_id}"
             params = {
-                'imdb_id': imdb_id,
                 'output_language': 'en'
             }
 
@@ -148,32 +147,35 @@ class StreamingAvailabilityClient:
         result = {
             'imdb_id': imdb_id,
             'title': data.get('title', ''),
-            'year': data.get('year'),
+            'year': data.get('releaseYear') or data.get('year'),
             'streaming_options': []
         }
 
-        # Get streaming info for the specified country
-        streaming_info = data.get('streamingInfo', {}).get(country, {})
+        # Get streaming options for the specified country
+        # New API format uses streamingOptions.{country}
+        streaming_options = data.get('streamingOptions', {}).get(country, [])
 
-        for service_name, service_data in streaming_info.items():
-            # service_data is a list of streaming options for this service
-            for option in service_data:
-                streaming_option = {
-                    'service': service_name,
-                    'type': option.get('type', 'subscription'),  # subscription, rent, buy, free
-                    'quality': option.get('quality', 'sd'),
-                    'link': option.get('link', '')
-                }
+        for option in streaming_options:
+            service_info = option.get('service', {})
+            streaming_option = {
+                'service': service_info.get('id', 'unknown'),
+                'type': option.get('type', 'subscription'),  # subscription, rent, buy, free
+                'quality': option.get('quality', 'sd'),
+                'link': option.get('link', '')
+            }
 
-                # Add price if available (for rent/buy)
-                if 'price' in option:
-                    streaming_option['price'] = f"${option['price'].get('amount', 'N/A')}"
+            # Add price if available (for rent/buy)
+            price_info = option.get('price')
+            if price_info:
+                amount = price_info.get('amount', 'N/A')
+                currency = price_info.get('currency', '$')
+                streaming_option['price'] = f"{currency}{amount}" if amount != 'N/A' else 'N/A'
 
-                result['streaming_options'].append(streaming_option)
+            result['streaming_options'].append(streaming_option)
 
         logger.info(
             f"Found {len(result['streaming_options'])} streaming options for "
-            f"{result['title']} ({result['year']})"
+            f"{result['title']} ({result.get('year', 'N/A')})"
         )
 
         return result
