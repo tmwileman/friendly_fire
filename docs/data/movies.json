@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-01-01T20:56:59.825002Z",
+  "last_updated": "2026-01-01T21:37:48.743662Z",
   "total_movies": 169,
   "movies": [
     {
       "episode_number": null,
       "episode_url": "https://maximumfun.org/episodes/friendly-fire/over-and-out-2021/",
       "title": "Over and Out",
-      "year": "2021",
-      "imdb_id": null,
+      "year": "2018",
+      "imdb_id": "tt8004896",
       "imdb_rating": "N/A",
       "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
+      "imdb_url": "https://www.imdb.com/title/tt8004896",
+      "runtime": "12 min",
+      "genre": "Short, Comedy, Drama",
+      "director": "Brian Sutherin",
+      "plot": "Two women bond in a hospital after having recently given birth.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNGM5MjYtYjZjMi00ZDhmLWExNDQtNzEzYzQ4YmViNjllXkEyXkFqcGdeQXVyNjM5OTM5OTU@._V1_SX300.jpg",
       "streaming_options": []
     },
     {
@@ -1041,7 +1041,7 @@
       ]
     },
     {
-      "episode_number": null,
+      "episode_number": "141",
       "episode_url": "https://maximumfun.org/episodes/friendly-fire/lone-survivor-2013/",
       "title": "Lone Survivor",
       "year": "2013",
@@ -1175,12 +1175,6 @@
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0HSSUB0YOI71175VZTRZUEYBLX/ref=atv_dp",
           "price": "USD14.99"
-        },
-        {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/5bd3337867f34cef7af44774/details"
         }
       ]
     },
@@ -1450,7 +1444,7 @@
       "streaming_options": []
     },
     {
-      "episode_number": null,
+      "episode_number": "124",
       "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-124-the-night-of-the-generals-1967/",
       "title": "Lord of War",
       "year": "2005",
@@ -2072,34 +2066,81 @@
     {
       "episode_number": "94",
       "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-94-the-bridge-at-remagen-1969/",
-      "title": "Episode 94: The Bridge at Remagen",
-      "year": "1969",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
+      "title": "Terminator 2: Judgment Day",
+      "year": "1991",
+      "imdb_id": "tt0103064",
+      "imdb_rating": "8.6",
+      "imdb_votes": "1,266,859",
+      "imdb_url": "https://www.imdb.com/title/tt0103064",
+      "runtime": "137 min",
+      "genre": "Action, Adventure, Sci-Fi",
+      "director": "James Cameron",
+      "plot": "A cyborg from the future, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son John from an even more advanced and powerful cyborg.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "netflix",
+          "type": "subscription",
+          "quality": "hd",
+          "link": "https://www.netflix.com/title/60028202/"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0T60AQOA5BQOAF17H4O2ZPRXEC/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0L8EYVVMXVA46TTY6SZYBFLATI/ref=atv_dp",
+          "price": "USD4.99"
+        },
+        {
+          "service": "starz",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.starz.com/us/en/movies/terminator-2:-judgment-day-24021"
+        }
+      ]
     },
     {
       "episode_number": "93",
       "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-93-eye-in-the-sky-2015/",
-      "title": "Episode 93: Eye in the Sky",
-      "year": "2015",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
+      "title": "Starship Troopers",
+      "year": "1997",
+      "imdb_id": "tt0120201",
+      "imdb_rating": "7.3",
+      "imdb_votes": "340,192",
+      "imdb_url": "https://www.imdb.com/title/tt0120201",
+      "runtime": "129 min",
+      "genre": "Action, Adventure, Sci-Fi",
+      "director": "Paul Verhoeven",
+      "plot": "Humans, in a fascist militaristic future, wage war with giant alien bugs.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTNiOGM1ZWUtZTZjZC00OWJmLWE2YzUtZjQ4ODZjZmVlMDU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0I9UNHC43NXITMMVI3GVYATXKV/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0I9UNHC43NXITMMVI3GVYATXKV/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0I9UNHC43NXITMMVI3GVYATXKV/ref=atv_dp",
+          "price": "USD14.99"
+        }
+      ]
     },
     {
       "episode_number": "92",
