@@ -105,7 +105,7 @@ def main():
             for movie in existing_data['movies']:
                 raw_episodes.append({
                     'raw_title': f"{movie.get('title', '')} ({movie.get('year', '')})",
-                    'url': movie.get('episode_url', '')
+                    'episode_url': movie.get('episode_url', '')
                 })
             logger.info(f"✓ Loaded {len(raw_episodes)} episodes from existing data")
         else:
