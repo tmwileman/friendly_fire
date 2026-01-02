@@ -178,9 +178,18 @@ table tbody tr:hover td {
     transform: translateY(-2px) !important;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2) !important;
     filter: brightness(1.1) !important;
+    color: #000000 !important;
 }
 
 .streaming-badge:visited {
+    color: #000000 !important;
+}
+
+.streaming-badge:link {
+    color: #000000 !important;
+}
+
+.streaming-badge:active {
     color: #000000 !important;
 }
 
@@ -212,7 +221,7 @@ table tbody tr:hover td {
 
 .badge-apple {
     background: #1d1d1f !important;
-    color: #000000 !important;
+    color: #ffffff !important;
 }
 
 .badge-paramount {
