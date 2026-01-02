@@ -1,25 +1,9 @@
 {
-  "last_updated": "2026-01-02T21:09:14.758891Z",
-  "total_movies": 169,
+  "last_updated": "2026-01-02T22:06:24.955644Z",
+  "total_movies": 168,
   "movies": [
     {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/over-and-out-2021/",
-      "title": "Over and Out",
-      "year": "2018",
-      "imdb_id": "tt8004896",
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": "https://www.imdb.com/title/tt8004896",
-      "runtime": "12 min",
-      "genre": "Short, Comedy, Drama",
-      "director": "Brian Sutherin",
-      "plot": "Two women bond in a hospital after having recently given birth.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNGM5MjYtYjZjMi00ZDhmLWExNDQtNzEzYzQ4YmViNjllXkEyXkFqcGdeQXVyNjM5OTM5OTU@._V1_SX300.jpg",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
+      "episode_number": "156",
       "episode_url": "https://maximumfun.org/episodes/friendly-fire/duck-soup-1933/",
       "title": "Duck Soup",
       "year": "1933",
@@ -1452,7 +1436,7 @@
       ]
     },
     {
-      "episode_number": null,
+      "episode_number": "135",
       "episode_url": "https://maximumfun.org/episodes/friendly-fire/wargames-1983/",
       "title": "WarGames",
       "year": "1983",
@@ -1759,12 +1743,6 @@
           "type": "subscription",
           "quality": "hd",
           "link": "https://www.peacocktv.com/watch/asset/movies/gladiator/ee0889ae-2fd9-39d5-89c4-141d46a7bf70"
-        },
-        {
-          "service": "hulu",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://www.hulu.com/movie/gladiator-2379bace-e85c-4ca5-9621-63b77ed5f176"
         },
         {
           "service": "paramount",
@@ -4709,12 +4687,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "disney",
-          "type": "subscription",
-          "quality": "uhd",
-          "link": "https://www.disneyplus.com/browse/entity-ef41ef77-de3d-4df4-908c-f33b7bc2c60b"
-        },
-        {
           "service": "apple",
           "type": "buy",
           "quality": "hd",
@@ -4745,6 +4717,12 @@
           "type": "subscription",
           "quality": "sd",
           "link": "https://www.paramountplus.com/movies/video/c2AHD3t22ykRDQgjMAoxNrcvYY2Pg_Q_/"
+        },
+        {
+          "service": "disney",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://www.disneyplus.com/browse/entity-ef41ef77-de3d-4df4-908c-f33b7bc2c60b"
         }
       ]
     },
@@ -6004,16 +5982,16 @@
         {
           "service": "prime",
           "type": "rent",
-          "quality": "sd",
+          "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0O0FQ6SAOIENAXOMZSRQC5VBWN/ref=atv_dp",
-          "price": "USD3.79"
+          "price": "USD3.99"
         },
         {
           "service": "prime",
           "type": "rent",
-          "quality": "hd",
+          "quality": "sd",
           "link": "https://www.amazon.com/gp/video/detail/0O0FQ6SAOIENAXOMZSRQC5VBWN/ref=atv_dp",
-          "price": "USD3.99"
+          "price": "USD3.79"
         },
         {
           "service": "prime",
@@ -7237,12 +7215,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "disney",
-          "type": "subscription",
-          "quality": "uhd",
-          "link": "https://www.disneyplus.com/browse/entity-9a280e53-fcc0-4e17-a02c-b1f40913eb0b"
-        },
-        {
           "service": "prime",
           "type": "addon",
           "quality": "sd",
@@ -7254,6 +7226,12 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0TVOZ32BOZRFNQTVL3KCX2W3DT/ref=atv_dp",
           "price": "USD19.99"
+        },
+        {
+          "service": "disney",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://www.disneyplus.com/browse/entity-9a280e53-fcc0-4e17-a02c-b1f40913eb0b"
         }
       ]
     },
