@@ -171,7 +171,7 @@ table tbody tr:hover td {
 /* Default badge */
 .streaming-badge {
     background: #007bff !important;
-    color: #ffffff !important;
+    color: #000000 !important;
 }
 
 .streaming-badge:hover {
@@ -181,43 +181,43 @@ table tbody tr:hover td {
 }
 
 .streaming-badge:visited {
-    color: #ffffff !important;
+    color: #000000 !important;
 }
 
-/* Service-specific colors */
+/* Service-specific colors with black text */
 .badge-netflix {
     background: #e50914 !important;
-    color: #ffffff !important;
+    color: #000000 !important;
 }
 
 .badge-prime {
     background: #00a8e1 !important;
-    color: #ffffff !important;
+    color: #000000 !important;
 }
 
 .badge-disney {
     background: #113ccf !important;
-    color: #ffffff !important;
+    color: #000000 !important;
 }
 
 .badge-hbo {
     background: #9b59b6 !important;
-    color: #ffffff !important;
+    color: #000000 !important;
 }
 
 .badge-hulu {
     background: #3dbb3d !important;
-    color: #ffffff !important;
+    color: #000000 !important;
 }
 
 .badge-apple {
     background: #1d1d1f !important;
-    color: #ffffff !important;
+    color: #000000 !important;
 }
 
 .badge-paramount {
     background: #0064ff !important;
-    color: #ffffff !important;
+    color: #000000 !important;
 }
 
 .badge-peacock {
