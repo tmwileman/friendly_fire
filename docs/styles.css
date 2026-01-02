@@ -148,90 +148,112 @@ table tbody tr:hover td {
     background: #fafafa !important;
 }
 
-/* Streaming badges */
+/* Streaming badges - COMPLETE RESET */
 .streaming-badges {
     display: flex;
     flex-wrap: wrap;
     gap: 6px;
 }
 
-.streaming-badge {
+/* Base streaming badge with maximum specificity */
+a.streaming-badge,
+a.streaming-badge:link,
+a.streaming-badge:visited,
+a.streaming-badge:hover,
+a.streaming-badge:active {
     display: inline-block !important;
     padding: 6px 12px !important;
     font-size: 11px !important;
     font-weight: 600 !important;
     text-decoration: none !important;
     border-radius: 5px !important;
-    transition: all 0.2s ease !important;
     border: none !important;
     cursor: pointer !important;
     line-height: 1.4 !important;
+    color: #000 !important;
 }
 
-/* Default badge */
-.streaming-badge {
-    background: #007bff !important;
-    color: #000000 !important;
+/* Default blue badge */
+a.streaming-badge {
+    background-color: #007bff !important;
 }
 
-.streaming-badge:hover {
-    transform: translateY(-2px) !important;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2) !important;
-    filter: brightness(1.1) !important;
-    color: #000000 !important;
+a.streaming-badge:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
-.streaming-badge:visited {
-    color: #000000 !important;
+/* Service-specific colors - ALL with black text */
+a.streaming-badge.badge-netflix,
+a.streaming-badge.badge-netflix:link,
+a.streaming-badge.badge-netflix:visited,
+a.streaming-badge.badge-netflix:hover,
+a.streaming-badge.badge-netflix:active {
+    background-color: #e50914 !important;
+    color: #000 !important;
 }
 
-.streaming-badge:link {
-    color: #000000 !important;
+a.streaming-badge.badge-prime,
+a.streaming-badge.badge-prime:link,
+a.streaming-badge.badge-prime:visited,
+a.streaming-badge.badge-prime:hover,
+a.streaming-badge.badge-prime:active {
+    background-color: #00a8e1 !important;
+    color: #000 !important;
 }
 
-.streaming-badge:active {
-    color: #000000 !important;
+a.streaming-badge.badge-disney,
+a.streaming-badge.badge-disney:link,
+a.streaming-badge.badge-disney:visited,
+a.streaming-badge.badge-disney:hover,
+a.streaming-badge.badge-disney:active {
+    background-color: #113ccf !important;
+    color: #000 !important;
 }
 
-/* Service-specific colors with black text */
-.badge-netflix {
-    background: #e50914 !important;
-    color: #000000 !important;
+a.streaming-badge.badge-hbo,
+a.streaming-badge.badge-hbo:link,
+a.streaming-badge.badge-hbo:visited,
+a.streaming-badge.badge-hbo:hover,
+a.streaming-badge.badge-hbo:active {
+    background-color: #9b59b6 !important;
+    color: #000 !important;
 }
 
-.badge-prime {
-    background: #00a8e1 !important;
-    color: #000000 !important;
+a.streaming-badge.badge-hulu,
+a.streaming-badge.badge-hulu:link,
+a.streaming-badge.badge-hulu:visited,
+a.streaming-badge.badge-hulu:hover,
+a.streaming-badge.badge-hulu:active {
+    background-color: #3dbb3d !important;
+    color: #000 !important;
 }
 
-.badge-disney {
-    background: #113ccf !important;
-    color: #000000 !important;
+a.streaming-badge.badge-apple,
+a.streaming-badge.badge-apple:link,
+a.streaming-badge.badge-apple:visited,
+a.streaming-badge.badge-apple:hover,
+a.streaming-badge.badge-apple:active {
+    background-color: #1d1d1f !important;
+    color: #fff !important;
 }
 
-.badge-hbo {
-    background: #9b59b6 !important;
-    color: #000000 !important;
+a.streaming-badge.badge-paramount,
+a.streaming-badge.badge-paramount:link,
+a.streaming-badge.badge-paramount:visited,
+a.streaming-badge.badge-paramount:hover,
+a.streaming-badge.badge-paramount:active {
+    background-color: #0064ff !important;
+    color: #000 !important;
 }
 
-.badge-hulu {
-    background: #3dbb3d !important;
-    color: #000000 !important;
-}
-
-.badge-apple {
-    background: #1d1d1f !important;
-    color: #ffffff !important;
-}
-
-.badge-paramount {
-    background: #0064ff !important;
-    color: #000000 !important;
-}
-
-.badge-peacock {
-    background: #000000 !important;
-    color: #ffffff !important;
+a.streaming-badge.badge-peacock,
+a.streaming-badge.badge-peacock:link,
+a.streaming-badge.badge-peacock:visited,
+a.streaming-badge.badge-peacock:hover,
+a.streaming-badge.badge-peacock:active {
+    background-color: #000 !important;
+    color: #fff !important;
 }
 
 .no-streaming {
