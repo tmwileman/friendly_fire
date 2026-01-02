@@ -136,6 +136,11 @@ class EpisodeDataCleaner:
         else:
             df['year'] = None
 
+        # Remove "Episode XX:" prefix from episode names
+        # Format: "Episode 64: Predator" -> "Predator"
+        if 'episode' in df.columns:
+            df['episode'] = df['episode'].str.replace(r'^Episode\s+\d+:\s*', '', regex=True, case=False)
+
         return df
 
     def _filter_invalid_episodes(self, df: pd.DataFrame) -> pd.DataFrame:
