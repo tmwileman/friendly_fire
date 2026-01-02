@@ -152,34 +152,78 @@ table tbody tr:hover td {
 .streaming-badges {
     display: flex;
     flex-wrap: wrap;
-    gap: 4px;
+    gap: 6px;
 }
 
 .streaming-badge {
-    display: inline-block;
-    padding: 5px 10px;
-    font-size: 11px;
-    background: #007bff;
-    color: white !important;
-    text-decoration: none;
-    border-radius: 4px;
-    font-weight: 600;
-    transition: transform 0.2s, box-shadow 0.2s;
+    display: inline-block !important;
+    padding: 6px 12px !important;
+    font-size: 11px !important;
+    font-weight: 600 !important;
+    text-decoration: none !important;
+    border-radius: 5px !important;
+    transition: all 0.2s ease !important;
+    border: none !important;
+    cursor: pointer !important;
+    line-height: 1.4 !important;
+}
+
+/* Default badge */
+.streaming-badge {
+    background: #007bff !important;
+    color: #ffffff !important;
 }
 
 .streaming-badge:hover {
-    transform: translateY(-1px);
-    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    transform: translateY(-2px) !important;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2) !important;
+    filter: brightness(1.1) !important;
 }
 
-.badge-netflix { background: #e50914; }
-.badge-prime { background: #00a8e1; }
-.badge-disney { background: #113ccf; }
-.badge-hbo { background: #9b59b6; }
-.badge-hulu { background: #3dbb3d; }
-.badge-apple { background: #1d1d1f; }
-.badge-paramount { background: #0064ff; }
-.badge-peacock { background: #000000; }
+.streaming-badge:visited {
+    color: #ffffff !important;
+}
+
+/* Service-specific colors */
+.badge-netflix {
+    background: #e50914 !important;
+    color: #ffffff !important;
+}
+
+.badge-prime {
+    background: #00a8e1 !important;
+    color: #ffffff !important;
+}
+
+.badge-disney {
+    background: #113ccf !important;
+    color: #ffffff !important;
+}
+
+.badge-hbo {
+    background: #9b59b6 !important;
+    color: #ffffff !important;
+}
+
+.badge-hulu {
+    background: #3dbb3d !important;
+    color: #ffffff !important;
+}
+
+.badge-apple {
+    background: #1d1d1f !important;
+    color: #ffffff !important;
+}
+
+.badge-paramount {
+    background: #0064ff !important;
+    color: #ffffff !important;
+}
+
+.badge-peacock {
+    background: #000000 !important;
+    color: #ffffff !important;
+}
 
 .no-streaming {
     color: #999;
