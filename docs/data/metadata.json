@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-01-02T16:56:47.126495Z",
-  "last_updated_readable": "January 02, 2026 at 16:56 UTC",
+  "last_updated": "2026-01-02T20:51:08.312578Z",
+  "last_updated_readable": "January 02, 2026 at 20:51 UTC",
   "statistics": {
     "total_movies": 169,
-    "successful_omdb_queries": 169,
+    "successful_omdb_queries": 88,
     "successful_streaming_queries": 0,
-    "omdb_success_rate": "100.0%",
+    "omdb_success_rate": "52.1%",
     "streaming_success_rate": "0.0%"
   },
   "data_sources": {
