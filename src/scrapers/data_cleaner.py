@@ -27,12 +27,13 @@ class EpisodeDataCleaner:
         """Initialize the data cleaner."""
         pass
 
-    def clean_episodes(self, raw_episodes: List[Dict[str, str]]) -> pd.DataFrame:
+    def clean_episodes(self, raw_episodes: List[Dict[str, str]], fetch_detail_pages: bool = True) -> pd.DataFrame:
         """
         Clean and parse raw episode data into structured DataFrame.
 
         Args:
             raw_episodes: List of dictionaries with 'raw_title', 'episode_url' keys
+            fetch_detail_pages: If True, fetch episode numbers from detail pages when missing
 
         Returns:
             pandas DataFrame with columns: number, episode, year, movie_year, episode_url
@@ -77,6 +78,10 @@ class EpisodeDataCleaner:
 
         # Drop rows with missing critical data
         df = df.dropna(subset=['episode', 'year'])
+
+        # Fetch episode numbers from detail pages if requested
+        if fetch_detail_pages:
+            df = self._fetch_missing_episode_numbers(df)
 
         if df.empty:
             raise ValueError("No valid episodes found after cleaning")
@@ -221,6 +226,54 @@ class EpisodeDataCleaner:
         # Create combined movie-year field for OMDB searching
         if 'episode_normalized' in df.columns and 'year' in df.columns:
             df['movie_year'] = df['episode_normalized'] + df['year'].astype(str)
+
+        return df
+
+    def _fetch_missing_episode_numbers(self, df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Fetch episode numbers from detail pages for episodes that don't have them.
+
+        Args:
+            df: DataFrame with episode data
+
+        Returns:
+            DataFrame with episode numbers filled in from detail pages
+        """
+        from .maximumfun_scraper import MaximumFunScraper
+
+        df = df.copy()
+
+        # Find episodes without numbers
+        missing_numbers_mask = df['number'].isna()
+        missing_count = missing_numbers_mask.sum()
+
+        if missing_count == 0:
+            logger.info("All episodes already have episode numbers")
+            return df
+
+        logger.info(f"Fetching episode numbers from detail pages for {missing_count} episodes")
+
+        with MaximumFunScraper() as scraper:
+            for idx in df[missing_numbers_mask].index:
+                episode_url = df.loc[idx, 'episode_url']
+                episode_title = df.loc[idx, 'episode']
+
+                if pd.notna(episode_url):
+                    logger.info(f"Fetching episode number for: {episode_title}")
+                    episode_number = scraper.get_episode_number_from_detail(episode_url)
+
+                    if episode_number:
+                        df.loc[idx, 'number'] = episode_number
+                        logger.info(f"  -> Found episode number: {episode_number}")
+                    else:
+                        logger.warning(f"  -> No episode number found on detail page")
+
+                    # Be polite: small delay between requests
+                    from time import sleep
+                    sleep(0.5)
+
+        filled_count = missing_count - df['number'].isna().sum()
+        logger.info(f"Successfully filled {filled_count}/{missing_count} missing episode numbers")
 
         return df
 

@@ -3,6 +3,7 @@ Scraper for Maximum Fun podcast website to extract Friendly Fire episodes.
 """
 
 import logging
+import re
 from time import sleep
 from random import uniform
 from typing import List, Dict, Optional
@@ -125,6 +126,50 @@ class MaximumFunScraper:
             else:
                 logger.error(f"Failed to scrape page {page_num} after {self.MAX_RETRIES} retries: {e}")
                 raise
+
+    def get_episode_number_from_detail(self, episode_url: str, retry_count: int = 0) -> Optional[str]:
+        """
+        Fetch episode number from individual episode detail page.
+
+        Args:
+            episode_url: URL of the episode detail page
+            retry_count: Current retry attempt
+
+        Returns:
+            Episode number as string, or None if not found
+        """
+        if not episode_url:
+            return None
+
+        try:
+            logger.debug(f"Fetching episode number from detail page: {episode_url}")
+            response = self.session.get(episode_url, timeout=10)
+            response.raise_for_status()
+
+            soup = BeautifulSoup(response.text, 'html.parser')
+
+            # Look for <h3>Episode XXX</h3> tags
+            for h3 in soup.find_all('h3'):
+                text = h3.get_text().strip()
+                match = re.search(r'Episode\s+(\d+)', text, re.IGNORECASE)
+                if match:
+                    episode_number = match.group(1)
+                    logger.debug(f"Found episode number {episode_number} on detail page")
+                    return episode_number
+
+            logger.debug(f"No episode number found on detail page: {episode_url}")
+            return None
+
+        except requests.RequestException as e:
+            if retry_count < self.MAX_RETRIES:
+                logger.warning(
+                    f"Error fetching detail page (attempt {retry_count + 1}/{self.MAX_RETRIES}): {e}"
+                )
+                sleep(self.RETRY_DELAY * (retry_count + 1))
+                return self.get_episode_number_from_detail(episode_url, retry_count + 1)
+            else:
+                logger.error(f"Failed to fetch detail page after {self.MAX_RETRIES} retries: {e}")
+                return None
 
     def close(self):
         """Close the requests session."""
