@@ -136,6 +136,15 @@ class EpisodeDataCleaner:
         else:
             df['year'] = None
 
+        # Extract episode number from title BEFORE removing the prefix
+        # This captures episode numbers that aren't from TRANSCRIPT entries
+        # Format: "Ep 125: Movie" -> number = "125"
+        if 'episode' in df.columns and 'number' in df.columns:
+            # Only extract if number is not already set (from TRANSCRIPT mapping)
+            mask = df['number'].isna()
+            extracted_numbers = df.loc[mask, 'episode'].str.extract(r'^(?:Episode|Ep\.?)[\s:]+(\d+)[\s:]', expand=False)
+            df.loc[mask, 'number'] = extracted_numbers
+
         # Remove "Episode XX:", "Ep XX:", "Ep. XX:", "Ep: XX", "Episode XX" prefix from episode names
         # Format: "Episode 64: Predator" -> "Predator"
         # Format: "Ep 127: Megan Leavey" -> "Megan Leavey"
