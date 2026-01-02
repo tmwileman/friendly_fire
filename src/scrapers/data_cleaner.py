@@ -21,6 +21,7 @@ class EpisodeDataCleaner:
         'Bonus',
         'Live Show',
         'Special',
+        'Over and Out',
     ]
 
     def __init__(self):
