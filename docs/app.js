@@ -43,6 +43,9 @@ async function loadMovieData() {
         // Update statistics
         updateStatistics(data);
 
+        // Render filters based on available data
+        renderServiceFilters(getAvailableSubscriptionServices());
+
         // Load metadata
         loadMetadata();
 
@@ -157,6 +160,32 @@ function initializeTable() {
     });
 }
 
+// Render subscription service filters
+function renderServiceFilters(services) {
+    const container = $('#service-filters');
+    container.empty();
+
+    if (!services || services.length === 0) {
+        container.append('<span class="service-empty">No subscription services available.</span>');
+        $('#clear-service-filters').prop('disabled', true);
+        return;
+    }
+
+    services.forEach(serviceKey => {
+        const label = serviceNames[serviceKey] || formatServiceLabel(serviceKey);
+        const inputId = `service-${serviceKey}`;
+        const option = `
+            <label class="service-option" for="${inputId}">
+                <input type="checkbox" id="${inputId}" value="${serviceKey}">
+                <span>${label}</span>
+            </label>
+        `;
+        container.append(option);
+    });
+
+    $('#clear-service-filters').prop('disabled', false);
+}
+
 // Format episode number with link
 function formatEpisodeNumber(episodeNum, episodeUrl) {
     if (!episodeNum) {
@@ -232,32 +261,80 @@ function formatLinks(imdbUrl, imdbId) {
 
 // Setup event listeners
 function setupEventListeners() {
-    // Service filter
-    $('#service-filter').on('change', function() {
-        const selectedService = $(this).val();
-        filterByService(selectedService);
+    registerServiceFilter();
+
+    $('#service-filters').on('change', 'input[type="checkbox"]', function() {
+        applyServiceFilters();
+    });
+
+    $('#clear-service-filters').on('click', function() {
+        $('#service-filters input[type="checkbox"]').prop('checked', false);
+        applyServiceFilters();
     });
 }
 
-// Filter table by streaming service
-function filterByService(service) {
+// Apply subscription service filters
+function applyServiceFilters() {
     if (!dataTable) return;
-
-    if (!service) {
-        // Clear filter
-        dataTable.search('').draw();
-        return;
-    }
-
-    // Search in the "Where to Watch" column (index 4)
-    dataTable.column(4).search(serviceNames[service] || service, true, false).draw();
+    dataTable.draw();
 }
 
-// Helper function to get streaming service from movie
-function hasStreamingService(movie, service) {
-    if (!movie.streaming_options) return false;
+function getSelectedServices() {
+    return $('#service-filters input[type="checkbox"]:checked')
+        .map((_, input) => $(input).val())
+        .get();
+}
 
-    return movie.streaming_options.some(option =>
-        option.service.toLowerCase() === service.toLowerCase()
-    );
+function isSubscriptionOption(option) {
+    const optionType = option.type || 'subscription';
+    return optionType === 'subscription';
+}
+
+function formatServiceLabel(serviceKey) {
+    return serviceKey
+        .split('_')
+        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(' ');
+}
+
+function getAvailableSubscriptionServices() {
+    const services = new Set();
+
+    moviesData.forEach(movie => {
+        (movie.streaming_options || []).forEach(option => {
+            if (option.service && isSubscriptionOption(option)) {
+                services.add(option.service);
+            }
+        });
+    });
+
+    return Array.from(services).sort((a, b) => {
+        const labelA = serviceNames[a] || formatServiceLabel(a);
+        const labelB = serviceNames[b] || formatServiceLabel(b);
+        return labelA.localeCompare(labelB);
+    });
+}
+
+function registerServiceFilter() {
+    $.fn.dataTable.ext.search.push((settings, data, dataIndex) => {
+        if (!dataTable || settings.nTable !== dataTable.table().node()) {
+            return true;
+        }
+
+        const selectedServices = getSelectedServices();
+        if (selectedServices.length === 0) {
+            return true;
+        }
+
+        const movie = moviesData[dataIndex];
+        if (!movie || !movie.streaming_options) {
+            return false;
+        }
+
+        return movie.streaming_options.some(option =>
+            option.service &&
+            selectedServices.includes(option.service) &&
+            isSubscriptionOption(option)
+        );
+    });
 }

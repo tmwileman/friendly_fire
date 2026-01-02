@@ -79,7 +79,67 @@ header h1 {
 
 /* Filters */
 .filters {
-    display: none;
+    background: white;
+    padding: 15px 30px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.filter-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    gap: 12px;
+}
+
+.filter-label {
+    font-weight: 600;
+    color: #333;
+}
+
+.filter-clear {
+    border: 1px solid #ddd;
+    background: #f8f8f8;
+    border-radius: 4px;
+    padding: 6px 12px;
+    font-size: 12px;
+    color: #333;
+    cursor: pointer;
+}
+
+.filter-clear:disabled {
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+.filter-clear:hover {
+    border-color: #007bff;
+    color: #007bff;
+}
+
+.service-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 16px;
+}
+
+.service-option {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13px;
+    color: #333;
+}
+
+.service-option input {
+    accent-color: #007bff;
+}
+
+.service-empty {
+    color: #6b7280;
+    font-size: 13px;
 }
 
 /* Loading/Error */
@@ -399,7 +459,7 @@ footer a:hover {
         padding: 10px;
     }
 
-    header, .statistics, #table-container, footer {
+    header, .statistics, .filters, #table-container, footer {
         padding: 15px;
     }
 
@@ -410,6 +470,11 @@ footer a:hover {
     .stat-card {
         display: block;
         margin-bottom: 10px;
+    }
+
+    .filter-header {
+        flex-direction: column;
+        align-items: flex-start;
     }
 
     table {
