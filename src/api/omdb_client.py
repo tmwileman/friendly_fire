@@ -79,12 +79,20 @@ class OMDBClient:
         if year:
             search_strategies.append((title, None))
 
-        # Try with cleaned title (remove extra spaces, special chars)
+        # Try with cleaned title (remove extra spaces)
         cleaned_title = ' '.join(title.split())  # Normalize whitespace
         if cleaned_title != title:
             search_strategies.append((cleaned_title, year))
             if year:
                 search_strategies.append((cleaned_title, None))
+
+        # Try adding back apostrophes for possessives (if title has "s " pattern)
+        # This handles "Devil s Own" -> "Devil's Own"
+        if " s " in title.lower() and "'" not in title:
+            title_with_apostrophes = title.replace(" s ", "'s ")
+            search_strategies.append((title_with_apostrophes, year))
+            if year:
+                search_strategies.append((title_with_apostrophes, None))
 
         result = None
         for search_title, search_year in search_strategies:
