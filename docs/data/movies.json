@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-02T01:11:22.357904Z",
+  "last_updated": "2026-01-02T14:43:27.605554Z",
   "total_movies": 169,
   "movies": [
     {
@@ -72,6 +72,107 @@
     {
       "episode_number": "155",
       "episode_url": "https://maximumfun.org/episodes/friendly-fire/operation-amsterdam-1959/",
+      "title": "Operation Amsterdam",
+      "year": "1959",
+      "imdb_id": "tt0053140",
+      "imdb_rating": "6.5",
+      "imdb_votes": "913",
+      "imdb_url": "https://www.imdb.com/title/tt0053140",
+      "runtime": "104 min",
+      "genre": "Drama, History, War",
+      "director": "Michael McCarthy",
+      "plot": "When Germany invades Holland in 1940, a British intelligence officer and two Dutch diamond merchants go to Amsterdam to persuade the Dutch diamond merchants to evacuate their diamond supplies to England.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTJhOTA5MjItOGRlYy00ZDQ0LWFmOTQtMTI0MzU3MDU4YWYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B07HSLS16M/ref=atv_dp",
+          "price": "USD2.99"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B07HSLS16M/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B07HSLS16M/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B07HSLS16M/ref=atv_dp",
+          "price": "USD7.99"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B0F4BJGPCG/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B0F4BJGPCG/ref=atv_dp",
+          "price": "USD2.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B0F4BJGPCG/ref=atv_dp",
+          "price": "USD7.99"
+        },
+        {
+          "service": "prime",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B0F4BJGPCG/ref=atv_dp"
+        },
+        {
+          "service": "tubi",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://tubitv.com/movies/100006339/operation-amsterdam"
+        },
+        {
+          "service": "prime",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B0F4BJGPCG/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B0F4BJGPCG/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B0F4BJGPCG/ref=atv_dp",
+          "price": "USD2.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B0F4BJGPCG/ref=atv_dp",
+          "price": "USD7.99"
+        }
+      ]
+    },
+    {
+      "episode_number": "154",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/a-midnight-clear-1992/",
       "title": "A Midnight Clear",
       "year": "1992",
       "imdb_id": "tt0102443",
@@ -154,8 +255,51 @@
       ]
     },
     {
-      "episode_number": "154",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/a-midnight-clear-1992/",
+      "episode_number": "153",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/attack-1956/",
+      "title": "Attack",
+      "year": "1956",
+      "imdb_id": "tt0048966",
+      "imdb_rating": "7.4",
+      "imdb_votes": "6,042",
+      "imdb_url": "https://www.imdb.com/title/tt0048966",
+      "runtime": "107 min",
+      "genre": "Action, Drama, War",
+      "director": "Robert Aldrich",
+      "plot": "In 1944, an American Infantry company sets up an artillery observation post, but tensions between Captain Cooney and Lieutenant Costa run high.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzRkZGYwZWYtNDVlMy00YTkzLTg2ZTEtM2E4MGUxODBjMjUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/attack/umc.cmc.7jd3b0sdd5v7gv2s6ic3oacdh"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/attack/umc.cmc.7jd3b0sdd5v7gv2s6ic3oacdh",
+          "price": "USD3.99"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/attack/umc.cmc.7jd3b0sdd5v7gv2s6ic3oacdh",
+          "price": "USD14.99"
+        },
+        {
+          "service": "tubi",
+          "type": "free",
+          "quality": "hd",
+          "link": "https://tubitv.com/movies/310120/attack"
+        }
+      ]
+    },
+    {
+      "episode_number": "152",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/troy-2004-directors-cut/",
       "title": "Troy",
       "year": "2004",
       "imdb_id": "tt0332452",
@@ -224,8 +368,72 @@
       ]
     },
     {
-      "episode_number": "153",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/attack-1956/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/boco/",
+      "title": "Ronin",
+      "year": "1998",
+      "imdb_id": "tt0122690",
+      "imdb_rating": "7.2",
+      "imdb_votes": "204,446",
+      "imdb_url": "https://www.imdb.com/title/tt0122690",
+      "runtime": "122 min",
+      "genre": "Action, Crime, Thriller",
+      "director": "John Frankenheimer",
+      "plot": "A freelancing former U.S. intelligence agent tries to track down a mysterious package that's wanted by both the Irish and the Russian governments.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzU0MDEwOGMtZWFlMy00ZjllLWFmMWQtYWIxN2M1YmU5ZWQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/ronin/umc.cmc.50z86u9tpbb3ni7q7r78yrra?playableId=tvs.sbd.9001%3A220257443",
+          "price": "USD3.99"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/ronin/umc.cmc.50z86u9tpbb3ni7q7r78yrra?playableId=tvs.sbd.9001%3A220257443",
+          "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0GOAXLOV1HBFEH6UHBZNYFYU3U/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0GOAXLOV1HBFEH6UHBZNYFYU3U/ref=atv_dp",
+          "price": "USD2.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0GOAXLOV1HBFEH6UHBZNYFYU3U/ref=atv_dp",
+          "price": "USD14.69"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/59014216a1041ca52b5ab634/details"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/610c5422bd1d980013adec45/details"
+        }
+      ]
+    },
+    {
+      "episode_number": "151",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/in-the-army-now-1994/",
       "title": "In the Army Now",
       "year": "1994",
       "imdb_id": "tt0110123",
@@ -283,8 +491,95 @@
       ]
     },
     {
-      "episode_number": "152",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/troy-2004-directors-cut/",
+      "episode_number": "150",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/battleship-potemkin-1925/",
+      "title": "Battleship Potemkin",
+      "year": "1925",
+      "imdb_id": "tt0015648",
+      "imdb_rating": "7.9",
+      "imdb_votes": "63,373",
+      "imdb_url": "https://www.imdb.com/title/tt0015648",
+      "runtime": "66 min",
+      "genre": "Drama, History, Thriller",
+      "director": "Sergei Eisenstein",
+      "plot": "In the midst of the Russian Revolution of 1905, the crew of the battleship Potemkin mutiny against the brutal, tyrannical regime of the vessel's officers. The resulting street demonstration in Odessa brings on a police massacre.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmY5ZGQwMTEtM2E0ZC00NzVkLTgyYzktZDYxMjhiMzA5N2MzXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B002Q7DF66/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B002Q7DF66/ref=atv_dp",
+          "price": "USD13.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B002Q7DF66/ref=atv_dp",
+          "price": "USD2.99"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B0CH1K8HRC/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0KRD5Q2AU17ST2PLVSRKEBZA8P/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0KRD5Q2AU17ST2PLVSRKEBZA8P/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0KRD5Q2AU17ST2PLVSRKEBZA8P/ref=atv_dp",
+          "price": "USD11.99"
+        },
+        {
+          "service": "hulu",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://www.hulu.com/movie/the-battleship-potemkin-b5011a12-ef62-408c-89b1-0dbe589a1061"
+        },
+        {
+          "service": "tubi",
+          "type": "free",
+          "quality": "hd",
+          "link": "https://tubitv.com/movies/100014280/battleship-potemkin"
+        },
+        {
+          "service": "hbo",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://play.hbomax.com/movie/e9d04fc6-9962-47f8-8b7d-746eeacc905d"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0K8H1HYTOA48D289D0UC12SAZD/ref=atv_dp"
+        }
+      ]
+    },
+    {
+      "episode_number": "149",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/age-of-heroes-2011/",
       "title": "Age of Heroes",
       "year": "2011",
       "imdb_id": "tt1590950",
@@ -347,8 +642,8 @@
       ]
     },
     {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/boco/",
+      "episode_number": "148",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/exodus-1960/",
       "title": "Exodus",
       "year": "1960",
       "imdb_id": "tt0053804",
@@ -404,8 +699,59 @@
       ]
     },
     {
-      "episode_number": "151",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/in-the-army-now-1994/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/boco/",
+      "title": "Overlord",
+      "year": "2018",
+      "imdb_id": "tt4530422",
+      "imdb_rating": "6.6",
+      "imdb_votes": "112,163",
+      "imdb_url": "https://www.imdb.com/title/tt4530422",
+      "runtime": "110 min",
+      "genre": "Action, Horror, Sci-Fi",
+      "director": "Julius Avery",
+      "plot": "A small group of American soldiers find horror behind enemy lines on the eve of D-Day.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzVmZWZjZjEtNDk2OC00ZDUxLTg5NzktYWJhZTJiYTlkMzhmXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/overlord/umc.cmc.3gw4mef0x15dqpbcvbqjx76dr?playableId=tvs.sbd.9001%3A1439493396",
+          "price": "USD14.99"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/overlord/umc.cmc.3gw4mef0x15dqpbcvbqjx76dr?playableId=tvs.sbd.9001%3A1439493396",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0NHBI68CA3QX7IVM309HCEJVZD/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0NHBI68CA3QX7IVM309HCEJVZD/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0NHBI68CA3QX7IVM309HCEJVZD/ref=atv_dp",
+          "price": "USD16.99"
+        }
+      ]
+    },
+    {
+      "episode_number": "147",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/the-sea-wolves-1980/",
       "title": "The Sea Wolves",
       "year": "1980",
       "imdb_id": "tt0081470",
@@ -435,10 +781,99 @@
       ]
     },
     {
-      "episode_number": "150",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/battleship-potemkin-1925/",
-      "title": "Battleship Potemkin",
-      "year": "1925",
+      "episode_number": "146",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/the-secret-invasion-1964/",
+      "title": "The Secret Invasion",
+      "year": "1964",
+      "imdb_id": "tt0058561",
+      "imdb_rating": "5.9",
+      "imdb_votes": "1,348",
+      "imdb_url": "https://www.imdb.com/title/tt0058561",
+      "runtime": "95 min",
+      "genre": "Action, Drama, History",
+      "director": "Roger Corman",
+      "plot": "In 1943, a group of hardened criminals is pardoned on the condition it accepts a mission to free a captive Italian general from the clutches of the Nazis.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDZkZmY4ZTktZDQ0NC00N2UyLTk3MzgtMWNhNDI0NzBjZTdmXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/the-secret-invasion/umc.cmc.45zsev7chjfaebprn2barx7i9?playableId=tvs.sbd.9001%3A859892698",
+          "price": "USD12.99"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/the-secret-invasion/umc.cmc.45zsev7chjfaebprn2barx7i9?playableId=tvs.sbd.9001%3A859892698",
+          "price": "USD3.99"
+        },
+        {
+          "service": "apple",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/the-secret-invasion/umc.cmc.45zsev7chjfaebprn2barx7i9?playableId=tvs.sbd.1000185%3AMV000060720000"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B0B8TMC3MH/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B00950Z8F8/ref=atv_dp",
+          "price": "USD6.49"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B00950Z8F8/ref=atv_dp",
+          "price": "USD9.99"
+        },
+        {
+          "service": "tubi",
+          "type": "free",
+          "quality": "hd",
+          "link": "https://tubitv.com/movies/306947/the-secret-invasion"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0PCXONFRVXVNMXIVKI19B3LXUW/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0PCXONFRVXVNMXIVKI19B3LXUW/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0PCXONFRVXVNMXIVKI19B3LXUW/ref=atv_dp",
+          "price": "USD12.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0PCXONFRVXVNMXIVKI19B3LXUW/ref=atv_dp",
+          "price": "USD3.99"
+        }
+      ]
+    },
+    {
+      "episode_number": "145",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/the-devils-own-1997/",
+      "title": "The Devil’s Own",
+      "year": "1997",
       "imdb_id": null,
       "imdb_rating": "N/A",
       "imdb_votes": "N/A",
@@ -451,8 +886,60 @@
       "streaming_options": []
     },
     {
-      "episode_number": "149",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/age-of-heroes-2011/",
+      "episode_number": "144",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/thirteen-days-2000/",
+      "title": "Thirteen Days",
+      "year": "2000",
+      "imdb_id": "tt0146309",
+      "imdb_rating": "7.3",
+      "imdb_votes": "63,884",
+      "imdb_url": "https://www.imdb.com/title/tt0146309",
+      "runtime": "145 min",
+      "genre": "Drama, History, Thriller",
+      "director": "Roger Donaldson",
+      "plot": "In October 1962, the Kennedy administration struggles to contain the Cuban Missile Crisis.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzBlY2E0MDctZmMwYS00ZThkLTg2ZTEtMDgyZmI5NGIzODk0XkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0G0WDGIH1FGKN5ZMQG857MCC7V/ref=atv_dp",
+          "price": "USD7.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0G0WDGIH1FGKN5ZMQG857MCC7V/ref=atv_dp",
+          "price": "USD4.29"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0G0WDGIH1FGKN5ZMQG857MCC7V/ref=atv_dp",
+          "price": "USD3.79"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/thirteen-days/umc.cmc.43qlbw45xmaceti56ik8xlv2f?playableId=tvs.sbd.9001%3A653326503",
+          "price": "USD3.99"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/thirteen-days/umc.cmc.43qlbw45xmaceti56ik8xlv2f?playableId=tvs.sbd.9001%3A653326503",
+          "price": "USD12.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/boco/",
       "title": "Dune",
       "year": "1984",
       "imdb_id": "tt0087182",
@@ -482,8 +969,77 @@
       ]
     },
     {
-      "episode_number": "148",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/exodus-1960/",
+      "episode_number": "143",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/flight-of-the-intruder-1991/",
+      "title": "Flight of the Intruder",
+      "year": "1991",
+      "imdb_id": "tt0099587",
+      "imdb_rating": "5.8",
+      "imdb_votes": "8,176",
+      "imdb_url": "https://www.imdb.com/title/tt0099587",
+      "runtime": "115 min",
+      "genre": "Action, Drama, Thriller",
+      "director": "John Milius",
+      "plot": "During the air war over Vietnam, a U.S. Navy A-6 Intruder bomber pilot schemes with a hardened veteran to make an unauthorized air strike on Hanoi.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjQ5NTYwYzYtNDRlYi00N2NiLWExZTctODNmZDJkMTYxZjVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/B003UOD8BG/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B003UOD8BG/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B003UOD8BG/ref=atv_dp"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/flight-of-the-intruder/umc.cmc.2jcnlv0fqyea700o4x3yt7a59?playableId=tvs.sbd.9001%3A359032283",
+          "price": "USD4.99"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/flight-of-the-intruder/umc.cmc.2jcnlv0fqyea700o4x3yt7a59?playableId=tvs.sbd.9001%3A359032283",
+          "price": "USD3.99"
+        },
+        {
+          "service": "apple",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://tv.apple.com/us/movie/flight-of-the-intruder/umc.cmc.2jcnlv0fqyea700o4x3yt7a59"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/B003UOD8BG/ref=atv_dp",
+          "price": "USD9.99"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B003UOD8BG/ref=atv_dp"
+        }
+      ]
+    },
+    {
+      "episode_number": "142",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/jakob-the-liar-1999/",
       "title": "Jakob the Liar",
       "year": "1999",
       "imdb_id": "tt0120716",
@@ -526,8 +1082,8 @@
       ]
     },
     {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/boco/",
+      "episode_number": "141",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/lone-survivor-2013/",
       "title": "Lone Survivor",
       "year": "2013",
       "imdb_id": "tt1091191",
@@ -557,8 +1113,45 @@
       ]
     },
     {
-      "episode_number": "147",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/the-sea-wolves-1980/",
+      "episode_number": "140",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/dead-presidents-1995/",
+      "title": "Dead Presidents",
+      "year": "1995",
+      "imdb_id": "tt0112819",
+      "imdb_rating": "6.9",
+      "imdb_votes": "25,879",
+      "imdb_url": "https://www.imdb.com/title/tt0112819",
+      "runtime": "119 min",
+      "genre": "Action, Crime, Drama",
+      "director": "Albert Hughes, Allen Hughes",
+      "plot": "A Vietnam vet adjusts to life after the war while trying to support his family, but the chance of a better life may involve crime and bloodshed.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTUzZTczZGItNjY4My00YTIyLTgyODYtNjFmNDY2ZWJlNTlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0FSC59Y8GXDA8XTLPB983FCWZK/ref=atv_dp",
+          "price": "USD3.79"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0FSC59Y8GXDA8XTLPB983FCWZK/ref=atv_dp",
+          "price": "USD4.99"
+        },
+        {
+          "service": "tubi",
+          "type": "free",
+          "quality": "hd",
+          "link": "https://tubitv.com/movies/563040/dead-presidents"
+        }
+      ]
+    },
+    {
+      "episode_number": "139",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/path-to-war-2002/",
       "title": "Path to War",
       "year": "2002",
       "imdb_id": "tt0218505",
@@ -607,8 +1200,39 @@
       ]
     },
     {
-      "episode_number": "146",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/the-secret-invasion-1964/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/boco/",
+      "title": "Syriana",
+      "year": "2005",
+      "imdb_id": "tt0365737",
+      "imdb_rating": "6.9",
+      "imdb_votes": "137,505",
+      "imdb_url": "https://www.imdb.com/title/tt0365737",
+      "runtime": "128 min",
+      "genre": "Drama, Thriller",
+      "director": "Stephen Gaghan",
+      "plot": "A politically charged epic about the state of the oil industry in the hands of those personally involved in and affected by it.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWQ0YmNiYjUtODg0NS00YjNkLWJhOTktOGMxNTdmYTM0ZmMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0QX0P4VRTNPGQN5Z0OGMQ5B75H/ref=atv_dp",
+          "price": "USD4.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0QX0P4VRTNPGQN5Z0OGMQ5B75H/ref=atv_dp",
+          "price": "USD3.79"
+        }
+      ]
+    },
+    {
+      "episode_number": "138",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/mulan-1998/",
       "title": "Mulan",
       "year": "1998",
       "imdb_id": "tt0120762",
@@ -637,8 +1261,65 @@
       ]
     },
     {
-      "episode_number": "145",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/the-devils-own-1997/",
+      "episode_number": "137",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/greyhound-2020/",
+      "title": "Greyhound",
+      "year": "2020",
+      "imdb_id": "tt6048922",
+      "imdb_rating": "7.0",
+      "imdb_votes": "129,805",
+      "imdb_url": "https://www.imdb.com/title/tt6048922",
+      "runtime": "91 min",
+      "genre": "Drama, History, War",
+      "director": "Aaron Schneider",
+      "plot": "Several months after the U.S. entry into World War II, an inexperienced U.S. Navy commander must lead an Allied convoy being stalked by a German submarine wolf pack.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTU3YzY0NjktMmRhMC00MzYyLWI0YmUtZGJkMzJjMWYwZDZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://tv.apple.com/us/movie/greyhound/umc.cmc.o5z5ztufuu3uv8lx7m0jcega?playableId=tvs.sbd.4000%3AVGREY0560101"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/greyhound/umc.cmc.o5z5ztufuu3uv8lx7m0jcega?playableId=tvs.sbd.9001%3A1805971117",
+          "price": "USD7.99"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/greyhound/umc.cmc.o5z5ztufuu3uv8lx7m0jcega?playableId=tvs.sbd.9001%3A1805971117",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0S3031CPPUTBEK0WB3Y3EZRZJE/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0S3031CPPUTBEK0WB3Y3EZRZJE/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0S3031CPPUTBEK0WB3Y3EZRZJE/ref=atv_dp",
+          "price": "USD7.99"
+        }
+      ]
+    },
+    {
+      "episode_number": "135",
+      "episode_url": "https://maximumfun.org/boco/",
       "title": "WarGames",
       "year": "1983",
       "imdb_id": "tt0086567",
@@ -707,8 +1388,45 @@
       ]
     },
     {
-      "episode_number": "144",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/thirteen-days-2000/",
+      "episode_number": "136",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/the-great-raid-2005/",
+      "title": "The Great Raid",
+      "year": "2005",
+      "imdb_id": "tt0326905",
+      "imdb_rating": "6.6",
+      "imdb_votes": "24,791",
+      "imdb_url": "https://www.imdb.com/title/tt0326905",
+      "runtime": "132 min",
+      "genre": "Action, Drama, War",
+      "director": "John Dahl",
+      "plot": "Taking place towards the end of WWII, 500 American Soldiers have been entrapped in a camp for 3 years. Beginning to give up hope they will ever be rescued, a group of Rangers goes on a dangerous mission to try and save them.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODI3Nl5BMl5BanBnXkFtZTcwNjA1NzAzMQ@@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0PM4PVFEBMP1S3BUM20ABXMZCN/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0PM4PVFEBMP1S3BUM20ABXMZCN/ref=atv_dp",
+          "price": "USD3.79"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0PM4PVFEBMP1S3BUM20ABXMZCN/ref=atv_dp",
+          "price": "USD12.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/wargames-1983/",
       "title": "WarGames",
       "year": "1983",
       "imdb_id": "tt0086567",
@@ -847,8 +1565,51 @@
       ]
     },
     {
-      "episode_number": "143",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/flight-of-the-intruder-1991/",
+      "episode_number": "134",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/the-admiral-roaring-currents-2014/",
+      "title": "The Admiral: Roaring Currents",
+      "year": "2014",
+      "imdb_id": "tt3541262",
+      "imdb_rating": "7.1",
+      "imdb_votes": "13,484",
+      "imdb_url": "https://www.imdb.com/title/tt3541262",
+      "runtime": "128 min",
+      "genre": "Action, History, War",
+      "director": "Han-min Kim",
+      "plot": "Admiral Yi Sun-sin faces a tough challenge when he is forced to defend his nation with just 13 battleships against 300 Japanese enemy ships in the Battle of Myeongryang.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MzE5NTMyNl5BMl5BanBnXkFtZTgwODA4MzI0MjE@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/roaring-currents/umc.cmc.3w0txfczjpeo6erbtt3w70jne",
+          "price": "USD3.99"
+        },
+        {
+          "service": "apple",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/roaring-currents/umc.cmc.3w0txfczjpeo6erbtt3w70jne"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/roaring-currents/umc.cmc.3w0txfczjpeo6erbtt3w70jne",
+          "price": "USD14.99"
+        },
+        {
+          "service": "tubi",
+          "type": "free",
+          "quality": "hd",
+          "link": "https://tubitv.com/movies/605694/roaring-currents-the-road-of-the-admiral"
+        }
+      ]
+    },
+    {
+      "episode_number": "133",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/good-kill-2014/",
       "title": "Good Kill",
       "year": "2014",
       "imdb_id": "tt3297330",
@@ -958,8 +1719,76 @@
       ]
     },
     {
-      "episode_number": "142",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/jakob-the-liar-1999/",
+      "episode_number": "132",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/gladiator-2000/",
+      "title": "Gladiator",
+      "year": "2000",
+      "imdb_id": "tt0172495",
+      "imdb_rating": "8.5",
+      "imdb_votes": "1,817,617",
+      "imdb_url": "https://www.imdb.com/title/tt0172495",
+      "runtime": "155 min",
+      "genre": "Action, Adventure, Drama",
+      "director": "Ridley Scott",
+      "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "tubi",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://tubitv.com/movies/312926/gladiator"
+        },
+        {
+          "service": "peacock",
+          "type": "subscription",
+          "quality": "hd",
+          "link": "https://www.peacocktv.com/watch/asset/movies/gladiator/ee0889ae-2fd9-39d5-89c4-141d46a7bf70"
+        },
+        {
+          "service": "hulu",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://www.hulu.com/movie/gladiator-2379bace-e85c-4ca5-9621-63b77ed5f176"
+        },
+        {
+          "service": "paramount",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.paramountplus.com/movies/video/UAhaBnkT1Lm68ZAFQx1CgMeXalb4vxwz/"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0FRY6WJDO20LIGM77KBZWKLVPA/ref=atv_dp",
+          "price": "USD4.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0FRY6WJDO20LIGM77KBZWKLVPA/ref=atv_dp",
+          "price": "USD3.79"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0FRY6WJDO20LIGM77KBZWKLVPA/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "starz",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.starz.com/us/en/movies/gladiator-36452"
+        }
+      ]
+    },
+    {
+      "episode_number": "131",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/in-which-we-serve-1942/",
       "title": "In Which We Serve",
       "year": "1942",
       "imdb_id": "tt0034891",
@@ -1041,10 +1870,41 @@
       ]
     },
     {
-      "episode_number": "141",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/lone-survivor-2013/",
-      "title": "Lone Survivor",
-      "year": "2013",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/boco/",
+      "title": "Independence Day",
+      "year": "1996",
+      "imdb_id": "tt0116629",
+      "imdb_rating": "7.0",
+      "imdb_votes": "639,622",
+      "imdb_url": "https://www.imdb.com/title/tt0116629",
+      "runtime": "145 min",
+      "genre": "Action, Adventure, Sci-Fi",
+      "director": "Roland Emmerich",
+      "plot": "The aliens are coming and their goal is to invade and destroy Earth. Fighting superior technology, mankind's best weapon is the will to survive.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGMwN2UwZjEtYjFjMi00ZDA1LWJlYTQtMjA1MTYxMzIyNTdiXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/independence-day/umc.cmc.7a0jd9qwrt8i855idp680wms3?playableId=tvs.sbd.9001%3A272967721",
+          "price": "USD4.99"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/independence-day/umc.cmc.7a0jd9qwrt8i855idp680wms3?playableId=tvs.sbd.9001%3A272967721",
+          "price": "USD3.99"
+        }
+      ]
+    },
+    {
+      "episode_number": "130",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/carters-army-1970/",
+      "title": "Carter’s Army",
+      "year": "1970",
       "imdb_id": null,
       "imdb_rating": "N/A",
       "imdb_votes": "N/A",
@@ -1057,8 +1917,31 @@
       "streaming_options": []
     },
     {
-      "episode_number": "140",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/dead-presidents-1995/",
+      "episode_number": "129",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/da-5-bloods-2020/",
+      "title": "Da 5 Bloods",
+      "year": "2020",
+      "imdb_id": "tt9777644",
+      "imdb_rating": "6.5",
+      "imdb_votes": "56,595",
+      "imdb_url": "https://www.imdb.com/title/tt9777644",
+      "runtime": "154 min",
+      "genre": "Adventure, Drama, War",
+      "director": "Spike Lee",
+      "plot": "Four black veterans battle the forces of man and nature when they return to Vietnam seeking the remains of their fallen squad leader and the gold fortune he helped them hide.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjIwN2IxODEtNDhhMi00NDEwLWIwODEtYjIzZDVhZjg0Y2MyXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "netflix",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://www.netflix.com/title/81045635/"
+        }
+      ]
+    },
+    {
+      "episode_number": "128",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/operation-pacific-1951/",
       "title": "Operation Pacific",
       "year": "1951",
       "imdb_id": "tt0043887",
@@ -1088,10 +1971,90 @@
       ]
     },
     {
-      "episode_number": "139",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/path-to-war-2002/",
-      "title": "Path to War",
-      "year": "2002",
+      "episode_number": "127",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-127-megan-leavey-2017/",
+      "title": "Ep 127: Megan Leavey",
+      "year": "2017",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": "126",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-126-their-finest-2016/",
+      "title": "Ep. 126: Their Finest",
+      "year": "2016",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-125-the-final-countdown-1980/",
+      "title": "Ep 125: The Final Countdown",
+      "year": "1980",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": "124",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-124-the-night-of-the-generals-1967/",
+      "title": "Ep 124: The Night of the Generals",
+      "year": "1967",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": "123",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-123-fixed-bayonets-1951/",
+      "title": "Ep 123: Fixed Bayonets!",
+      "year": "1951",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-122-the-steel-helmet-1951/",
+      "title": "Ep 122: The Steel Helmet",
+      "year": "1951",
       "imdb_id": null,
       "imdb_rating": "N/A",
       "imdb_votes": "N/A",
@@ -1106,38 +2069,6 @@
     {
       "episode_number": null,
       "episode_url": "https://maximumfun.org/boco/",
-      "title": "Syriana",
-      "year": "2005",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": "138",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/mulan-1998/",
-      "title": "Mulan",
-      "year": "1998",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": "137",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/greyhound-2020/",
       "title": "Patriot Games",
       "year": "1992",
       "imdb_id": "tt0105112",
@@ -1179,10 +2110,10 @@
       ]
     },
     {
-      "episode_number": "135",
-      "episode_url": "https://maximumfun.org/boco/",
-      "title": "WarGames",
-      "year": "1983",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-121-good-morning-vietnam-1987/",
+      "title": "Ep 121: Good Morning, Vietnam",
+      "year": "1987",
       "imdb_id": null,
       "imdb_rating": "N/A",
       "imdb_votes": "N/A",
@@ -1195,10 +2126,10 @@
       "streaming_options": []
     },
     {
-      "episode_number": "136",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/the-great-raid-2005/",
-      "title": "The Great Raid",
-      "year": "2005",
+      "episode_number": "120",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-120-cross-of-iron-1977/",
+      "title": "Ep 120: Cross of Iron",
+      "year": "1977",
       "imdb_id": null,
       "imdb_rating": "N/A",
       "imdb_votes": "N/A",
@@ -1212,9 +2143,41 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/wargames-1983/",
-      "title": "WarGames",
-      "year": "1983",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-119-black-hawk-down-2001/",
+      "title": "Ep 119: Black Hawk Down",
+      "year": "2001",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": "118",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-118-the-guns-of-navarone-1961/",
+      "title": "Ep 118: The Guns of Navarone",
+      "year": "1961",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": "117",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-117-the-adventures-of-gerard-1970/",
+      "title": "Ep 117: The Adventures of Gerard",
+      "year": "1970",
       "imdb_id": null,
       "imdb_rating": "N/A",
       "imdb_votes": "N/A",
@@ -1268,10 +2231,10 @@
       ]
     },
     {
-      "episode_number": "134",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/the-admiral-roaring-currents-2014/",
-      "title": "The Admiral: Roaring Currents",
-      "year": "2014",
+      "episode_number": "116",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-116-lawrence-of-arabia-1962/",
+      "title": "Ep 116: Lawrence of Arabia",
+      "year": "1962",
       "imdb_id": null,
       "imdb_rating": "N/A",
       "imdb_votes": "N/A",
@@ -1284,10 +2247,10 @@
       "streaming_options": []
     },
     {
-      "episode_number": "133",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/good-kill-2014/",
-      "title": "Good Kill",
-      "year": "2014",
+      "episode_number": "115",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-115-pans-labyrinth-2006/",
+      "title": "Ep 115: Pan’s Labyrinth",
+      "year": "2006",
       "imdb_id": null,
       "imdb_rating": "N/A",
       "imdb_votes": "N/A",
@@ -1300,10 +2263,10 @@
       "streaming_options": []
     },
     {
-      "episode_number": "132",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/gladiator-2000/",
-      "title": "Gladiator",
-      "year": "2000",
+      "episode_number": "114",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-114-war-witch-2012/",
+      "title": "Ep 114: War Witch",
+      "year": "2012",
       "imdb_id": null,
       "imdb_rating": "N/A",
       "imdb_votes": "N/A",
@@ -1316,10 +2279,10 @@
       "streaming_options": []
     },
     {
-      "episode_number": "131",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/in-which-we-serve-1942/",
-      "title": "In Which We Serve",
-      "year": "1942",
+      "episode_number": "113",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-113-action-in-the-north-atlantic-1943/",
+      "title": "Ep 113: Action in the North Atlantic",
+      "year": "1943",
       "imdb_id": null,
       "imdb_rating": "N/A",
       "imdb_votes": "N/A",
@@ -1334,7 +2297,54 @@
     {
       "episode_number": null,
       "episode_url": "https://maximumfun.org/boco/",
-      "title": "Independence Day",
+      "title": "Outbreak",
+      "year": "1995",
+      "imdb_id": "tt0114069",
+      "imdb_rating": "6.6",
+      "imdb_votes": "144,078",
+      "imdb_url": "https://www.imdb.com/title/tt0114069",
+      "runtime": "127 min",
+      "genre": "Action, Drama, Thriller",
+      "director": "Wolfgang Petersen",
+      "plot": "A team of Army doctors struggle to find a cure for the deadly Motaba virus that was transported from Africa to North America by a white-headed Capuchin monkey and is now spreading quickly throughout a small California town.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGYxY2Q0YzUtMmE3OS00ZmQ5LWFiOGUtZDZmNTJlM2YyZjJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0IE4XM5IKDRH6WT1ZLEZVQ466B/ref=atv_dp",
+          "price": "USD3.79"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0IE4XM5IKDRH6WT1ZLEZVQ466B/ref=atv_dp",
+          "price": "USD12.99"
+        }
+      ]
+    },
+    {
+      "episode_number": "112",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-112-gallipoli-1981/",
+      "title": "Ep 112: Gallipoli",
+      "year": "1981",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": "111",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-111-the-english-patient-1996/",
+      "title": "Ep 111: The English Patient",
       "year": "1996",
       "imdb_id": null,
       "imdb_rating": "N/A",
@@ -1348,10 +2358,10 @@
       "streaming_options": []
     },
     {
-      "episode_number": "130",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/carters-army-1970/",
-      "title": "Carter’s Army",
-      "year": "1970",
+      "episode_number": "110",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-110-air-force-1943/",
+      "title": "Ep 110: Air Force",
+      "year": "1943",
       "imdb_id": null,
       "imdb_rating": "N/A",
       "imdb_votes": "N/A",
@@ -1364,58 +2374,10 @@
       "streaming_options": []
     },
     {
-      "episode_number": "129",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/da-5-bloods-2020/",
-      "title": "Da 5 Bloods",
-      "year": "2020",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": "128",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/operation-pacific-1951/",
-      "title": "Operation Pacific",
-      "year": "1951",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": "127",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-127-megan-leavey-2017/",
-      "title": "Ep 127: Megan Leavey",
-      "year": "2017",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": "126",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-126-their-finest-2016/",
-      "title": "Ep. 126: Their Finest",
-      "year": "2016",
+      "episode_number": "109",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-109-1917-2019/",
+      "title": "Ep 109: 1917",
+      "year": "2019",
       "imdb_id": null,
       "imdb_rating": "N/A",
       "imdb_votes": "N/A",
@@ -1429,9 +2391,51 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-125-the-final-countdown-1980/",
-      "title": "Ep 125: The Final Countdown",
-      "year": "1980",
+      "episode_url": "https://maximumfun.org/boco/",
+      "title": "Rambo III",
+      "year": "1988",
+      "imdb_id": "tt0095956",
+      "imdb_rating": "5.8",
+      "imdb_votes": "147,954",
+      "imdb_url": "https://www.imdb.com/title/tt0095956",
+      "runtime": "102 min",
+      "genre": "Action, Adventure, Thriller",
+      "director": "Peter MacDonald",
+      "plot": "Loner Rambo leaves a Buddhist monastery to free his Green Beret mentor from Soviets in Afghanistan.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzBjYjk0MDMtNmUyYi00MjJlLWEwZmMtMGZlYWI1OTEwMjdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "paramount",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.paramountplus.com/movies/video/fVj4yquSJ7dDYQOoYcXQFAym0xTqVwQd/"
+        },
+        {
+          "service": "hulu",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://www.hulu.com/movie/rambo-iii-ecdd1398-bc61-4813-9735-86b27922d5ae"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0POVROVOW26IA2N1S5X63F4KZD/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0POVROVOW26IA2N1S5X63F4KZD/ref=atv_dp",
+          "price": "USD3.99"
+        }
+      ]
+    },
+    {
+      "episode_number": "108",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-108-k-19-the-widowmaker-2002/",
+      "title": "Ep 108: K-19: The Widowmaker",
+      "year": "2002",
       "imdb_id": null,
       "imdb_rating": "N/A",
       "imdb_votes": "N/A",
@@ -1444,8 +2448,256 @@
       "streaming_options": []
     },
     {
-      "episode_number": "124",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-124-the-night-of-the-generals-1967/",
+      "episode_number": "107",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-107-stalingrad-2013/",
+      "title": "Ep 107:  Stalingrad",
+      "year": "2013",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": "106",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-106-behold-a-pale-horse-1964/",
+      "title": "Ep 106: Behold a Pale Horse",
+      "year": "1964",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": "105",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-105-north-west-frontier-1959/",
+      "title": "Ep 105: North West Frontier",
+      "year": "1959",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": "104",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-104-a-bridge-too-far-1977/",
+      "title": "Ep 104: A Bridge Too Far",
+      "year": "1977",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/boco/",
+      "title": "Rocky IV",
+      "year": "1985",
+      "imdb_id": "tt0089927",
+      "imdb_rating": "6.9",
+      "imdb_votes": "240,671",
+      "imdb_url": "https://www.imdb.com/title/tt0089927",
+      "runtime": "91 min",
+      "genre": "Drama, Sport",
+      "director": "Sylvester Stallone",
+      "plot": "Rocky Balboa proudly holds the world heavyweight boxing championship, but a new challenger has stepped forward: Drago, a six-foot-six, 261-pound fighter who has the backing of the Soviet Union.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjJiYzRiYWMtZTgyZC00YjliLWIwZWMtZTJlYjkyYzc2MDMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/rocky-iv/umc.cmc.59frzuu5jxxcr29ydegryu87i?playableId=tvs.sbd.9001%3A278077103",
+          "price": "USD14.99"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/rocky-iv/umc.cmc.59frzuu5jxxcr29ydegryu87i?playableId=tvs.sbd.9001%3A278077103",
+          "price": "USD3.99"
+        },
+        {
+          "service": "peacock",
+          "type": "subscription",
+          "quality": "hd",
+          "link": "https://www.peacocktv.com/watch/asset/movies/rocky-iv/0211fe6e-fece-3c6c-9f40-c1f569bb183e"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0SNENG6GI43T7S9KP4JT7JHR67/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0SNENG6GI43T7S9KP4JT7JHR67/ref=atv_dp",
+          "price": "USD2.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0SNENG6GI43T7S9KP4JT7JHR67/ref=atv_dp",
+          "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0GZ29FCN225QBX5I4QDS4A0QPU/ref=atv_dp",
+          "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0GZ29FCN225QBX5I4QDS4A0QPU/ref=atv_dp",
+          "price": "USD3.99"
+        }
+      ]
+    },
+    {
+      "episode_number": "102",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-102-anthropoid-2016/",
+      "title": "Ep 102: Anthropoid",
+      "year": "2016",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": "101",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-101-hamburger-hill-1987/",
+      "title": "Ep 101: Hamburger Hill",
+      "year": "1987",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-100-tora-tora-tora-1970/",
+      "title": "Ep: Tora! Tora! Tora!",
+      "year": "1970",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": "99",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-99-major-dundee-1965/",
+      "title": "Ep 99: Major Dundee",
+      "year": "1965",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": "98",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-98-alexander-2004/",
+      "title": "Ep 98: Alexander",
+      "year": "2004",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": "97",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-97-top-secret-1984/",
+      "title": "Ep 97: Top Secret!",
+      "year": "1984",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": "96",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-96-captain-america-the-first-avenger-2011/",
+      "title": "Ep 96: Captain America: The First Avenger",
+      "year": "2011",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/boco/",
       "title": "Lord of War",
       "year": "2005",
       "imdb_id": "tt0399295",
@@ -1473,6 +2725,12 @@
           "price": "USD4.99"
         },
         {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/5a591b472aee82cc6ec114f7/details"
+        },
+        {
           "service": "prime",
           "type": "subscription",
           "quality": "uhd",
@@ -1486,9 +2744,10 @@
         },
         {
           "service": "prime",
-          "type": "addon",
+          "type": "rent",
           "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0RC63K6M3LSBYO1EHHX2H6A7S6/ref=atv_dp"
+          "link": "https://www.amazon.com/gp/video/detail/0RC63K6M3LSBYO1EHHX2H6A7S6/ref=atv_dp",
+          "price": "USD3.79"
         },
         {
           "service": "prime",
@@ -1496,25 +2755,35 @@
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0RC63K6M3LSBYO1EHHX2H6A7S6/ref=atv_dp",
           "price": "USD4.99"
-        },
-        {
-          "service": "prime",
-          "type": "rent",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0RC63K6M3LSBYO1EHHX2H6A7S6/ref=atv_dp",
-          "price": "USD3.79"
-        },
-        {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/5a591b472aee82cc6ec114f7/details"
         }
       ]
     },
     {
-      "episode_number": "123",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-123-fixed-bayonets-1951/",
+      "episode_number": "95",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-95-beasts-of-no-nation-2015/",
+      "title": "Beasts of No Nation",
+      "year": "2015",
+      "imdb_id": "tt1365050",
+      "imdb_rating": "7.7",
+      "imdb_votes": "90,320",
+      "imdb_url": "https://www.imdb.com/title/tt1365050",
+      "runtime": "137 min",
+      "genre": "Drama, War",
+      "director": "Cary Joji Fukunaga",
+      "plot": "A drama based on the experiences of Agu, a child soldier fighting in the civil war of an unnamed African country.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYwMzMzMDI0NF5BMl5BanBnXkFtZTgwNDQ3NjI3NjE@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "netflix",
+          "type": "subscription",
+          "quality": "hd",
+          "link": "https://www.netflix.com/title/80044545/"
+        }
+      ]
+    },
+    {
+      "episode_number": "94",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-94-the-bridge-at-remagen-1969/",
       "title": "The Bridge at Remagen",
       "year": "1969",
       "imdb_id": "tt0064110",
@@ -1576,8 +2845,8 @@
       ]
     },
     {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-122-the-steel-helmet-1951/",
+      "episode_number": "93",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-93-eye-in-the-sky-2015/",
       "title": "Eye in the Sky",
       "year": "2015",
       "imdb_id": "tt2057392",
@@ -1640,8 +2909,8 @@
       ]
     },
     {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/boco/",
+      "episode_number": "92",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-92-the-sun-2005/",
       "title": "The Sun",
       "year": "2005",
       "imdb_id": "tt0439817",
@@ -1656,8 +2925,8 @@
       "streaming_options": []
     },
     {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-121-good-morning-vietnam-1987/",
+      "episode_number": "91",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-91-they-were-expendable-1945/",
       "title": "They Were Expendable",
       "year": "1945",
       "imdb_id": "tt0038160",
@@ -1687,8 +2956,45 @@
       ]
     },
     {
-      "episode_number": "120",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-120-cross-of-iron-1977/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/boco/",
+      "title": "Spy Game",
+      "year": "2001",
+      "imdb_id": "tt0266987",
+      "imdb_rating": "7.1",
+      "imdb_votes": "173,256",
+      "imdb_url": "https://www.imdb.com/title/tt0266987",
+      "runtime": "126 min",
+      "genre": "Action, Crime, Thriller",
+      "director": "Tony Scott",
+      "plot": "Retiring CIA agent Nathan Muir recalls his training of Tom Bishop while working against agency politics to free him from his Chinese captors.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTljZmI1MjctMWJmMC00ZjJmLTkwNzUtNGQxNWJhZGRjMjM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "netflix",
+          "type": "subscription",
+          "quality": "hd",
+          "link": "https://www.netflix.com/title/60021779/"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0PM4VB2H60OQDICM7C3LFCI2SA/ref=atv_dp",
+          "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0PM4VB2H60OQDICM7C3LFCI2SA/ref=atv_dp",
+          "price": "USD3.99"
+        }
+      ]
+    },
+    {
+      "episode_number": "90",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-90-the-mouse-that-roared-1959/",
       "title": "The Mouse That Roared",
       "year": "1959",
       "imdb_id": "tt0053084",
@@ -1703,8 +3009,8 @@
       "streaming_options": []
     },
     {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-119-black-hawk-down-2001/",
+      "episode_number": "89",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-89-zero-dark-thirty-2012/",
       "title": "Zero Dark Thirty",
       "year": "2012",
       "imdb_id": "tt1790885",
@@ -1760,8 +3066,63 @@
       ]
     },
     {
-      "episode_number": "118",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-118-the-guns-of-navarone-1961/",
+      "episode_number": "88",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-88-forrest-gump-1994/",
+      "title": "Forrest Gump",
+      "year": "1994",
+      "imdb_id": "tt0109830",
+      "imdb_rating": "8.8",
+      "imdb_votes": "2,452,716",
+      "imdb_url": "https://www.imdb.com/title/tt0109830",
+      "runtime": "142 min",
+      "genre": "Drama, Romance",
+      "director": "Robert Zemeckis",
+      "plot": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "netflix",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://www.netflix.com/title/60000724/"
+        },
+        {
+          "service": "tubi",
+          "type": "free",
+          "quality": "hd",
+          "link": "https://tubitv.com/movies/568500/forrest-gump"
+        },
+        {
+          "service": "paramount",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.paramountplus.com/movies/video/KmuI_yr5UX6nGe_HR0mnkb_vAAVdE3tG/"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0RMLEUTKD0LKNDHSS10OQNYHF0/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0RMLEUTKD0LKNDHSS10OQNYHF0/ref=atv_dp",
+          "price": "USD9.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0RMLEUTKD0LKNDHSS10OQNYHF0/ref=atv_dp",
+          "price": "USD3.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-87-lebanon-2009/",
       "title": "Lebanon",
       "year": "2009",
       "imdb_id": "tt1483831",
@@ -1805,8 +3166,39 @@
       ]
     },
     {
-      "episode_number": "117",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-117-the-adventures-of-gerard-1970/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-episode-86-the-big-red-one-1980/",
+      "title": "The Big Red One",
+      "year": "1980",
+      "imdb_id": "tt0080437",
+      "imdb_rating": "7.1",
+      "imdb_votes": "22,238",
+      "imdb_url": "https://www.imdb.com/title/tt0080437",
+      "runtime": "113 min",
+      "genre": "Drama, War",
+      "director": "Samuel Fuller",
+      "plot": "A hardened sergeant and the four core members of his infantry unit try to survive World War II as they move from battle to battle throughout Europe.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTMxMjA1ZjgtYjI3Ny00OWU4LWE1ZTItZWEwMjViODRhNzgzXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0I5L76TZ9208YV80IZZEWDYJ99/ref=atv_dp",
+          "price": "USD2.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0I5L76TZ9208YV80IZZEWDYJ99/ref=atv_dp",
+          "price": "USD9.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-85-outside-the-law-2010/",
       "title": "Outside the Law",
       "year": "2010",
       "imdb_id": "tt1229381",
@@ -1843,7 +3235,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/boco/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-84-hacksaw-ridge-2016/",
       "title": "Hacksaw Ridge",
       "year": "2016",
       "imdb_id": "tt2119532",
@@ -1904,8 +3296,59 @@
       ]
     },
     {
-      "episode_number": "116",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-116-lawrence-of-arabia-1962/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-83-patriot-2000/",
+      "title": "The Patriot",
+      "year": "2000",
+      "imdb_id": "tt0187393",
+      "imdb_rating": "7.2",
+      "imdb_votes": "305,970",
+      "imdb_url": "https://www.imdb.com/title/tt0187393",
+      "runtime": "165 min",
+      "genre": "Action, Drama, War",
+      "director": "Roland Emmerich",
+      "plot": "Peaceful farmer Benjamin Martin is driven to lead the Colonial Militia during the American Revolution when a sadistic British officer murders his son.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYThjZWExNTItYmE5Yi00ZDE3LTk1ZDktMGJiMWUyYTc2YmFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "netflix",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://www.netflix.com/title/60001044/"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0RY6SGVRJFUV1X7T9GVIJN85NX/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0RY6SGVRJFUV1X7T9GVIJN85NX/ref=atv_dp",
+          "price": "USD6.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0TISNMO3ASUZ6SXEKBCLZZ2UM0/ref=atv_dp",
+          "price": "USD6.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0TISNMO3ASUZ6SXEKBCLZZ2UM0/ref=atv_dp",
+          "price": "USD3.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-82-ottoman-lieutenant-2017/",
       "title": "The Ottoman Lieutenant",
       "year": "2017",
       "imdb_id": "tt4943322",
@@ -1949,8 +3392,51 @@
       ]
     },
     {
-      "episode_number": "115",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-115-pans-labyrinth-2006/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-81-casualties-war-1989/",
+      "title": "Casualties of War",
+      "year": "1989",
+      "imdb_id": "tt0097027",
+      "imdb_rating": "7.1",
+      "imdb_votes": "50,600",
+      "imdb_url": "https://www.imdb.com/title/tt0097027",
+      "runtime": "113 min",
+      "genre": "Action, Crime, Drama",
+      "director": "Brian De Palma",
+      "plot": "During the Vietnam War, a soldier finds himself the outsider of his own squad when they unnecessarily kidnap a female villager, for their sexual enjoyment.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWE1ZTIzOWYtZjVmNC00NmQ2LWEyYmEtMGI4ZWE0YzU0M2IyXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0GM6BC3PW76DMA0PS8EQXMFOR3/ref=atv_dp",
+          "price": "USD12.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0GM6BC3PW76DMA0PS8EQXMFOR3/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "tubi",
+          "type": "free",
+          "quality": "hd",
+          "link": "https://tubitv.com/movies/674302/casualties-of-war"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0IE5Q9M5NXQBOW6RRCCU5IOE7M/ref=atv_dp"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-80-private-war-2018/",
       "title": "A Private War",
       "year": "2018",
       "imdb_id": "tt2368254",
@@ -1998,8 +3484,64 @@
       ]
     },
     {
-      "episode_number": "114",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-114-war-witch-2012/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-79-great-escape-1963/",
+      "title": "The Great Escape",
+      "year": "1963",
+      "imdb_id": "tt0057115",
+      "imdb_rating": "8.2",
+      "imdb_votes": "271,596",
+      "imdb_url": "https://www.imdb.com/title/tt0057115",
+      "runtime": "172 min",
+      "genre": "Adventure, Drama, Thriller",
+      "director": "John Sturges",
+      "plot": "Allied officers in a German prisoner of war camp during World War II make a daring plan for a mass escape by hundreds of POWs hoping to draw German personnel and resources away from combat operations.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDRhNmJjMzEtMWU5MC00YmEyLTg3ZmYtNzYxZTI1ZGU4ZjI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "tubi",
+          "type": "free",
+          "quality": "hd",
+          "link": "https://tubitv.com/movies/593678/the-great-escape"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0L9N879LE4IE0TK0B0BDGH4E6G/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0L9N879LE4IE0TK0B0BDGH4E6G/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0L9N879LE4IE0TK0B0BDGH4E6G/ref=atv_dp",
+          "price": "USD2.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0L9N879LE4IE0TK0B0BDGH4E6G/ref=atv_dp",
+          "price": "USD6.99"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/60d27f611e23180013bea29c/details"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-78-raiders-lost-ark-1981/",
       "title": "Raiders of the Lost Ark",
       "year": "1981",
       "imdb_id": "tt0082971",
@@ -2053,8 +3595,80 @@
       ]
     },
     {
-      "episode_number": "113",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-113-action-in-the-north-atlantic-1943/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-77-night-shooting-stars-1982/",
+      "title": "The Night of the Shooting Stars",
+      "year": "1982",
+      "imdb_id": "tt0084422",
+      "imdb_rating": "7.2",
+      "imdb_votes": "4,767",
+      "imdb_url": "https://www.imdb.com/title/tt0084422",
+      "runtime": "107 min",
+      "genre": "Drama, Fantasy, Romance",
+      "director": "Paolo Taviani, Vittorio Taviani",
+      "plot": "In 1944, the residents of a small Italian town under Axis control flee their homes to seek out the liberating Allied forces.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWNiOTMyMWMtY2QyMy00OWIwLThjMmYtY2RiZTcyNmFkYzZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B01B8RB9DK/ref=atv_dp"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/the-night-of-the-shooting-stars/umc.cmc.7k7pg6jpmeril7zku6nneewfa?playableId=tvs.sbd.9001%3A1680613224",
+          "price": "USD14.99"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/the-night-of-the-shooting-stars/umc.cmc.7k7pg6jpmeril7zku6nneewfa?playableId=tvs.sbd.9001%3A1680613224",
+          "price": "USD4.99"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://tv.apple.com/us/movie/the-night-of-the-shooting-stars/umc.cmc.7k7pg6jpmeril7zku6nneewfa?playableId=tvs.sbd.9001%3A1680613224",
+          "price": "USD12.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0RZI3XJZCT0TRQMPFNOW09E7UR/ref=atv_dp",
+          "price": "USD4.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0RZI3XJZCT0TRQMPFNOW09E7UR/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0RZI3XJZCT0TRQMPFNOW09E7UR/ref=atv_dp",
+          "price": "USD7.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0RZI3XJZCT0TRQMPFNOW09E7UR/ref=atv_dp",
+          "price": "USD9.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-76-red-cliff-2008/",
       "title": "Red Cliff",
       "year": "2008",
       "imdb_id": "tt0425637",
@@ -2104,7 +3718,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/boco/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-75-sum-all-fears-2002/",
       "title": "The Sum of All Fears",
       "year": "2002",
       "imdb_id": "tt0164184",
@@ -2166,8 +3780,59 @@
       ]
     },
     {
-      "episode_number": "112",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-112-gallipoli-1981/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-74-hurt-locker-2008/",
+      "title": "The Hurt Locker",
+      "year": "2008",
+      "imdb_id": "tt0887912",
+      "imdb_rating": "7.5",
+      "imdb_votes": "490,844",
+      "imdb_url": "https://www.imdb.com/title/tt0887912",
+      "runtime": "131 min",
+      "genre": "Drama, Thriller, War",
+      "director": "Kathryn Bigelow",
+      "plot": "During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzgyMGM2YTItYzY2Yi00NDQ0LWE0M2EtMGUzYjFlMDgyY2M3XkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/the-hurt-locker/umc.cmc.6najrut5gmpwewajtuzo2v7m?playableId=tvs.sbd.9001%3A344081076",
+          "price": "USD4.99"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/the-hurt-locker/umc.cmc.6najrut5gmpwewajtuzo2v7m?playableId=tvs.sbd.9001%3A344081076",
+          "price": "USD3.99"
+        },
+        {
+          "service": "netflix",
+          "type": "subscription",
+          "quality": "hd",
+          "link": "https://www.netflix.com/title/70105601/"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0KIOR1VTT0Z38GABE7KJPPT7BP/ref=atv_dp",
+          "price": "USD3.79"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0KIOR1VTT0Z38GABE7KJPPT7BP/ref=atv_dp",
+          "price": "USD4.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-73-promise-2016/",
       "title": "The Promise",
       "year": "2016",
       "imdb_id": "tt4776998",
@@ -2195,8 +3860,53 @@
       ]
     },
     {
-      "episode_number": "111",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-111-the-english-patient-1996/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-72-come-and-see-1985/",
+      "title": "Come and See",
+      "year": "1985",
+      "imdb_id": "tt0091251",
+      "imdb_rating": "8.3",
+      "imdb_votes": "119,291",
+      "imdb_url": "https://www.imdb.com/title/tt0091251",
+      "runtime": "142 min",
+      "genre": "Drama, Thriller, War",
+      "director": "Elem Klimov",
+      "plot": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDlkZmVkZDAtZGFmMS00OWIzLWJkY2YtNWE5NjNhNjhiZGE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/come-and-see/umc.cmc.3eb5vzooka0je73d5ru7e6bbt?playableId=tvs.sbd.9001%3A1672155193",
+          "price": "USD3.99"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/come-and-see/umc.cmc.3eb5vzooka0je73d5ru7e6bbt?playableId=tvs.sbd.9001%3A1672155193",
+          "price": "USD9.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0KEV2UOLVECPWA5DUFLK6N6UJH/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0KEV2UOLVECPWA5DUFLK6N6UJH/ref=atv_dp",
+          "price": "USD14.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-71-thirty-seconds-over-tokyo-1944/",
       "title": "Thirty Seconds Over Tokyo",
       "year": "1944",
       "imdb_id": "tt0037366",
@@ -2239,8 +3949,72 @@
       ]
     },
     {
-      "episode_number": "110",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-110-air-force-1943/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-70-crash-dive-1943/",
+      "title": "Crash Dive",
+      "year": "1943",
+      "imdb_id": "tt0035763",
+      "imdb_rating": "6.3",
+      "imdb_votes": "1,809",
+      "imdb_url": "https://www.imdb.com/title/tt0035763",
+      "runtime": "106 min",
+      "genre": "Drama, Romance, War",
+      "director": "Archie Mayo",
+      "plot": "A submarine lieutenant and his commander fall in love with the same girl.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzg5MjkwOTktOTQ1Yi00OGZlLWFiODYtNjdmMjg1ZWE0NzIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/crash-dive/umc.cmc.5k8kvxqwwhs3q9p9furwifma0?playableId=tvs.sbd.9001%3A1284160155",
+          "price": "USD9.99"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/crash-dive/umc.cmc.5k8kvxqwwhs3q9p9furwifma0?playableId=tvs.sbd.9001%3A1284160155",
+          "price": "USD3.99"
+        },
+        {
+          "service": "apple",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://tv.apple.com/us/movie/crash-dive/umc.cmc.5k8kvxqwwhs3q9p9furwifma0"
+        },
+        {
+          "service": "apple",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://tv.apple.com/us/movie/crash-dive/umc.cmc.5k8kvxqwwhs3q9p9furwifma0"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0NEBNASJFEMNLZ1HZ905MBMDYY/ref=atv_dp",
+          "price": "USD4.59"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0NEBNASJFEMNLZ1HZ905MBMDYY/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0NEBNASJFEMNLZ1HZ905MBMDYY/ref=atv_dp",
+          "price": "USD11.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/redbad-2018/",
       "title": "Redbad",
       "year": "2018",
       "imdb_id": "tt6155374",
@@ -2337,8 +4111,45 @@
       ]
     },
     {
-      "episode_number": "109",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-109-1917-2019/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-68-key-1958/",
+      "title": "The Key",
+      "year": "1958",
+      "imdb_id": "tt0051816",
+      "imdb_rating": "6.7",
+      "imdb_votes": "1,727",
+      "imdb_url": "https://www.imdb.com/title/tt0051816",
+      "runtime": "134 min",
+      "genre": "Drama, Romance, War",
+      "director": "Carol Reed",
+      "plot": "During World War II, successive tugboat British Captains sent on dangerous salvage missions pass-on the key to a home-port apartment, where a lonely Swiss-Italian young war-widow lives.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODI1ZmYxYzEtZTg2Yy00YzNjLTg4MzMtNmEzMzQyZDA2MjljXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0P52WNW9TT0RG76AJ7Q9KGDSHB/ref=atv_dp",
+          "price": "USD12.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0P52WNW9TT0RG76AJ7Q9KGDSHB/ref=atv_dp",
+          "price": "USD3.59"
+        },
+        {
+          "service": "tubi",
+          "type": "free",
+          "quality": "hd",
+          "link": "https://tubitv.com/movies/100006048/the-key"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-67-darkest-hour-2017/",
       "title": "Darkest Hour",
       "year": "2017",
       "imdb_id": "tt4555426",
@@ -2389,7 +4200,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/boco/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-66-dunkirk-2017/",
       "title": "Dunkirk",
       "year": "2017",
       "imdb_id": "tt5013056",
@@ -2433,8 +4244,24 @@
       ]
     },
     {
-      "episode_number": "108",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-108-k-19-the-widowmaker-2002/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-65-battle-incheon-operation-chromite-2016/",
+      "title": "Battle for Incheon: Operation Chromite",
+      "year": "2016",
+      "imdb_id": "tt4939066",
+      "imdb_rating": "6.2",
+      "imdb_votes": "6,432",
+      "imdb_url": "https://www.imdb.com/title/tt4939066",
+      "runtime": "111 min",
+      "genre": "Action, Drama, History",
+      "director": "John H. Lee",
+      "plot": "A team of spies is sent into Incheon to gain intelligence on North Korean positions ahead of the invasion by UN forces.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWRiODc4MDMtZTkyNy00NzA0LWIzMGEtOGMwYjljY2MwZTY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": []
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-64-predator-1987/",
       "title": "Predator",
       "year": "1987",
       "imdb_id": "tt0093773",
@@ -2476,8 +4303,59 @@
       ]
     },
     {
-      "episode_number": "107",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-107-stalingrad-2013/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-63-bridge-river-kwai-1957/",
+      "title": "The Bridge on the River Kwai",
+      "year": "1957",
+      "imdb_id": "tt0050212",
+      "imdb_rating": "8.1",
+      "imdb_votes": "245,523",
+      "imdb_url": "https://www.imdb.com/title/tt0050212",
+      "runtime": "161 min",
+      "genre": "Adventure, Drama, War",
+      "director": "David Lean",
+      "plot": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzdkYmU2YmItNmZiYy00OWQyLTg0YWYtZmUxM2U3YTRiNTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0MRU06QX4E4K4291TBRVZO31ZM/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0MRU06QX4E4K4291TBRVZO31ZM/ref=atv_dp",
+          "price": "USD3.89"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0MRU06QX4E4K4291TBRVZO31ZM/ref=atv_dp",
+          "price": "USD3.59"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0MRU06QX4E4K4291TBRVZO31ZM/ref=atv_dp",
+          "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0MRU06QX4E4K4291TBRVZO31ZM/ref=atv_dp",
+          "price": "USD12.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-62-memphis-belle-1990/",
       "title": "Memphis Belle",
       "year": "1990",
       "imdb_id": "tt0100133",
@@ -2527,8 +4405,60 @@
       ]
     },
     {
-      "episode_number": "106",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-106-behold-a-pale-horse-1964/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/boco/",
+      "title": "Edge of Tomorrow",
+      "year": "2014",
+      "imdb_id": "tt1631867",
+      "imdb_rating": "7.9",
+      "imdb_votes": "788,414",
+      "imdb_url": "https://www.imdb.com/title/tt1631867",
+      "runtime": "113 min",
+      "genre": "Action, Adventure, Sci-Fi",
+      "director": "Doug Liman",
+      "plot": "A man fighting in a war against aliens must relive the same day every time he dies until he can find a way to stop their power source with the help of an elite soldier.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/edge-of-tomorrow/umc.cmc.b5i2nkyck3kyifzh7d72atnd?playableId=tvs.sbd.9001%3A878770824",
+          "price": "USD4.99"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/edge-of-tomorrow/umc.cmc.b5i2nkyck3kyifzh7d72atnd?playableId=tvs.sbd.9001%3A878770824",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0OFN3RXG6XPKJI65K2893ODWQX/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0OFN3RXG6XPKJI65K2893ODWQX/ref=atv_dp",
+          "price": "USD3.79"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0OFN3RXG6XPKJI65K2893ODWQX/ref=atv_dp",
+          "price": "USD7.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/boco/",
       "title": "Triple Frontier",
       "year": "2019",
       "imdb_id": "tt1488606",
@@ -2550,8 +4480,59 @@
       ]
     },
     {
-      "episode_number": "105",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-105-north-west-frontier-1959/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/boco/",
+      "title": "Commando",
+      "year": "1985",
+      "imdb_id": "tt0088944",
+      "imdb_rating": "6.7",
+      "imdb_votes": "185,261",
+      "imdb_url": "https://www.imdb.com/title/tt0088944",
+      "runtime": "90 min",
+      "genre": "Action, Adventure, Thriller",
+      "director": "Mark L. Lester",
+      "plot": "A retired Special Forces colonel tries to save his daughter, who was abducted by his former subordinate.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjAyNTRiMTEtNzNlZS00YTZhLThmNzQtZjBkOWQ4N2Y4YjQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "disney",
+          "type": "subscription",
+          "quality": "hd",
+          "link": "https://www.disneyplus.com/browse/entity-1bf2d369-85e0-4029-9918-a0b5ad866365"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0NPXH45E55S9P9T40FDRANDONT/ref=atv_dp",
+          "price": "USD3.79"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0NPXH45E55S9P9T40FDRANDONT/ref=atv_dp",
+          "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0HX2AMCLJVDASABAEMBI9RQEQV/ref=atv_dp",
+          "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0HX2AMCLJVDASABAEMBI9RQEQV/ref=atv_dp",
+          "price": "USD3.79"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-61-uss-indianapolis-men-courage-2016/",
       "title": "USS Indianapolis: Men of Courage",
       "year": "2016",
       "imdb_id": "tt2032572",
@@ -2619,12 +4600,6 @@
         },
         {
           "service": "prime",
-          "type": "addon",
-          "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0R5KCV9QMO65V2O74PUJHVPBY0/ref=atv_dp"
-        },
-        {
-          "service": "prime",
           "type": "rent",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0R5KCV9QMO65V2O74PUJHVPBY0/ref=atv_dp",
@@ -2640,8 +4615,51 @@
       ]
     },
     {
-      "episode_number": "104",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-104-a-bridge-too-far-1977/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-60-green-zone-2010/",
+      "title": "Green Zone",
+      "year": "2010",
+      "imdb_id": "tt0947810",
+      "imdb_rating": "6.8",
+      "imdb_votes": "146,910",
+      "imdb_url": "https://www.imdb.com/title/tt0947810",
+      "runtime": "115 min",
+      "genre": "Action, Drama, Thriller",
+      "director": "Paul Greengrass",
+      "plot": "Discovering covert and faulty intelligence causes a U.S. Army officer to go rogue as he hunts for Weapons of Mass Destruction in an unstable region.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTA1NDMyNV5BMl5BanBnXkFtZTcwMzUwODY5Mg@@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "hulu",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://www.hulu.com/movie/green-zone-7aa5c0d0-6a95-433a-a2a9-45f56c388d74"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0NLO0TKR5YAZUW7U82KIUX4JP0/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0NLO0TKR5YAZUW7U82KIUX4JP0/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0NLO0TKR5YAZUW7U82KIUX4JP0/ref=atv_dp",
+          "price": "USD14.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-59-heaven-and-earth-1993/",
       "title": "Heaven and Earth",
       "year": "1990",
       "imdb_id": "tt0099753",
@@ -2657,7 +4675,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/boco/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-58-conan-barbarian-1982/",
       "title": "Conan the Barbarian",
       "year": "1982",
       "imdb_id": "tt0082198",
@@ -2701,8 +4719,172 @@
       ]
     },
     {
-      "episode_number": "102",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-102-anthropoid-2016/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-57-behind-enemy-lines-2001/",
+      "title": "Behind Enemy Lines",
+      "year": "2001",
+      "imdb_id": "tt0159273",
+      "imdb_rating": "6.4",
+      "imdb_votes": "117,437",
+      "imdb_url": "https://www.imdb.com/title/tt0159273",
+      "runtime": "106 min",
+      "genre": "Action, Drama, Thriller",
+      "director": "John Moore",
+      "plot": "A disillusioned navigator, shot down over war-torn Bosnia, goes on the run from the local military as well as an assassin, while his commanding officer risks all to save him.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTBjYjM3MTQtNmIxMi00MDY0LWExMGItYzY5MWI2MjU4YWNhXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "disney",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://www.disneyplus.com/browse/entity-777fb8fd-e593-42d3-af44-680267ad22ec"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0SPSWE1BDCGPRGZ3GBKTBZB9MS/ref=atv_dp",
+          "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0SPSWE1BDCGPRGZ3GBKTBZB9MS/ref=atv_dp",
+          "price": "USD3.79"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-56-salvador-1986/",
+      "title": "Salvador",
+      "year": "1986",
+      "imdb_id": "tt0091886",
+      "imdb_rating": "7.3",
+      "imdb_votes": "24,556",
+      "imdb_url": "https://www.imdb.com/title/tt0091886",
+      "runtime": "122 min",
+      "genre": "Drama, History, Thriller",
+      "director": "Oliver Stone",
+      "plot": "A burnt-out photojournalist becomes involved in a Central American revolution.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDRiMjdlNDMtYjJiNC00MGQyLWE5NzQtZWZlNDY2MTY0Nzg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B004EW6WDO/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B004EW6WDO/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B004EW6WDO/ref=atv_dp",
+          "price": "USD2.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/B004EW6WDO/ref=atv_dp",
+          "price": "USD3.89"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/B004EW6WDO/ref=atv_dp",
+          "price": "USD14.99"
+        },
+        {
+          "service": "tubi",
+          "type": "free",
+          "quality": "hd",
+          "link": "https://tubitv.com/movies/301239/salvador"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0SGJENET5M8XBN2R89T5HQS9ZN/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0SGJENET5M8XBN2R89T5HQS9ZN/ref=atv_dp",
+          "price": "USD2.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0SGJENET5M8XBN2R89T5HQS9ZN/ref=atv_dp",
+          "price": "USD4.29"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0SGJENET5M8XBN2R89T5HQS9ZN/ref=atv_dp",
+          "price": "USD14.99"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/59a70191f0f9a0b8384dfcd5/details"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-55-inglourious-basterds-2009/",
+      "title": "Inglourious Basterds",
+      "year": "2009",
+      "imdb_id": "tt0361748",
+      "imdb_rating": "8.4",
+      "imdb_votes": "1,746,929",
+      "imdb_url": "https://www.imdb.com/title/tt0361748",
+      "runtime": "153 min",
+      "genre": "Adventure, Drama, War",
+      "director": "Quentin Tarantino",
+      "plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0O0FQ6SAOIENAXOMZSRQC5VBWN/ref=atv_dp",
+          "price": "USD3.79"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0O0FQ6SAOIENAXOMZSRQC5VBWN/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0O0FQ6SAOIENAXOMZSRQC5VBWN/ref=atv_dp",
+          "price": "USD14.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-54-flags-our-fathers/",
       "title": "Flags of Our Fathers",
       "year": "2006",
       "imdb_id": "tt0418689",
@@ -2738,8 +4920,39 @@
       ]
     },
     {
-      "episode_number": "101",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-101-hamburger-hill-1987/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-53-letters-iwo-jima/",
+      "title": "Letters from Iwo Jima",
+      "year": "2006",
+      "imdb_id": "tt0498380",
+      "imdb_rating": "7.8",
+      "imdb_votes": "174,028",
+      "imdb_url": "https://www.imdb.com/title/tt0498380",
+      "runtime": "141 min",
+      "genre": "Action, Adventure, Drama",
+      "director": "Clint Eastwood",
+      "plot": "The story of the battle of Iwo Jima between the United States and Imperial Japan during World War II, as told from the perspective of the Japanese who fought it.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjE0NzgwODI4M15BMl5BanBnXkFtZTcwNjg3OTA0MQ@@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0OO13I3GMEPRDT9KLZVDZZZWQL/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0OO13I3GMEPRDT9KLZVDZZZWQL/ref=atv_dp",
+          "price": "USD6.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-52-paths-glory/",
       "title": "Paths of Glory",
       "year": "1957",
       "imdb_id": "tt0050825",
@@ -2815,7 +5028,71 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-100-tora-tora-tora-1970/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-51-robocop-1987/",
+      "title": "RoboCop",
+      "year": "1987",
+      "imdb_id": "tt0093870",
+      "imdb_rating": "7.6",
+      "imdb_votes": "303,266",
+      "imdb_url": "https://www.imdb.com/title/tt0093870",
+      "runtime": "102 min",
+      "genre": "Action, Crime, Sci-Fi",
+      "director": "Paul Verhoeven",
+      "plot": "In a violent future in Old Detroit, murdered police officer Alex Murphy is resurrected as RoboCop, a powerful cyborg law enforcer. As he fights crime, he begins to recover memories of his past and seeks revenge on the gang who kil...",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWM1YzRhODktZDE1MC00NzBlLTk0NGMtOGNhZDQyMmJiZGFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "addon",
+          "quality": "uhd",
+          "link": "https://tv.apple.com/us/movie/robocop/umc.cmc.1a8d88y8168wemudh9skn3qje?playableId=tvs.sbd.1000185%3AMV008456570000"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/robocop/umc.cmc.1a8d88y8168wemudh9skn3qje?playableId=tvs.sbd.9001%3A251112030",
+          "price": "USD14.99"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/robocop/umc.cmc.1a8d88y8168wemudh9skn3qje?playableId=tvs.sbd.9001%3A251112030",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0FO7P5LKV8T6ZJ2M39963P8CB0/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0FO7P5LKV8T6ZJ2M39963P8CB0/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0FO7P5LKV8T6ZJ2M39963P8CB0/ref=atv_dp",
+          "price": "USD2.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0FO7P5LKV8T6ZJ2M39963P8CB0/ref=atv_dp",
+          "price": "USD14.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-50-black-book/",
       "title": "Black Book",
       "year": "2006",
       "imdb_id": "tt0389557",
@@ -2865,8 +5142,116 @@
       ]
     },
     {
-      "episode_number": "99",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-99-major-dundee-1965/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-49-courage-under-fire/",
+      "title": "Courage Under Fire",
+      "year": "1996",
+      "imdb_id": "tt0115956",
+      "imdb_rating": "6.6",
+      "imdb_votes": "62,796",
+      "imdb_url": "https://www.imdb.com/title/tt0115956",
+      "runtime": "116 min",
+      "genre": "Action, Drama, Mystery",
+      "director": "Edward Zwick",
+      "plot": "A U.S. Army officer, despondent about a deadly mistake he made, investigates a female chopper commander's worthiness for the Medal of Honor.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTU2MGZmZjAtOWVjNy00NTlkLTg0ZTUtN2Q3NmUxNTNhNGVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B000SW16EY/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B000SW16EY/ref=atv_dp",
+          "price": "USD3.79"
+        },
+        {
+          "service": "disney",
+          "type": "subscription",
+          "quality": "hd",
+          "link": "https://www.disneyplus.com/browse/entity-3cf1c135-fcc5-4b34-9b4c-8fdc900eccea"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/B000SW16EY/ref=atv_dp",
+          "price": "USD4.29"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/B000SW16EY/ref=atv_dp",
+          "price": "USD13.89"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-48-pearl-harbor/",
+      "title": "Pearl Harbor",
+      "year": "2001",
+      "imdb_id": "tt0213149",
+      "imdb_rating": "6.3",
+      "imdb_votes": "365,740",
+      "imdb_url": "https://www.imdb.com/title/tt0213149",
+      "runtime": "183 min",
+      "genre": "Action, Drama, Romance",
+      "director": "Michael Bay",
+      "plot": "A tale of war and romance mixed in with history. The story follows two lifelong friends and a beautiful nurse who are caught up in the horror of an infamous Sunday morning in 1941.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MDc0MDc1NF5BMl5BanBnXkFtZTYwODI1ODY2._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/pearl-harbor/umc.cmc.4ccyloc8y8m8194unpio4r1os?playableId=tvs.sbd.9001%3A207105360",
+          "price": "USD4.99"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/pearl-harbor/umc.cmc.4ccyloc8y8m8194unpio4r1os?playableId=tvs.sbd.9001%3A207105360",
+          "price": "USD4.99"
+        },
+        {
+          "service": "hulu",
+          "type": "subscription",
+          "quality": "hd",
+          "link": "https://www.hulu.com/movie/pearl-harbor-2d2d93bd-0358-409e-b0d9-82b3678d9903"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0QBV72Z9ZSN0LXEA1GXRNUZ5K6/ref=atv_dp",
+          "price": "USD4.79"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0QBV72Z9ZSN0LXEA1GXRNUZ5K6/ref=atv_dp",
+          "price": "USD17.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0QBV72Z9ZSN0LXEA1GXRNUZ5K6/ref=atv_dp",
+          "price": "USD18.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-47-valkyrie/",
       "title": "Valkyrie",
       "year": "2008",
       "imdb_id": "tt0985699",
@@ -2935,8 +5320,8 @@
       ]
     },
     {
-      "episode_number": "98",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-98-alexander-2004/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-46-deer-hunter/",
       "title": "The Deer Hunter",
       "year": "1978",
       "imdb_id": "tt0077416",
@@ -2966,8 +5351,45 @@
       ]
     },
     {
-      "episode_number": "97",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-97-top-secret-1984/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-45-biloxi-blues/",
+      "title": "Biloxi Blues",
+      "year": "1988",
+      "imdb_id": "tt0094746",
+      "imdb_rating": "6.7",
+      "imdb_votes": "16,883",
+      "imdb_url": "https://www.imdb.com/title/tt0094746",
+      "runtime": "106 min",
+      "genre": "Comedy, Drama",
+      "director": "Mike Nichols",
+      "plot": "A group of young recruits go through boot camp during the Second World War in Biloxi, Mississippi. From the play by Neil Simon.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDhhM2Y4NDEtNWVmNC00MTI1LTkwNTMtNzg3NThhZjMyZTMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/B000I9TXXI/ref=atv_dp",
+          "price": "USD3.79"
+        },
+        {
+          "service": "prime",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B000I9TXXI/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/B000I9TXXI/ref=atv_dp",
+          "price": "USD14.69"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-44-all-quiet-western-front-1930/",
       "title": "All Quiet on the Western Front",
       "year": "1930",
       "imdb_id": "tt0020629",
@@ -3023,10 +5445,33 @@
       ]
     },
     {
-      "episode_number": "96",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-96-captain-america-the-first-avenger-2011/",
-      "title": "Ep 96: Captain America: The First Avenger",
-      "year": "2011",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-43-ran-%e4%b9%b1/",
+      "title": "Ran",
+      "year": "1985",
+      "imdb_id": "tt0089881",
+      "imdb_rating": "8.2",
+      "imdb_votes": "148,694",
+      "imdb_url": "https://www.imdb.com/title/tt0089881",
+      "runtime": "160 min",
+      "genre": "Action, Drama, War",
+      "director": "Akira Kurosawa",
+      "plot": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDk2NDY5YjktMjEyMC00OTJhLTkzM2EtY2Q4Y2RjYzc2Yjk4XkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "tubi",
+          "type": "free",
+          "quality": "hd",
+          "link": "https://tubitv.com/movies/100034458/ran"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-42-downfall-der-untergang/",
+      "title": "Episode 42 Downfall",
+      "year": "Der Untergang",
       "imdb_id": null,
       "imdb_rating": "N/A",
       "imdb_votes": "N/A",
@@ -3040,7 +5485,23 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/boco/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-41-von-ryans-express/",
+      "title": "Von Ryan’s Express",
+      "year": "1965",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-40-u-571/",
       "title": "U-571",
       "year": "2000",
       "imdb_id": "tt0141926",
@@ -3084,8 +5545,8 @@
       ]
     },
     {
-      "episode_number": "95",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-95-beasts-of-no-nation-2015/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-39-sicario/",
       "title": "Sicario",
       "year": "2015",
       "imdb_id": "tt3397884",
@@ -3147,8 +5608,79 @@
       ]
     },
     {
-      "episode_number": "94",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-94-the-bridge-at-remagen-1969/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-38-sands-iwo-jima/",
+      "title": "Sands of Iwo Jima",
+      "year": "1949",
+      "imdb_id": "tt0041841",
+      "imdb_rating": "7.0",
+      "imdb_votes": "11,865",
+      "imdb_url": "https://www.imdb.com/title/tt0041841",
+      "runtime": "100 min",
+      "genre": "Action, Drama, Romance",
+      "director": "Allan Dwan",
+      "plot": "Haunted by personal demons, Marine Sgt. John Stryker is hated and feared by his men, who see him as a cold-hearted sadist. But when their boots hit the beaches, they begin to understand the reason for Stryker's rigid form of disci...",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTg5ZGI1YjUtYzUwMS00YTE0LThkNGEtMmNhZWYwOTY5MDRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/sands-of-iwo-jima/umc.cmc.1hubwsyx3eoc59tpjdjxm7aaj?playableId=tvs.sbd.9001%3A696015660",
+          "price": "USD12.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/B01HCBUA68/ref=atv_dp",
+          "price": "USD3.59"
+        },
+        {
+          "service": "apple",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://tv.apple.com/us/movie/sands-of-iwo-jima/umc.cmc.1hubwsyx3eoc59tpjdjxm7aaj"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/sands-of-iwo-jima/umc.cmc.1hubwsyx3eoc59tpjdjxm7aaj?playableId=tvs.sbd.9001%3A696015660",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/B01HCBUA68/ref=atv_dp",
+          "price": "USD9.99"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0OSZRZJW0X52W6F3FGWZ5E7ABE/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0OSZRZJW0X52W6F3FGWZ5E7ABE/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0OSZRZJW0X52W6F3FGWZ5E7ABE/ref=atv_dp",
+          "price": "USD4.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/boco/",
       "title": "Terminator 2: Judgment Day",
       "year": "1991",
       "imdb_id": "tt0103064",
@@ -3189,8 +5721,78 @@
       ]
     },
     {
-      "episode_number": "93",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-93-eye-in-the-sky-2015/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/boco/",
+      "title": "Wonder Woman",
+      "year": "2017",
+      "imdb_id": "tt0451279",
+      "imdb_rating": "7.3",
+      "imdb_votes": "729,095",
+      "imdb_url": "https://www.imdb.com/title/tt0451279",
+      "runtime": "141 min",
+      "genre": "Action, Adventure, Fantasy",
+      "director": "Patty Jenkins",
+      "plot": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjEzYmZkNjktODBmYi00NzNkLWIzMjItMjhkMWZiZTZlN2MwXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "hbo",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://play.hbomax.com/movie/a618358a-a71d-44a2-8294-24da8fae8591"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/wonder-woman/umc.cmc.z7v0grnlsjbdd8l699lou0wq?playableId=tvs.sbd.9001%3A1235765633",
+          "price": "USD7.99"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/wonder-woman/umc.cmc.z7v0grnlsjbdd8l699lou0wq?playableId=tvs.sbd.9001%3A1235765633",
+          "price": "USD3.99"
+        },
+        {
+          "service": "hulu",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://www.hulu.com/movie/wonder-woman-5895c91f-7881-48cc-8807-5ea2b8b797dd"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0H3D1WUX960B8QBO6CYCWOOYZ3/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0H3D1WUX960B8QBO6CYCWOOYZ3/ref=atv_dp",
+          "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0H3D1WUX960B8QBO6CYCWOOYZ3/ref=atv_dp",
+          "price": "USD4.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0H3D1WUX960B8QBO6CYCWOOYZ3/ref=atv_dp",
+          "price": "USD3.79"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/boco/",
       "title": "Starship Troopers",
       "year": "1997",
       "imdb_id": "tt0120201",
@@ -3226,8 +5828,73 @@
       ]
     },
     {
-      "episode_number": "92",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-92-the-sun-2005/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/boco/",
+      "title": "Rambo: First Blood Part II",
+      "year": "1985",
+      "imdb_id": "tt0089880",
+      "imdb_rating": "6.5",
+      "imdb_votes": "191,157",
+      "imdb_url": "https://www.imdb.com/title/tt0089880",
+      "runtime": "96 min",
+      "genre": "Action, Adventure, Thriller",
+      "director": "George P. Cosmatos",
+      "plot": "Rambo returns to the jungles of Vietnam on a mission to infiltrate an enemy base-camp and rescue the American POWs still held captive there.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTNiMzUyZjQtY2RlOS00MjIxLWFlMjAtNjI1NjkzY2JjN2M3XkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "hulu",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://www.hulu.com/movie/rambo:-first-blood-part-ii-d65c0d3f-a7c8-43fb-8e78-2cdca18e0e31"
+        },
+        {
+          "service": "paramount",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.paramountplus.com/movies/video/NO5mtr6vGEwrqqpAbW56a4glRzHs0fBO/"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0TN23XM0C9048EM76RL0HOV76C/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0TN23XM0C9048EM76RL0HOV76C/ref=atv_dp",
+          "price": "USD3.79"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0TN23XM0C9048EM76RL0HOV76C/ref=atv_dp",
+          "price": "USD4.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-37-dr-strangelove/",
+      "title": "TMR 308: Dr Strangelove (1964) (TMR Movie Dialogue)",
+      "year": "1964",
+      "imdb_id": "tt31854137",
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": "https://www.imdb.com/title/tt31854137",
+      "runtime": "91 min",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "N/A",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjVkMjYzMTItMWYyYi00MGZlLTk2ODMtZmNlMWJkNTgxODI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": []
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-36-army-shadows-larm%c3%a9e-des-ombres/",
       "title": "Army of Shadows",
       "year": "1969",
       "imdb_id": "tt0064040",
@@ -3257,8 +5924,24 @@
       ]
     },
     {
-      "episode_number": "91",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-91-they-were-expendable-1945/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-35-kellys-heroes/",
+      "title": "Kelly’s Heroes",
+      "year": "1970",
+      "imdb_id": null,
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "imdb_url": null,
+      "runtime": "N/A",
+      "genre": "N/A",
+      "director": "N/A",
+      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
+      "poster": "",
+      "streaming_options": []
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-34-aliens/",
       "title": "Aliens",
       "year": "1986",
       "imdb_id": "tt0090605",
@@ -3330,7 +6013,37 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/boco/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-33-star-wars/",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "year": "1977",
+      "imdb_id": "tt0076759",
+      "imdb_rating": "8.6",
+      "imdb_votes": "1,544,658",
+      "imdb_url": "https://www.imdb.com/title/tt0076759",
+      "runtime": "121 min",
+      "genre": "Action, Adventure, Fantasy",
+      "director": "George Lucas",
+      "plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth ...",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "disney",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://www.disneyplus.com/browse/entity-9a280e53-fcc0-4e17-a02c-b1f40913eb0b"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0TVOZ32BOZRFNQTVL3KCX2W3DT/ref=atv_dp",
+          "price": "USD19.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-32-paisan/",
       "title": "Paisan",
       "year": "1946",
       "imdb_id": "tt0038823",
@@ -3364,8 +6077,74 @@
       ]
     },
     {
-      "episode_number": "90",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-90-the-mouse-that-roared-1959/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-31-enemy-below/",
+      "title": "The Enemy Below",
+      "year": "1957",
+      "imdb_id": "tt0050356",
+      "imdb_rating": "7.4",
+      "imdb_votes": "12,604",
+      "imdb_url": "https://www.imdb.com/title/tt0050356",
+      "runtime": "98 min",
+      "genre": "Action, Adventure, Drama",
+      "director": "Dick Powell",
+      "plot": "During WWII an American destroyer discovers a German U-boat, and in the ensuing duel the American captain must draw upon all his experience to defeat the equally experienced German commander.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWFhMDY1MjItMzkyZS00NmVkLWE1NDYtOTFkMmMwMjdkZjQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0HOOHI9LLL8AYOOSV3OO914WLE/ref=atv_dp",
+          "price": "USD3.79"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0HOOHI9LLL8AYOOSV3OO914WLE/ref=atv_dp",
+          "price": "USD4.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/B001TCXMYY/ref=atv_dp",
+          "price": "USD10.79"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/the-enemy-below/umc.cmc.3c0rfqb900u3h28b8oujocgct",
+          "price": "USD3.99"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/the-enemy-below/umc.cmc.3c0rfqb900u3h28b8oujocgct",
+          "price": "USD9.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/B001TCXMYY/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B001TCXMYY/ref=atv_dp",
+          "price": "USD9.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-30-platoon/",
       "title": "Platoon",
       "year": "1986",
       "imdb_id": "tt0091763",
@@ -3440,8 +6219,111 @@
       ]
     },
     {
-      "episode_number": "89",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-89-zero-dark-thirty-2012/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-29-siege/",
+      "title": "The Siege",
+      "year": "1998",
+      "imdb_id": "tt0133952",
+      "imdb_rating": "6.4",
+      "imdb_votes": "81,824",
+      "imdb_url": "https://www.imdb.com/title/tt0133952",
+      "runtime": "116 min",
+      "genre": "Action, Thriller",
+      "director": "Edward Zwick",
+      "plot": "The secret U.S. abduction of a suspected terrorist leads to a wave of terrorist attacks in New York City, which leads to the declaration of martial-law.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjY4YmMyMzYtM2M4YS00YzQ2LTg5OWUtZjc4YmQ4NGE0ZGViXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0RMLEWFXQUZ75X60UOQ3N6VZUE/ref=atv_dp",
+          "price": "USD3.79"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0RMLEWFXQUZ75X60UOQ3N6VZUE/ref=atv_dp",
+          "price": "USD4.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-28-operation-dumbo-drop/",
+      "title": "Operation Dumbo Drop",
+      "year": "1995",
+      "imdb_id": "tt0114048",
+      "imdb_rating": "5.2",
+      "imdb_votes": "9,996",
+      "imdb_url": "https://www.imdb.com/title/tt0114048",
+      "runtime": "107 min",
+      "genre": "Action, Adventure, Comedy",
+      "director": "Simon Wincer",
+      "plot": "To keep the loyalty of a village during the Vietnam war, a U.S. Army officer and his unit struggle to deliver it a live elephant.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTJjM2U4MGMtNThmNi00ODAzLWE1ZGEtMzkyOWFjMzE0YzNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/operation-dumbo-drop/umc.cmc.5o9n5o8fkufemj2tllt3ro3ul?playableId=tvs.sbd.9001%3A444880842",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B003YDU6NQ/ref=atv_dp",
+          "price": "USD9.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/B003YDU6NQ/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/B003YDU6NQ/ref=atv_dp",
+          "price": "USD17.79"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/B003YDU6NQ/ref=atv_dp",
+          "price": "USD4.59"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://tv.apple.com/us/movie/operation-dumbo-drop/umc.cmc.5o9n5o8fkufemj2tllt3ro3ul?playableId=tvs.sbd.9001%3A444880842",
+          "price": "USD9.99"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/operation-dumbo-drop/umc.cmc.5o9n5o8fkufemj2tllt3ro3ul?playableId=tvs.sbd.9001%3A444880842",
+          "price": "USD17.99"
+        },
+        {
+          "service": "disney",
+          "type": "subscription",
+          "quality": "hd",
+          "link": "https://www.disneyplus.com/browse/entity-4fbcd8c6-cf1f-410d-8d7e-5bf9dd10b16a"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-27-mongol/",
       "title": "Mongol: The Rise of Genghis Khan",
       "year": "2007",
       "imdb_id": "tt0416044",
@@ -3471,8 +6353,60 @@
       ]
     },
     {
-      "episode_number": "88",
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/ep-88-forrest-gump-1994/",
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-26-paradise-now/",
+      "title": "Paradise Now",
+      "year": "2005",
+      "imdb_id": "tt0445620",
+      "imdb_rating": "7.4",
+      "imdb_votes": "24,726",
+      "imdb_url": "https://www.imdb.com/title/tt0445620",
+      "runtime": "91 min",
+      "genre": "Crime, Drama, Thriller",
+      "director": "Hany Abu-Assad",
+      "plot": "Two childhood friends are recruited for a suicide bombing in Tel Aviv.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTIyNTg4MjE4Ml5BMl5BanBnXkFtZTYwNzk0Mzc2._V1_SX300.jpg",
+      "streaming_options": [
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/paradise-now/umc.cmc.1r0vbavrjo1kvasuojkuvkde4",
+          "price": "USD2.99"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/paradise-now/umc.cmc.1r0vbavrjo1kvasuojkuvkde4",
+          "price": "USD9.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0ND548M9ACA8DG2O9ISVYRG51M/ref=atv_dp",
+          "price": "USD4.29"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0ND548M9ACA8DG2O9ISVYRG51M/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0ND548M9ACA8DG2O9ISVYRG51M/ref=atv_dp",
+          "price": "USD9.99"
+        }
+      ]
+    },
+    {
+      "episode_number": null,
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-25-last-mohicans/",
       "title": "The Last of the Mohicans",
       "year": "1992",
       "imdb_id": "tt0104691",
@@ -3510,7 +6444,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-87-lebanon-2009/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-24-apocalypse-now/",
       "title": "Apocalypse Now",
       "year": "1979",
       "imdb_id": "tt0078788",
@@ -3567,7 +6501,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-episode-86-the-big-red-one-1980/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-23-dirty-dozen/",
       "title": "The Dirty Dozen",
       "year": "1967",
       "imdb_id": "tt0061578",
@@ -3583,7 +6517,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-85-outside-the-law-2010/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-22-clear-and-present-danger/",
       "title": "Clear and Present Danger",
       "year": "1994",
       "imdb_id": "tt0109444",
@@ -3620,7 +6554,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/episode-84-hacksaw-ridge-2016/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-21-african-queen/",
       "title": "The African Queen",
       "year": "1951",
       "imdb_id": "tt0043265",
@@ -3671,7 +6605,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-83-patriot-2000/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-20-here-eternity/",
       "title": "From Here to Eternity",
       "year": "1953",
       "imdb_id": "tt0045793",
@@ -3702,7 +6636,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-82-ottoman-lieutenant-2017/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-19-rescue-dawn/",
       "title": "Rescue Dawn",
       "year": "2006",
       "imdb_id": "tt0462504",
@@ -3752,7 +6686,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-81-casualties-war-1989/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-18-battle-algiers/",
       "title": "The Battle of Algiers",
       "year": "1966",
       "imdb_id": "tt0058946",
@@ -3821,7 +6755,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-80-private-war-2018/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-17-glory/",
       "title": "Glory",
       "year": "1989",
       "imdb_id": "tt0097441",
@@ -3865,7 +6799,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-79-great-escape-1963/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-16-red-dawn-2012/",
       "title": "Red Dawn",
       "year": "2012",
       "imdb_id": "tt1234719",
@@ -3948,7 +6882,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-78-raiders-lost-ark-1981/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-15-red-dawn/",
       "title": "Red Dawn",
       "year": "1984",
       "imdb_id": "tt0087985",
@@ -4004,7 +6938,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-77-night-shooting-stars-1982/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-14-force-10-navarone/",
       "title": "Force 10 from Navarone",
       "year": "1978",
       "imdb_id": "tt0077572",
@@ -4099,7 +7033,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-76-red-cliff-2008/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-13-three-kings/",
       "title": "Three Kings",
       "year": "1999",
       "imdb_id": "tt0120188",
@@ -4130,7 +7064,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-75-sum-all-fears-2002/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-12-mash/",
       "title": "Mash",
       "year": "2019",
       "imdb_id": "tt9627088",
@@ -4146,7 +7080,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-74-hurt-locker-2008/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-11-enemy-gates/",
       "title": "Enemy at the Gates",
       "year": "2001",
       "imdb_id": "tt0215750",
@@ -4197,7 +7131,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-73-promise-2016/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-10-fury/",
       "title": "Fury",
       "year": "2014",
       "imdb_id": "tt2713180",
@@ -4248,7 +7182,7 @@
     },
     {
       "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-72-come-and-see-1985/",
+      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-9-fires-plain/",
       "title": "Fires on the Plain",
       "year": "1959",
       "imdb_id": "tt0053121",
@@ -4260,1126 +7194,6 @@
       "director": "Kon Ichikawa",
       "plot": "In the closing days of WWII, remnants of the Japanese army in Leyte are abandoned by their command and face certain death by starvation.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZjlhZjk0Y2ItYzAxNS00YWU1LWIzMWQtMDY4NzY3YjUwZTNhXkEyXkFqcGc@._V1_SX300.jpg",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-71-thirty-seconds-over-tokyo-1944/",
-      "title": "Thirty Seconds Over Tokyo",
-      "year": "1944",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-70-crash-dive-1943/",
-      "title": "Crash Dive",
-      "year": "1943",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/redbad-2018/",
-      "title": "Redbad",
-      "year": "2018",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-68-key-1958/",
-      "title": "The Key",
-      "year": "1958",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-67-darkest-hour-2017/",
-      "title": "Darkest Hour",
-      "year": "2017",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-66-dunkirk-2017/",
-      "title": "Dunkirk",
-      "year": "2017",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-65-battle-incheon-operation-chromite-2016/",
-      "title": "Battle for Incheon: Operation Chromite",
-      "year": "2016",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-64-predator-1987/",
-      "title": "Predator",
-      "year": "1987",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-63-bridge-river-kwai-1957/",
-      "title": "The Bridge on the River Kwai",
-      "year": "1957",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-62-memphis-belle-1990/",
-      "title": "Memphis Belle",
-      "year": "1990",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/boco/",
-      "title": "Edge of Tomorrow",
-      "year": "2014",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/boco/",
-      "title": "Triple Frontier",
-      "year": "2019",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/boco/",
-      "title": "Commando",
-      "year": "1985 LIVE",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-61-uss-indianapolis-men-courage-2016/",
-      "title": "USS Indianapolis: Men of Courage",
-      "year": "2016",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-60-green-zone-2010/",
-      "title": "Green Zone",
-      "year": "2010",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-59-heaven-and-earth-1993/",
-      "title": "Heaven and Earth",
-      "year": "1993",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-58-conan-barbarian-1982/",
-      "title": "Conan the Barbarian",
-      "year": "1982",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-57-behind-enemy-lines-2001/",
-      "title": "Behind Enemy Lines",
-      "year": "2001",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-56-salvador-1986/",
-      "title": "Salvador",
-      "year": "1986",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-55-inglourious-basterds-2009/",
-      "title": "Inglourious Basterds",
-      "year": "2009",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-54-flags-our-fathers/",
-      "title": "Flags of Our Fathers",
-      "year": "2006",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-53-letters-iwo-jima/",
-      "title": "Letters from Iwo Jima",
-      "year": "2006",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-52-paths-glory/",
-      "title": "Paths of Glory",
-      "year": "1957",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-51-robocop-1987/",
-      "title": "RoboCop",
-      "year": "1987",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-50-black-book/",
-      "title": "Black Book",
-      "year": "2006",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-49-courage-under-fire/",
-      "title": "Courage Under Fire",
-      "year": "1996",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-48-pearl-harbor/",
-      "title": "Pearl Harbor",
-      "year": "2001",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-47-valkyrie/",
-      "title": "Valkyrie",
-      "year": "2008",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-46-deer-hunter/",
-      "title": "The Deer Hunter",
-      "year": "1978",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-45-biloxi-blues/",
-      "title": "Biloxi Blues",
-      "year": "1988",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-44-all-quiet-western-front-1930/",
-      "title": "All Quiet on the Western Front",
-      "year": "1930",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-43-ran-%e4%b9%b1/",
-      "title": "RAN",
-      "year": "乱",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-42-downfall-der-untergang/",
-      "title": "Episode 42 Downfall",
-      "year": "Der Untergang",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-41-von-ryans-express/",
-      "title": "Von Ryan’s Express",
-      "year": "1965",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-40-u-571/",
-      "title": "U-571",
-      "year": "2001",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-39-sicario/",
-      "title": "Sicario",
-      "year": "2015",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-38-sands-iwo-jima/",
-      "title": "Sands of Iwo Jima",
-      "year": "1949",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/boco/",
-      "title": "Terminator 2: Judgment Day",
-      "year": "1991",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/boco/",
-      "title": "Wonder Woman",
-      "year": "2017",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/boco/",
-      "title": "Starship Troopers",
-      "year": "1997",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/boco/",
-      "title": "Rambo: First Blood Part II",
-      "year": "1985",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-37-dr-strangelove/",
-      "title": "Dr. Strangelove",
-      "year": "1964",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-36-army-shadows-larm%c3%a9e-des-ombres/",
-      "title": "Army of Shadows",
-      "year": "L’armée des ombres",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-35-kellys-heroes/",
-      "title": "Kelly’s Heroes",
-      "year": "1970",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-34-aliens/",
-      "title": "Aliens",
-      "year": "1986",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-33-star-wars/",
-      "title": "Star Wars",
-      "year": "1977",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-32-paisan/",
-      "title": "Paisan",
-      "year": "1946",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-31-enemy-below/",
-      "title": "The Enemy Below",
-      "year": "1957",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-30-platoon/",
-      "title": "Platoon",
-      "year": "1986",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-29-siege/",
-      "title": "The Siege",
-      "year": "1998",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-28-operation-dumbo-drop/",
-      "title": "Operation Dumbo Drop",
-      "year": "1995",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-27-mongol/",
-      "title": "Mongol",
-      "year": "2007",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-26-paradise-now/",
-      "title": "Paradise Now",
-      "year": "2005",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-25-last-mohicans/",
-      "title": "The Last Of The Mohicans",
-      "year": "1992",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-24-apocalypse-now/",
-      "title": "Apocalypse Now",
-      "year": "1979",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-23-dirty-dozen/",
-      "title": "The Dirty Dozen",
-      "year": "1967",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-22-clear-and-present-danger/",
-      "title": "Clear and Present Danger",
-      "year": "1994",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-21-african-queen/",
-      "title": "The African Queen",
-      "year": "1951",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-20-here-eternity/",
-      "title": "From Here to Eternity",
-      "year": "1953",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-19-rescue-dawn/",
-      "title": "Rescue Dawn",
-      "year": "2006",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-18-battle-algiers/",
-      "title": "The Battle of Algiers",
-      "year": "1966",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-17-glory/",
-      "title": "Glory",
-      "year": "1989",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-16-red-dawn-2012/",
-      "title": "Red Dawn",
-      "year": "2012",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-15-red-dawn/",
-      "title": "Red Dawn",
-      "year": "1984",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-14-force-10-navarone/",
-      "title": "Force 10 from Navarone",
-      "year": "1978",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-13-three-kings/",
-      "title": "Three Kings",
-      "year": "1999",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-12-mash/",
-      "title": "MASH",
-      "year": "1972",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-11-enemy-gates/",
-      "title": "Enemy at the Gates",
-      "year": "2001",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-10-fury/",
-      "title": "Fury",
-      "year": "2014",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": []
-    },
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-9-fires-plain/",
-      "title": "Fires on the Plain",
-      "year": "1959",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
       "streaming_options": []
     }
   ]

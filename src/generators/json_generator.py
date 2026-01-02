@@ -49,9 +49,9 @@ class JSONGenerator:
         movies = []
 
         # Iterate through episodes and combine data
-        for idx, row in episodes_df.iterrows():
-            # Get corresponding OMDB data
-            omdb_info = omdb_data[idx] if idx < len(omdb_data) else None
+        for position, (idx, row) in enumerate(episodes_df.iterrows()):
+            # Get corresponding OMDB data using position, not DataFrame index
+            omdb_info = omdb_data[position] if position < len(omdb_data) else None
 
             # Get IMDb ID if available
             imdb_id = omdb_info.get('imdbID') if omdb_info else None
