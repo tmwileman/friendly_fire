@@ -107,17 +107,17 @@ function updateStatistics(data) {
 
 // Initialize DataTable
 function initializeTable() {
-    // Prepare table data
+    // Prepare table data with raw values for sorting
     const tableData = moviesData.map(movie => [
         formatEpisodeNumber(movie.episode_number, movie.episode_url),
         movie.title || '',
         formatPlot(movie.plot),
         movie.year || '',
         formatRating(movie.imdb_rating, movie.imdb_votes),
-        formatHostRating(movie.ar),
-        formatHostRating(movie.br),
-        formatHostRating(movie.jr),
-        formatHostRating(movie.rating),
+        movie.ar,  // Raw value for sorting
+        movie.br,  // Raw value for sorting
+        movie.jr,  // Raw value for sorting
+        movie.rating,  // Raw value for sorting
         formatStreamingOptions(movie.streaming_options),
         formatLinks(movie.imdb_url, movie.imdb_id)
     ]);
@@ -161,25 +161,63 @@ function initializeTable() {
                 targets: 5,
                 width: '80px',
                 className: 'dt-center',
-                responsivePriority: 5
+                responsivePriority: 5,
+                render: function(data, type, row) {
+                    if (type === 'display') {
+                        return formatHostRating(data);
+                    }
+                    // For sorting: treat null/empty as -Infinity so they sort last
+                    if (type === 'sort') {
+                        return data === null || data === '' ? -Infinity : parseFloat(data) || data;
+                    }
+                    return data;
+                }
             },
             {
                 targets: 6,
                 width: '80px',
                 className: 'dt-center',
-                responsivePriority: 6
+                responsivePriority: 6,
+                render: function(data, type, row) {
+                    if (type === 'display') {
+                        return formatHostRating(data);
+                    }
+                    if (type === 'sort') {
+                        return data === null || data === '' ? -Infinity : parseFloat(data) || data;
+                    }
+                    return data;
+                }
             },
             {
                 targets: 7,
                 width: '80px',
                 className: 'dt-center',
-                responsivePriority: 7
+                responsivePriority: 7,
+                render: function(data, type, row) {
+                    if (type === 'display') {
+                        return formatHostRating(data);
+                    }
+                    if (type === 'sort') {
+                        return data === null || data === '' ? -Infinity : parseFloat(data) || data;
+                    }
+                    return data;
+                }
             },
             {
                 targets: 8,
                 width: '90px',
                 className: 'dt-center',
-                responsivePriority: 4
+                responsivePriority: 4,
+                render: function(data, type, row) {
+                    if (type === 'display') {
+                        return formatHostRating(data);
+                    }
+                    if (type === 'sort') {
+                        // For text ratings, they should sort last
+                        return data === null || data === '' ? -Infinity : data;
+                    }
+                    return data;
+                }
             },
             {
                 targets: 9,
