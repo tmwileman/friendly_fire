@@ -111,7 +111,6 @@ function initializeTable() {
     const tableData = moviesData.map(movie => [
         formatEpisodeNumber(movie.episode_number, movie.episode_url),
         movie.title || '',
-        formatPlot(movie.plot),
         movie.year || '',
         formatRating(movie.imdb_rating, movie.imdb_votes),
         movie.ar,  // Raw value for sorting
@@ -143,22 +142,16 @@ function initializeTable() {
             },
             {
                 targets: 2,
-                width: '200px',
-                orderable: false,
-                responsivePriority: 10
-            },
-            {
-                targets: 3,
                 width: '80px',
                 className: 'dt-center'
             },
             {
-                targets: 4,
+                targets: 3,
                 width: '120px',
                 className: 'dt-center'
             },
             {
-                targets: 5,
+                targets: 4,
                 width: '80px',
                 className: 'dt-center',
                 responsivePriority: 5,
@@ -174,7 +167,7 @@ function initializeTable() {
                 }
             },
             {
-                targets: 6,
+                targets: 5,
                 width: '80px',
                 className: 'dt-center',
                 responsivePriority: 6,
@@ -189,7 +182,7 @@ function initializeTable() {
                 }
             },
             {
-                targets: 7,
+                targets: 6,
                 width: '80px',
                 className: 'dt-center',
                 responsivePriority: 7,
@@ -204,7 +197,7 @@ function initializeTable() {
                 }
             },
             {
-                targets: 8,
+                targets: 7,
                 width: '90px',
                 className: 'dt-center',
                 responsivePriority: 4,
@@ -220,11 +213,11 @@ function initializeTable() {
                 }
             },
             {
-                targets: 9,
+                targets: 8,
                 orderable: false
             },
             {
-                targets: 10,
+                targets: 9,
                 width: '100px',
                 orderable: false,
                 className: 'dt-center'
@@ -286,22 +279,6 @@ function formatRating(rating, votes) {
         <strong>${rating}</strong>
         <span class="rating-votes" style="font-size:0.8em; color:#6b7280;">${formattedVotes}</span>
     </div>`;
-}
-
-// Format plot with truncation and tooltip
-function formatPlot(plot) {
-    if (!plot || plot === 'N/A' || plot.trim() === '') {
-        return '<span class="no-streaming">-</span>';
-    }
-
-    // Truncate long plots
-    const maxLength = 100;
-    if (plot.length > maxLength) {
-        const truncated = plot.substring(0, maxLength - 3) + '...';
-        return `<span class="plot-text" title="${plot.replace(/"/g, '&quot;')}">${truncated}</span>`;
-    }
-
-    return `<span class="plot-text">${plot}</span>`;
 }
 
 // Format host rating (handles both numeric and text)

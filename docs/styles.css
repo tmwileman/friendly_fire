@@ -374,21 +374,6 @@ a.streaming-badge.badge-peacock:active {
     color: #ef4444;
 }
 
-/* Plot Text */
-.plot-text {
-    font-size: 13px;
-    color: #666;
-    cursor: help;
-    display: block;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-}
-
-.plot-text:hover {
-    color: #333;
-}
-
 /* Footer */
 footer {
     margin-top: 30px;
