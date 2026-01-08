@@ -111,8 +111,13 @@ function initializeTable() {
     const tableData = moviesData.map(movie => [
         formatEpisodeNumber(movie.episode_number, movie.episode_url),
         movie.title || '',
+        formatPlot(movie.plot),
         movie.year || '',
         formatRating(movie.imdb_rating, movie.imdb_votes),
+        formatHostRating(movie.ar),
+        formatHostRating(movie.br),
+        formatHostRating(movie.jr),
+        formatHostRating(movie.rating),
         formatStreamingOptions(movie.streaming_options),
         formatLinks(movie.imdb_url, movie.imdb_id)
     ]);
@@ -138,20 +143,50 @@ function initializeTable() {
             },
             {
                 targets: 2,
+                width: '200px',
+                orderable: false,
+                responsivePriority: 10
+            },
+            {
+                targets: 3,
                 width: '80px',
                 className: 'dt-center'
             },
             {
-                targets: 3,
+                targets: 4,
                 width: '120px',
                 className: 'dt-center'
             },
             {
-                targets: 4,
+                targets: 5,
+                width: '80px',
+                className: 'dt-center',
+                responsivePriority: 5
+            },
+            {
+                targets: 6,
+                width: '80px',
+                className: 'dt-center',
+                responsivePriority: 6
+            },
+            {
+                targets: 7,
+                width: '80px',
+                className: 'dt-center',
+                responsivePriority: 7
+            },
+            {
+                targets: 8,
+                width: '90px',
+                className: 'dt-center',
+                responsivePriority: 4
+            },
+            {
+                targets: 9,
                 orderable: false
             },
             {
-                targets: 5,
+                targets: 10,
                 width: '100px',
                 orderable: false,
                 className: 'dt-center'
@@ -213,6 +248,44 @@ function formatRating(rating, votes) {
         <strong>${rating}</strong>
         <span class="rating-votes" style="font-size:0.8em; color:#6b7280;">${formattedVotes}</span>
     </div>`;
+}
+
+// Format plot with truncation and tooltip
+function formatPlot(plot) {
+    if (!plot || plot === 'N/A' || plot.trim() === '') {
+        return '<span class="no-streaming">-</span>';
+    }
+
+    // Truncate long plots
+    const maxLength = 100;
+    if (plot.length > maxLength) {
+        const truncated = plot.substring(0, maxLength - 3) + '...';
+        return `<span class="plot-text" title="${plot.replace(/"/g, '&quot;')}">${truncated}</span>`;
+    }
+
+    return `<span class="plot-text">${plot}</span>`;
+}
+
+// Format host rating (handles both numeric and text)
+function formatHostRating(rating) {
+    if (!rating || rating === 'N/A' || rating === null) {
+        return '<span class="no-streaming">-</span>';
+    }
+
+    // Check if numeric for color coding
+    const numericRating = parseFloat(rating);
+    if (!isNaN(numericRating)) {
+        let colorClass = 'rating-low';
+        if (numericRating >= 4) {
+            colorClass = 'rating-high';
+        } else if (numericRating >= 3) {
+            colorClass = 'rating-medium';
+        }
+        return `<span class="host-rating ${colorClass}">${rating}</span>`;
+    }
+
+    // Return text rating as-is
+    return `<span class="host-rating">${rating}</span>`;
 }
 
 // Format streaming options as badges

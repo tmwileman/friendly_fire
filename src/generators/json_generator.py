@@ -81,7 +81,12 @@ class JSONGenerator:
                     'director': omdb_info.get('Director', 'N/A'),
                     'plot': omdb_info.get('Plot', 'N/A'),
                     'poster': omdb_info.get('Poster', ''),
-                    'streaming_options': []
+                    'streaming_options': [],
+                    'ar': None,
+                    'br': None,
+                    'jr': None,
+                    'rating': None,
+                    'rating_notes': ''
                 }
             else:
                 # No IMDb data - use scraped data with disclaimer
@@ -100,7 +105,12 @@ class JSONGenerator:
                     'director': 'N/A',
                     'plot': 'IMDb data not found for this movie. Episode information scraped from podcast website.',
                     'poster': '',
-                    'streaming_options': []
+                    'streaming_options': [],
+                    'ar': None,
+                    'br': None,
+                    'jr': None,
+                    'rating': None,
+                    'rating_notes': ''
                 }
 
             # Add streaming options if available

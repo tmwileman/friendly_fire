@@ -356,6 +356,39 @@ a.streaming-badge.badge-peacock:active {
     color: #f39c12;
 }
 
+/* Host Ratings */
+.host-rating {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.rating-high {
+    color: #10b981;
+}
+
+.rating-medium {
+    color: #f59e0b;
+}
+
+.rating-low {
+    color: #ef4444;
+}
+
+/* Plot Text */
+.plot-text {
+    font-size: 13px;
+    color: #666;
+    cursor: help;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.plot-text:hover {
+    color: #333;
+}
+
 /* Footer */
 footer {
     margin-top: 30px;
