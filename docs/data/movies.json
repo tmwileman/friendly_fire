@@ -1,28 +1,7 @@
 {
   "last_updated": "2026-01-02T21:09:14.758891Z",
-  "total_movies": 169,
+  "total_movies": 168,
   "movies": [
-    {
-      "episode_number": null,
-      "episode_url": "https://maximumfun.org/episodes/friendly-fire/over-and-out-2021/",
-      "title": "Over and Out",
-      "year": "2018",
-      "imdb_id": "tt8004896",
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": "https://www.imdb.com/title/tt8004896",
-      "runtime": "12 min",
-      "genre": "Short, Comedy, Drama",
-      "director": "Brian Sutherin",
-      "plot": "Two women bond in a hospital after having recently given birth.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNGM5MjYtYjZjMi00ZDhmLWExNDQtNzEzYzQ4YmViNjllXkEyXkFqcGdeQXVyNjM5OTM5OTU@._V1_SX300.jpg",
-      "streaming_options": [],
-      "ar": null,
-      "br": null,
-      "jr": null,
-      "rating": null,
-      "rating_notes": ""
-    },
     {
       "episode_number": null,
       "episode_url": "https://maximumfun.org/episodes/friendly-fire/duck-soup-1933/",
@@ -1972,7 +1951,7 @@
       "imdb_url": "https://www.imdb.com/title/tt0034891",
       "runtime": "115 min",
       "genre": "Drama, War",
-      "director": "Noël Coward, David Lean",
+      "director": "No\u00ebl Coward, David Lean",
       "plot": "This \"story of a ship\", the British destroyer H.M.S. Torrin, is told in flashbacks by survivors as they cling to a life raft.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMjE3MTJkOWUtMDMwNy00MWU5LWFjZjctZTI4MTlmZGJkMzU1XkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
@@ -5682,7 +5661,7 @@
       "imdb_url": "https://www.imdb.com/title/tt6155374",
       "runtime": "160 min",
       "genre": "Action, Drama, History",
-      "director": "Roel Reiné",
+      "director": "Roel Rein\u00e9",
       "plot": "The power struggles and wars between the Frisian Redbad and his sworn enemy Pepin of Herstal, Lord of the Franks.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZTg0NmRjNTgtMjI1Mi00Y2ZmLWE1NDgtOWQzZTkxNzg0YjM5XkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
@@ -6573,7 +6552,7 @@
       "ar": "3.0",
       "br": "3.0",
       "jr": "2.75",
-      "rating": "The unattainable c�dula",
+      "rating": "The unattainable c\ufffddula",
       "rating_notes": "A:3; B:3; J:2.75+.25 ASPCA badges"
     },
     {
@@ -6894,7 +6873,7 @@
       "ar": "4.0",
       "br": "3.0",
       "jr": "4",
-      "rating": "M�ntze's gun-boner",
+      "rating": "M\ufffdntze's gun-boner",
       "rating_notes": "A:4; J:3+1 Luger with half-empty clip so it's a less effective gun-boner; B:4"
     },
     {
