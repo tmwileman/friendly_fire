@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T12:26:51.921158Z",
+  "last_updated": "2026-02-16T12:23:49.626082Z",
   "total_movies": 168,
   "movies": [
     {
@@ -1417,7 +1417,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0G9FXZRTWNADA0MX1RP3VMFRRQ/ref=atv_dp",
-          "price": "USD19.99"
+          "price": "USD4.99"
         }
       ],
       "ar": null,
@@ -1554,7 +1554,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0TVMXIGVWHESSW82W717FEO7DB/ref=atv_dp",
-          "price": "USD14.99"
+          "price": "USD6.99"
         }
       ],
       "ar": null,
@@ -1665,7 +1665,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0TVMXIGVWHESSW82W717FEO7DB/ref=atv_dp",
-          "price": "USD14.99"
+          "price": "USD6.99"
         }
       ],
       "ar": null,
@@ -1740,7 +1740,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0TVMXIGVWHESSW82W717FEO7DB/ref=atv_dp",
-          "price": "USD14.99"
+          "price": "USD6.99"
         }
       ],
       "ar": null,
@@ -4609,7 +4609,7 @@
           "type": "buy",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0HK9XQB5FFVNQMZVSAVDGTZKSO/ref=atv_dp",
-          "price": "USD7.99"
+          "price": "USD14.99"
         },
         {
           "service": "prime",
@@ -4869,7 +4869,7 @@
           "type": "buy",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0QBQ1GFOUMR6W8PFRWRT7RGDT5/ref=atv_dp",
-          "price": "USD5.99"
+          "price": "USD4.99"
         },
         {
           "service": "apple",
@@ -4896,13 +4896,6 @@
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0QBQ1GFOUMR6W8PFRWRT7RGDT5/ref=atv_dp",
           "price": "USD3.99"
-        },
-        {
-          "service": "prime",
-          "type": "buy",
-          "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0QBQ1GFOUMR6W8PFRWRT7RGDT5/ref=atv_dp",
-          "price": "USD4.99"
         },
         {
           "service": "prime",
@@ -5555,17 +5548,17 @@
           "price": "USD3.99"
         },
         {
+          "service": "starz",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.starz.com/us/en/movies/the-promise-51610"
+        },
+        {
           "service": "prime",
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0GQH44KZLF3KGBAOQHQO8VH50L/ref=atv_dp",
           "price": "USD14.99"
-        },
-        {
-          "service": "starz",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.starz.com/us/en/movies/the-promise-51610"
         },
         {
           "service": "prime",
@@ -6059,7 +6052,7 @@
         },
         {
           "service": "disney",
-          "type": "addon",
+          "type": "subscription",
           "quality": "hd",
           "link": "https://www.disneyplus.com/browse/entity-784d3d44-0cf3-429c-a372-bbf8ecbedba7"
         },
@@ -7114,7 +7107,7 @@
           "type": "buy",
           "quality": "sd",
           "link": "https://www.amazon.com/gp/video/detail/0QBV72Z9ZSN0LXEA1GXRNUZ5K6/ref=atv_dp",
-          "price": "USD17.99"
+          "price": "USD4.99"
         },
         {
           "service": "prime",
@@ -7799,7 +7792,7 @@
           "type": "buy",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0H3D1WUX960B8QBO6CYCWOOYZ3/ref=atv_dp",
-          "price": "USD5.00"
+          "price": "USD7.99"
         },
         {
           "service": "prime",
@@ -8811,7 +8804,7 @@
       "year": "1966",
       "imdb_id": "tt0058946",
       "imdb_rating": "8.1",
-      "imdb_votes": "73,884",
+      "imdb_votes": "74,756",
       "imdb_url": "https://www.imdb.com/title/tt0058946",
       "runtime": "121 min",
       "genre": "Drama, War",
@@ -8901,13 +8894,6 @@
       "streaming_options": [
         {
           "service": "prime",
-          "type": "rent",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0RCLWAV8DAHJLSA9AHDGCE04MF/ref=atv_dp",
-          "price": "USD3.99"
-        },
-        {
-          "service": "prime",
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0RCLWAV8DAHJLSA9AHDGCE04MF/ref=atv_dp",
@@ -8919,6 +8905,13 @@
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0RCLWAV8DAHJLSA9AHDGCE04MF/ref=atv_dp",
           "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0RCLWAV8DAHJLSA9AHDGCE04MF/ref=atv_dp",
+          "price": "USD3.99"
         },
         {
           "service": "netflix",
