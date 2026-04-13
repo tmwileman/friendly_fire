@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T12:29:47.341757Z",
+  "last_updated": "2026-04-13T12:35:01.852149Z",
   "total_movies": 168,
   "movies": [
     {
@@ -201,6 +201,18 @@
           "link": "https://tubitv.com/movies/548580/a-midnight-clear"
         },
         {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/5f5ad94b638b1800139e73bf/details"
+        },
+        {
+          "service": "prime",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0T1V2J7TKD1SJG1GGQ6ATQ1NPZ/ref=atv_dp"
+        },
+        {
           "service": "prime",
           "type": "subscription",
           "quality": "sd",
@@ -324,6 +336,12 @@
         },
         {
           "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0N8VNX138FWG8S5AC7C58T1HY1/ref=atv_dp"
+        },
+        {
+          "service": "prime",
           "type": "rent",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0N8VNX138FWG8S5AC7C58T1HY1/ref=atv_dp",
@@ -335,12 +353,6 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0N8VNX138FWG8S5AC7C58T1HY1/ref=atv_dp",
           "price": "USD14.99"
-        },
-        {
-          "service": "prime",
-          "type": "addon",
-          "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0N8VNX138FWG8S5AC7C58T1HY1/ref=atv_dp"
         }
       ],
       "ar": null,
@@ -404,6 +416,12 @@
           "type": "addon",
           "quality": "sd",
           "link": "https://www.amazon.com/gp/video/detail/0GOAXLOV1HBFEH6UHBZNYFYU3U/ref=atv_dp"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/610c5422bd1d980013adec45/details"
         }
       ],
       "ar": null,
@@ -658,6 +676,12 @@
           "price": "USD9.99"
         },
         {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/5cf5d1cb227dc38a3045af6c/details"
+        },
+        {
           "service": "tubi",
           "type": "free",
           "quality": "hd",
@@ -723,7 +747,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0N0FHJ51FUKY45MUVPLO26BRHH/ref=atv_dp",
-          "price": "USD4.99"
+          "price": "USD12.99"
         }
       ],
       "ar": null,
@@ -756,16 +780,16 @@
         },
         {
           "service": "prime",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0NHBI68CA3QX7IVM309HCEJVZD/ref=atv_dp",
-          "price": "USD3.99"
-        },
-        {
-          "service": "prime",
           "type": "subscription",
           "quality": "sd",
           "link": "https://www.amazon.com/gp/video/detail/0NHBI68CA3QX7IVM309HCEJVZD/ref=atv_dp"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/overlord/umc.cmc.3gw4mef0x15dqpbcvbqjx76dr?playableId=tvs.sbd.9001%3A1439493396",
+          "price": "USD14.99"
         },
         {
           "service": "prime",
@@ -775,11 +799,11 @@
           "price": "USD16.99"
         },
         {
-          "service": "apple",
-          "type": "buy",
+          "service": "prime",
+          "type": "rent",
           "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/overlord/umc.cmc.3gw4mef0x15dqpbcvbqjx76dr?playableId=tvs.sbd.9001%3A1439493396",
-          "price": "USD14.99"
+          "link": "https://www.amazon.com/gp/video/detail/0NHBI68CA3QX7IVM309HCEJVZD/ref=atv_dp",
+          "price": "USD3.99"
         }
       ],
       "ar": null,
@@ -1140,16 +1164,16 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BY2QyOTU2ZTAtYmRkMC00NDVjLThlNWQtMmI0MWI4NDM3YmRmXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "prime",
-          "type": "addon",
-          "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0T1QUG1BFXAALJ25D75U6JBMX9/ref=atv_dp"
-        },
-        {
           "service": "tubi",
           "type": "free",
           "quality": "hd",
           "link": "https://tubitv.com/movies/100039784/jakob-the-liar"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0T1QUG1BFXAALJ25D75U6JBMX9/ref=atv_dp"
         },
         {
           "service": "prime",
@@ -1188,17 +1212,17 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMjA0NTgwOTk5Ml5BMl5BanBnXkFtZTcwMjE3NDc5OQ@@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "netflix",
-          "type": "subscription",
-          "quality": "uhd",
-          "link": "https://www.netflix.com/title/70259795/"
-        },
-        {
           "service": "prime",
           "type": "rent",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0FHW07P64EEBTUAKC060NSJAKY/ref=atv_dp",
           "price": "USD3.99"
+        },
+        {
+          "service": "netflix",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://www.netflix.com/title/70259795/"
         },
         {
           "service": "prime",
@@ -1265,7 +1289,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0FSC59Y8GXDA8XTLPB983FCWZK/ref=atv_dp",
-          "price": "USD4.99"
+          "price": "USD17.99"
         }
       ],
       "ar": null,
@@ -1298,17 +1322,17 @@
         },
         {
           "service": "prime",
-          "type": "buy",
-          "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0MOV1N3MT8ZEX39JTVOWKHDIB8/ref=atv_dp",
-          "price": "USD7.99"
-        },
-        {
-          "service": "prime",
           "type": "rent",
           "quality": "sd",
           "link": "https://www.amazon.com/gp/video/detail/0MOV1N3MT8ZEX39JTVOWKHDIB8/ref=atv_dp",
           "price": "USD3.79"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0MOV1N3MT8ZEX39JTVOWKHDIB8/ref=atv_dp",
+          "price": "USD7.99"
         },
         {
           "service": "hbo",
@@ -1450,17 +1474,17 @@
           "link": "https://tv.apple.com/us/movie/greyhound/umc.cmc.o5z5ztufuu3uv8lx7m0jcega?playableId=tvs.sbd.4000%3AVGREY0560101"
         },
         {
-          "service": "prime",
-          "type": "addon",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0S3031CPPUTBEK0WB3Y3EZRZJE/ref=atv_dp"
-        },
-        {
           "service": "apple",
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/greyhound/umc.cmc.o5z5ztufuu3uv8lx7m0jcega?playableId=tvs.sbd.9001%3A1805971117",
           "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0S3031CPPUTBEK0WB3Y3EZRZJE/ref=atv_dp"
         },
         {
           "service": "apple",
@@ -1515,7 +1539,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/wargames/umc.cmc.4n8grrnb4vq7tgygwcd1cxzcq?playableId=tvs.sbd.9001%3A268643342",
-          "price": "USD14.99"
+          "price": "USD9.99"
         },
         {
           "service": "apple",
@@ -1549,7 +1573,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0TVMXIGVWHESSW82W717FEO7DB/ref=atv_dp",
-          "price": "USD14.99"
+          "price": "USD9.99"
         }
       ],
       "ar": null,
@@ -1626,7 +1650,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/wargames/umc.cmc.4n8grrnb4vq7tgygwcd1cxzcq?playableId=tvs.sbd.9001%3A268643342",
-          "price": "USD14.99"
+          "price": "USD9.99"
         },
         {
           "service": "apple",
@@ -1660,7 +1684,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0TVMXIGVWHESSW82W717FEO7DB/ref=atv_dp",
-          "price": "USD14.99"
+          "price": "USD9.99"
         }
       ],
       "ar": null,
@@ -1701,7 +1725,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/wargames/umc.cmc.4n8grrnb4vq7tgygwcd1cxzcq?playableId=tvs.sbd.9001%3A268643342",
-          "price": "USD14.99"
+          "price": "USD9.99"
         },
         {
           "service": "apple",
@@ -1735,7 +1759,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0TVMXIGVWHESSW82W717FEO7DB/ref=atv_dp",
-          "price": "USD14.99"
+          "price": "USD9.99"
         }
       ],
       "ar": null,
@@ -1890,6 +1914,12 @@
           "link": "https://www.amazon.com/gp/video/detail/0L45IM9GV8MALXJGUE25F18NN9/ref=atv_dp"
         },
         {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/636c2cc5bc198f001337fd4d/details"
+        },
+        {
           "service": "hulu",
           "type": "addon",
           "quality": "hd",
@@ -1959,21 +1989,27 @@
           "service": "prime",
           "type": "addon",
           "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0R8M7EZI1BWJXVHH3CDJ60XQ5W/ref=atv_dp"
-        },
-        {
-          "service": "prime",
-          "type": "rent",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0R8M7EZI1BWJXVHH3CDJ60XQ5W/ref=atv_dp",
-          "price": "USD3.99"
+          "link": "https://www.amazon.com/gp/video/detail/0GZ2RYNUHERJ44MZ17Q48MB0LZ/ref=atv_dp"
         },
         {
           "service": "prime",
           "type": "buy",
           "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0R8M7EZI1BWJXVHH3CDJ60XQ5W/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0GZ2RYNUHERJ44MZ17Q48MB0LZ/ref=atv_dp",
           "price": "USD16.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0GZ2RYNUHERJ44MZ17Q48MB0LZ/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0GZ2RYNUHERJ44MZ17Q48MB0LZ/ref=atv_dp"
         }
       ],
       "ar": null,
@@ -2191,6 +2227,12 @@
           "type": "free",
           "quality": "hd",
           "link": "https://tubitv.com/movies/100012284/brigada-negra-doblado"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/617747b80b4e8f001a99ab20/details"
         }
       ],
       "ar": null,
@@ -2659,6 +2701,12 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BZWQ3Y2NiOGEtNjdmMS00ODI1LTk0ODktM2U3NjllNzlmZTkxXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/5bd3337867f34cef7af44774/details"
+        },
+        {
           "service": "prime",
           "type": "rent",
           "quality": "uhd",
@@ -2706,7 +2754,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/good-morning-vietnam/umc.cmc.71kit5z4trm6zoy8uw3b2e4rg?playableId=tvs.sbd.9001%3A480078729",
-          "price": "USD4.99"
+          "price": "USD17.99"
         },
         {
           "service": "prime",
@@ -2864,6 +2912,12 @@
         },
         {
           "service": "prime",
+          "type": "addon",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0N0CRC2LHDIAEZ477BOUYR7XA9/ref=atv_dp"
+        },
+        {
+          "service": "prime",
           "type": "rent",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0N0CRC2LHDIAEZ477BOUYR7XA9/ref=atv_dp",
@@ -2874,7 +2928,7 @@
           "type": "buy",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0N0CRC2LHDIAEZ477BOUYR7XA9/ref=atv_dp",
-          "price": "USD12.99"
+          "price": "USD5.99"
         }
       ],
       "ar": null,
@@ -2991,7 +3045,7 @@
           "type": "buy",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0NFPHMV9NDQO26HOEPBFHNYKQS/ref=atv_dp",
-          "price": "USD16.99"
+          "price": "USD5.99"
         },
         {
           "service": "prime",
@@ -3012,7 +3066,7 @@
           "type": "buy",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0G9DYGNT1UOK11QRRX1YE339LR/ref=atv_dp",
-          "price": "USD14.99"
+          "price": "USD5.99"
         }
       ],
       "ar": null,
@@ -3073,17 +3127,17 @@
         },
         {
           "service": "prime",
-          "type": "rent",
-          "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0QX0P3UN29J36Y25PDUOFZLCHG/ref=atv_dp",
-          "price": "USD2.99"
-        },
-        {
-          "service": "prime",
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0QX0P3UN29J36Y25PDUOFZLCHG/ref=atv_dp",
           "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0QX0P3UN29J36Y25PDUOFZLCHG/ref=atv_dp",
+          "price": "USD2.99"
         }
       ],
       "ar": null,
@@ -3223,23 +3277,23 @@
         },
         {
           "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0R1X96IP4EDZWJOSEWUV05JUAW/ref=atv_dp"
+        },
+        {
+          "service": "prime",
           "type": "buy",
           "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0GMJBMHPXGAOCYJY8QT3RD01QD/ref=atv_dp",
-          "price": "USD16.99"
+          "link": "https://www.amazon.com/gp/video/detail/0R1X96IP4EDZWJOSEWUV05JUAW/ref=atv_dp",
+          "price": "USD1.99"
         },
         {
           "service": "prime",
           "type": "rent",
           "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0GMJBMHPXGAOCYJY8QT3RD01QD/ref=atv_dp",
-          "price": "USD3.99"
-        },
-        {
-          "service": "prime",
-          "type": "addon",
-          "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0GMJBMHPXGAOCYJY8QT3RD01QD/ref=atv_dp"
+          "link": "https://www.amazon.com/gp/video/detail/0R1X96IP4EDZWJOSEWUV05JUAW/ref=atv_dp",
+          "price": "USD1.99"
         }
       ],
       "ar": null,
@@ -3475,10 +3529,11 @@
           "link": "https://www.amazon.com/gp/video/detail/0LH1OCP9HD16T8EX36A44GUAN2/ref=atv_dp"
         },
         {
-          "service": "peacock",
-          "type": "free",
-          "quality": "hd",
-          "link": "https://www.peacocktv.com/watch/asset/movies/k-19-the-widowmaker/53728148-951c-378e-aa98-621e11584cef"
+          "service": "prime",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0LH1OCP9HD16T8EX36A44GUAN2/ref=atv_dp",
+          "price": "USD8.99"
         },
         {
           "service": "prime",
@@ -3505,7 +3560,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0LH1OCP9HD16T8EX36A44GUAN2/ref=atv_dp",
-          "price": "USD4.99"
+          "price": "USD9.99"
         },
         {
           "service": "peacock",
@@ -3530,6 +3585,12 @@
           "type": "subscription",
           "quality": "hd",
           "link": "https://www.netflix.com/title/60023606/"
+        },
+        {
+          "service": "peacock",
+          "type": "free",
+          "quality": "hd",
+          "link": "https://www.peacocktv.com/watch/asset/movies/k-19-the-widowmaker/53728148-951c-378e-aa98-621e11584cef"
         }
       ],
       "ar": null,
@@ -3608,6 +3669,20 @@
           "type": "free",
           "quality": "sd",
           "link": "https://tubitv.com/movies/100005599/behold-a-pale-horse"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0M6LO0ZF498G8M0CXT8RX62NR6/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0M6LO0ZF498G8M0CXT8RX62NR6/ref=atv_dp",
+          "price": "USD12.99"
         }
       ],
       "ar": null,
@@ -3764,6 +3839,12 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0F70VRU4X13X0WAO9EN6UQEVOJ/ref=atv_dp",
           "price": "USD14.99"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/5ff7dc08926015001311d11f/details"
         }
       ],
       "ar": null,
@@ -3795,11 +3876,53 @@
           "price": "USD14.99"
         },
         {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0SNENG6GI43T7S9KP4JT7JHR67/ref=atv_dp",
+          "price": "USD2.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0SNENG6GI43T7S9KP4JT7JHR67/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
           "service": "apple",
           "type": "rent",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/rocky-iv/umc.cmc.59frzuu5jxxcr29ydegryu87i?playableId=tvs.sbd.9001%3A278077103",
           "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0SNENG6GI43T7S9KP4JT7JHR67/ref=atv_dp",
+          "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0M62NOI4YQ56OLH1WHTK25FFJQ/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0M62NOI4YQ56OLH1WHTK25FFJQ/ref=atv_dp",
+          "price": "USD2.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0M62NOI4YQ56OLH1WHTK25FFJQ/ref=atv_dp",
+          "price": "USD14.99"
         }
       ],
       "ar": null,
@@ -4005,7 +4128,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0U8DDFDXMKFLDEQYDUMI3TZKUP/ref=atv_dp",
-          "price": "USD12.99"
+          "price": "USD5.99"
         }
       ],
       "ar": null,
@@ -4033,28 +4156,14 @@
           "service": "apple",
           "type": "buy",
           "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/alexander/umc.cmc.dih99unweawfkd4ucjqs3gy1?playableId=tvs.sbd.9001%3A530951509",
-          "price": "USD4.99"
+          "link": "https://tv.apple.com/us/movie/alexander/umc.cmc.dih99unweawfkd4ucjqs3gy1?playableId=tvs.sbd.9001%3A916471239",
+          "price": "USD9.99"
         },
         {
           "service": "apple",
           "type": "rent",
           "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/alexander/umc.cmc.dih99unweawfkd4ucjqs3gy1?playableId=tvs.sbd.9001%3A530951509",
-          "price": "USD3.99"
-        },
-        {
-          "service": "prime",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0S7WODBPVOYOM6ATHBQ357ZMRQ/ref=atv_dp",
-          "price": "USD9.99"
-        },
-        {
-          "service": "prime",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0S7WODBPVOYOM6ATHBQ357ZMRQ/ref=atv_dp",
+          "link": "https://tv.apple.com/us/movie/alexander/umc.cmc.dih99unweawfkd4ucjqs3gy1?playableId=tvs.sbd.9001%3A916471239",
           "price": "USD3.99"
         },
         {
@@ -4070,6 +4179,20 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0I5L76ONQJ9VF3SUGEAK3E0KMN/ref=atv_dp",
           "price": "USD9.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0S7WODBPVOYOM6ATHBQ357ZMRQ/ref=atv_dp",
+          "price": "USD9.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0S7WODBPVOYOM6ATHBQ357ZMRQ/ref=atv_dp",
+          "price": "USD3.99"
         }
       ],
       "ar": null,
@@ -4195,6 +4318,27 @@
           "quality": "sd",
           "link": "https://tv.apple.com/us/movie/captain-america-the-first-avenger/umc.cmc.621ts42h8b35wrzkmdlqiozsw?playableId=tvs.sbd.9001%3A689184559",
           "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0K66R1MI9RUF7QL3R5PE7IP6GI/ref=atv_dp",
+          "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0K66R1MI9RUF7QL3R5PE7IP6GI/ref=atv_dp",
+          "price": "USD19.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0K66R1MI9RUF7QL3R5PE7IP6GI/ref=atv_dp",
+          "price": "USD3.99"
         },
         {
           "service": "prime",
@@ -4411,13 +4555,6 @@
         },
         {
           "service": "prime",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0J7YGHZP22IJYG02VG2DT4H4RX/ref=atv_dp",
-          "price": "USD3.99"
-        },
-        {
-          "service": "prime",
           "type": "addon",
           "quality": "sd",
           "link": "https://www.amazon.com/gp/video/detail/B0CKHMDMZF/ref=atv_dp"
@@ -4434,6 +4571,13 @@
           "type": "free",
           "quality": "hd",
           "link": "https://tubitv.com/movies/100045963/eye-in-the-sky"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0J7YGHZP22IJYG02VG2DT4H4RX/ref=atv_dp",
+          "price": "USD3.99"
         }
       ],
       "ar": null,
@@ -4478,12 +4622,6 @@
       "plot": "A Navy commander fights to prove the battle-worthiness of the PT boat at the start of World War II.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZDM2YzM3ZDgtZGE0Yi00NTcxLThhZDMtZGNiYTkzNjA5M2E0XkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
-        {
-          "service": "hbo",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://play.hbomax.com/movie/58ffd698-934b-4b14-a254-7afb70926540"
-        },
         {
           "service": "prime",
           "type": "rent",
@@ -4583,12 +4721,6 @@
       "plot": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L.s Team 6 in May 2011.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4OTUyNzcwN15BMl5BanBnXkFtZTcwMTQ1NDE3OA@@._V1_SX300.jpg",
       "streaming_options": [
-        {
-          "service": "netflix",
-          "type": "subscription",
-          "quality": "hd",
-          "link": "https://www.netflix.com/title/70251669/"
-        },
         {
           "service": "apple",
           "type": "buy",
@@ -4761,7 +4893,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0I5L76TZ9208YV80IZZEWDYJ99/ref=atv_dp",
-          "price": "USD9.99"
+          "price": "USD4.99"
         }
       ],
       "ar": null,
@@ -5139,6 +5271,12 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0L9N879LE4IE0TK0B0BDGH4E6G/ref=atv_dp",
           "price": "USD14.99"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/60d27f611e23180013bea29c/details"
         }
       ],
       "ar": null,
@@ -5406,8 +5544,8 @@
         {
           "service": "apple",
           "type": "addon",
-          "quality": "uhd",
-          "link": "https://tv.apple.com/us/movie/the-sum-of-all-fears/umc.cmc.26mlopdbu6i55ut3nwmzfwcyl?playableId=tvs.sbd.1000230%3AM6sf20lzrz3fXd5ziQ8VFAkICibEgWvc"
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/the-sum-of-all-fears/umc.cmc.26mlopdbu6i55ut3nwmzfwcyl?playableId=tvs.sbd.1000231%3A5e204e96-0d1f-44ae-95a8-28547fd8d048"
         },
         {
           "service": "hulu",
@@ -5432,21 +5570,21 @@
           "service": "prime",
           "type": "addon",
           "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0HFRL28OX00NLSFX1FW5MV5ZJH/ref=atv_dp"
-        },
-        {
-          "service": "prime",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0HFRL28OX00NLSFX1FW5MV5ZJH/ref=atv_dp",
-          "price": "USD14.99"
+          "link": "https://www.amazon.com/gp/video/detail/0PY1ZKD3EBX24OA3RSAP8VMNWF/ref=atv_dp"
         },
         {
           "service": "prime",
           "type": "rent",
           "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0HFRL28OX00NLSFX1FW5MV5ZJH/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0PY1ZKD3EBX24OA3RSAP8VMNWF/ref=atv_dp",
           "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0PY1ZKD3EBX24OA3RSAP8VMNWF/ref=atv_dp",
+          "price": "USD14.99"
         }
       ],
       "ar": null,
@@ -5474,27 +5612,21 @@
           "service": "prime",
           "type": "addon",
           "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0KIOR1VTT0Z38GABE7KJPPT7BP/ref=atv_dp"
+          "link": "https://www.amazon.com/gp/video/detail/0GCENXP0X5WSJYPC4H467CB4AP/ref=atv_dp"
         },
         {
           "service": "prime",
           "type": "rent",
           "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0KIOR1VTT0Z38GABE7KJPPT7BP/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0GCENXP0X5WSJYPC4H467CB4AP/ref=atv_dp",
           "price": "USD3.99"
         },
         {
           "service": "prime",
           "type": "buy",
           "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0KIOR1VTT0Z38GABE7KJPPT7BP/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0GCENXP0X5WSJYPC4H467CB4AP/ref=atv_dp",
           "price": "USD4.99"
-        },
-        {
-          "service": "netflix",
-          "type": "subscription",
-          "quality": "hd",
-          "link": "https://www.netflix.com/title/70105601/"
         }
       ],
       "ar": null,
@@ -5633,12 +5765,6 @@
           "type": "free",
           "quality": "sd",
           "link": "https://tubitv.com/movies/100021239/thirty-seconds-over-tokyo"
-        },
-        {
-          "service": "hbo",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://play.hbomax.com/movie/ad652878-f452-482f-af14-b136f28e2200"
         },
         {
           "service": "prime",
@@ -5924,7 +6050,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/dunkirk/umc.cmc.92rtp3fxthxcj84etmv1ymj5?playableId=tvs.sbd.9001%3A1300354540",
-          "price": "USD4.99"
+          "price": "USD12.99"
         },
         {
           "service": "prime",
@@ -5990,24 +6116,24 @@
           "link": "https://www.hulu.com/movie/predator-784d3d44-0cf3-429c-a372-bbf8ecbedba7"
         },
         {
-          "service": "prime",
-          "type": "rent",
+          "service": "disney",
+          "type": "subscription",
           "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0JHYXK5EOK0U0V77GF0R646PAX/ref=atv_dp",
-          "price": "USD3.99"
+          "link": "https://www.disneyplus.com/browse/entity-784d3d44-0cf3-429c-a372-bbf8ecbedba7"
         },
         {
           "service": "prime",
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0JHYXK5EOK0U0V77GF0R646PAX/ref=atv_dp",
-          "price": "USD14.99"
+          "price": "USD4.99"
         },
         {
-          "service": "disney",
-          "type": "subscription",
+          "service": "prime",
+          "type": "rent",
           "quality": "hd",
-          "link": "https://www.disneyplus.com/browse/entity-784d3d44-0cf3-429c-a372-bbf8ecbedba7"
+          "link": "https://www.amazon.com/gp/video/detail/0JHYXK5EOK0U0V77GF0R646PAX/ref=atv_dp",
+          "price": "USD3.99"
         }
       ],
       "ar": null,
@@ -6046,17 +6172,17 @@
         },
         {
           "service": "prime",
-          "type": "rent",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0MRU06QX4E4K4291TBRVZO31ZM/ref=atv_dp",
-          "price": "USD3.99"
-        },
-        {
-          "service": "prime",
           "type": "buy",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0MRU06QX4E4K4291TBRVZO31ZM/ref=atv_dp",
           "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0MRU06QX4E4K4291TBRVZO31ZM/ref=atv_dp",
+          "price": "USD3.99"
         }
       ],
       "ar": null,
@@ -6099,7 +6225,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0FO2OY3ADT0E8RZ7THIY1UVFPK/ref=atv_dp",
-          "price": "USD4.99"
+          "price": "USD12.99"
         },
         {
           "service": "prime",
@@ -6331,6 +6457,12 @@
         },
         {
           "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0R5KCV9QMO65V2O74PUJHVPBY0/ref=atv_dp"
+        },
+        {
+          "service": "prime",
           "type": "rent",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0R5KCV9QMO65V2O74PUJHVPBY0/ref=atv_dp",
@@ -6341,7 +6473,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0R5KCV9QMO65V2O74PUJHVPBY0/ref=atv_dp",
-          "price": "USD9.99"
+          "price": "USD3.99"
         },
         {
           "service": "prime",
@@ -6764,7 +6896,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/paths-of-glory/umc.cmc.6r57bqpaox2n1mpx2sc9uk174?playableId=tvs.sbd.9001%3A280272328",
-          "price": "USD4.99"
+          "price": "USD14.99"
         },
         {
           "service": "apple",
@@ -6786,6 +6918,12 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0H7HKUE4DJFCDCE6ANXL48ELCK/ref=atv_dp",
           "price": "USD14.99"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/5ff7dc1c926015001311d370/details"
         }
       ],
       "ar": null,
@@ -6844,6 +6982,12 @@
           "link": "https://www.criterionchannel.com/robocop"
         },
         {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/59d6646b142b60f007cb045e/details"
+        },
+        {
           "service": "prime",
           "type": "rent",
           "quality": "hd",
@@ -6888,17 +7032,17 @@
         },
         {
           "service": "prime",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0I5PMWZ6C84TU5IUYUY13EGELH/ref=atv_dp",
-          "price": "USD3.99"
-        },
-        {
-          "service": "prime",
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0I5PMWZ6C84TU5IUYUY13EGELH/ref=atv_dp",
           "price": "USD12.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0I5PMWZ6C84TU5IUYUY13EGELH/ref=atv_dp",
+          "price": "USD3.99"
         }
       ],
       "ar": null,
@@ -7176,7 +7320,22 @@
       "director": "Mike Nichols",
       "plot": "A group of young recruits go through boot camp during the Second World War in Biloxi, Mississippi. From the play by Neil Simon.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZDhhM2Y4NDEtNWVmNC00MTI1LTkwNTMtNzg3NThhZjMyZTMwXkEyXkFqcGc@._V1_SX300.jpg",
-      "streaming_options": [],
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0PYX2RIILRQX4X1Q9FZ6DKJ776/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0PYX2RIILRQX4X1Q9FZ6DKJ776/ref=atv_dp",
+          "price": "USD14.99"
+        }
+      ],
       "ar": null,
       "br": null,
       "jr": null,
@@ -7315,6 +7474,12 @@
           "link": "https://tubitv.com/movies/100034458/ran"
         },
         {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/649f344d0a21a30013a69785/details"
+        },
+        {
           "service": "criterion",
           "type": "subscription",
           "quality": "sd",
@@ -7410,7 +7575,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0KN3PDNDDD0LE0VCGIXFE5H6O6/ref=atv_dp",
-          "price": "USD4.99"
+          "price": "USD9.99"
         }
       ],
       "ar": null,
@@ -7434,12 +7599,6 @@
       "plot": "A German submarine is boarded by disguised American submariners trying to capture their Enigma cipher machine.",
       "poster": "https://m.media-amazon.com/images/M/MV5BNmU2MjAxZGQtMGY3NC00ODYwLThkZWQtNzhjMDhhOTVlMWYyXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
-        {
-          "service": "prime",
-          "type": "addon",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0HK9XPWPJVZ6OWBQLWKVWQH9XD/ref=atv_dp"
-        },
         {
           "service": "prime",
           "type": "buy",
@@ -7494,7 +7653,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/sicario/umc.cmc.2hmfcfgt55co8borra1prueqx?playableId=tvs.sbd.9001%3A1040631578",
-          "price": "USD4.99"
+          "price": "USD14.99"
         },
         {
           "service": "netflix",
@@ -7526,7 +7685,7 @@
           "type": "buy",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0P0XTHI3ZO4RBUNV34QAUMAAIJ/ref=atv_dp",
-          "price": "USD4.99"
+          "price": "USD14.99"
         }
       ],
       "ar": null,
@@ -7585,6 +7744,12 @@
           "price": "USD9.99"
         },
         {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/5d9b9aac02119c67cb64e8f0/details"
+        },
+        {
           "service": "prime",
           "type": "addon",
           "quality": "sd",
@@ -7602,7 +7767,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0OSZRZJW0X52W6F3FGWZ5E7ABE/ref=atv_dp",
-          "price": "USD4.99"
+          "price": "USD12.99"
         }
       ],
       "ar": null,
@@ -7634,9 +7799,21 @@
         },
         {
           "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0LIMJXMWHUI43JBDBWGB7ZT6B4/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0LIMJXMWHUI43JBDBWGB7ZT6B4/ref=atv_dp"
+        },
+        {
+          "service": "prime",
           "type": "rent",
           "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0O2W0NHJ7JQ1Y16TH3ITPK7B6J/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0LIMJXMWHUI43JBDBWGB7ZT6B4/ref=atv_dp",
           "price": "USD3.99"
         },
         {
@@ -7644,19 +7821,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0L8EYVVMXVA46TTY6SZYBFLATI/ref=atv_dp",
-          "price": "USD14.99"
-        },
-        {
-          "service": "prime",
-          "type": "addon",
-          "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0LFXVD6XOFW5Z0MB5QP5B57WSD/ref=atv_dp"
-        },
-        {
-          "service": "prime",
-          "type": "addon",
-          "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0LFXVD6XOFW5Z0MB5QP5B57WSD/ref=atv_dp"
+          "price": "USD7.99"
         }
       ],
       "ar": null,
@@ -7682,43 +7847,43 @@
       "streaming_options": [
         {
           "service": "prime",
+          "type": "rent",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0H3D1WUX960B8QBO6CYCWOOYZ3/ref=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/wonder-woman/umc.cmc.z7v0grnlsjbdd8l699lou0wq?playableId=tvs.sbd.9001%3A1235765633",
+          "price": "USD14.99"
+        },
+        {
+          "service": "prime",
           "type": "addon",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0H3D1WUX960B8QBO6CYCWOOYZ3/ref=atv_dp"
         },
         {
-          "service": "prime",
-          "type": "rent",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0H3D1WUX960B8QBO6CYCWOOYZ3/ref=atv_dp",
-          "price": "USD3.99"
-        },
-        {
-          "service": "apple",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/wonder-woman/umc.cmc.z7v0grnlsjbdd8l699lou0wq?playableId=tvs.sbd.9001%3A1235765633",
-          "price": "USD14.99"
-        },
-        {
           "service": "apple",
           "type": "rent",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/wonder-woman/umc.cmc.z7v0grnlsjbdd8l699lou0wq?playableId=tvs.sbd.9001%3A1235765633",
           "price": "USD3.99"
-        },
-        {
-          "service": "prime",
-          "type": "buy",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0H3D1WUX960B8QBO6CYCWOOYZ3/ref=atv_dp",
-          "price": "USD14.99"
         },
         {
           "service": "hulu",
           "type": "addon",
           "quality": "hd",
           "link": "https://www.hulu.com/movie/wonder-woman-5895c91f-7881-48cc-8807-5ea2b8b797dd"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0H3D1WUX960B8QBO6CYCWOOYZ3/ref=atv_dp",
+          "price": "USD14.99"
         },
         {
           "service": "hbo",
@@ -7755,11 +7920,17 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BZTNiOGM1ZWUtZTZjZC00OWJmLWE2YzUtZjQ4ODZjZmVlMDU3XkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/62df0e2c997d570013908752/details"
+        },
+        {
           "service": "prime",
           "type": "buy",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0I9UNHC43NXITMMVI3GVYATXKV/ref=atv_dp",
-          "price": "USD14.99"
+          "price": "USD6.99"
         },
         {
           "service": "prime",
@@ -7792,10 +7963,9 @@
       "streaming_options": [
         {
           "service": "prime",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0TN23XM0C9048EM76RL0HOV76C/ref=atv_dp",
-          "price": "USD3.99"
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0TN23XM0C9048EM76RL0HOV76C/ref=atv_dp"
         },
         {
           "service": "prime",
@@ -7806,9 +7976,10 @@
         },
         {
           "service": "prime",
-          "type": "addon",
-          "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0TN23XM0C9048EM76RL0HOV76C/ref=atv_dp"
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0TN23XM0C9048EM76RL0HOV76C/ref=atv_dp",
+          "price": "USD3.99"
         }
       ],
       "ar": null,
@@ -7946,6 +8117,18 @@
           "price": "USD20.99"
         },
         {
+          "service": "hbo",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://play.hbomax.com/movie/fe9f036f-3fc0-4cc1-94e0-a48c6ec87c67"
+        },
+        {
+          "service": "hbo",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://play.hbomax.com/movie/cc2c1671-ee46-4686-b81e-af59607182a2"
+        },
+        {
           "service": "apple",
           "type": "buy",
           "quality": "hd",
@@ -8016,12 +8199,6 @@
           "price": "USD3.99"
         },
         {
-          "service": "disney",
-          "type": "subscription",
-          "quality": "uhd",
-          "link": "https://www.disneyplus.com/browse/entity-9a280e53-fcc0-4e17-a02c-b1f40913eb0b"
-        },
-        {
           "service": "prime",
           "type": "buy",
           "quality": "hd",
@@ -8034,6 +8211,12 @@
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0IVBFREFMV5OQBL8ISSC1DLU35/ref=atv_dp",
           "price": "USD19.99"
+        },
+        {
+          "service": "disney",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://www.disneyplus.com/browse/entity-9a280e53-fcc0-4e17-a02c-b1f40913eb0b"
         }
       ],
       "ar": null,
@@ -8366,7 +8549,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0SGFKYN2LUSDL1LJ595P2JREJK/ref=atv_dp",
-          "price": "USD4.99"
+          "price": "USD9.99"
         }
       ],
       "ar": null,
@@ -8450,9 +8633,16 @@
         {
           "service": "apple",
           "type": "buy",
+          "quality": "sd",
+          "link": "https://tv.apple.com/us/movie/the-last-of-the-mohicans/umc.cmc.6mq477wgqfw9hac6ay3nn8rra?playableId=tvs.sbd.9001%3A272507859",
+          "price": "USD12.99"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/the-last-of-the-mohicans/umc.cmc.6mq477wgqfw9hac6ay3nn8rra?playableId=tvs.sbd.9001%3A553357676",
-          "price": "USD4.99"
+          "price": "USD14.99"
         },
         {
           "service": "apple",
@@ -8540,17 +8730,17 @@
       "streaming_options": [
         {
           "service": "prime",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0IQWGMZLJQUC04CFMXKAHRGSLF/ref=atv_dp",
-          "price": "USD3.99"
-        },
-        {
-          "service": "prime",
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0IQWGMZLJQUC04CFMXKAHRGSLF/ref=atv_dp",
           "price": "USD12.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0IQWGMZLJQUC04CFMXKAHRGSLF/ref=atv_dp",
+          "price": "USD3.99"
         }
       ],
       "ar": null,
@@ -8721,10 +8911,43 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BNzUxNzUzNzU2MV5BMl5BanBnXkFtZTcwNTgzNzU2NA@@._V1_SX300.jpg",
       "streaming_options": [
         {
+          "service": "prime",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0SGIYLP4DT466BWIG52XBD178N/ref=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0SGIYLP4DT466BWIG52XBD178N/ref=atv_dp",
+          "price": "USD2.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0SGIYLP4DT466BWIG52XBD178N/ref=atv_dp",
+          "price": "USD14.99"
+        },
+        {
           "service": "tubi",
           "type": "free",
           "quality": "hd",
           "link": "https://tubitv.com/movies/405451/rescue-dawn"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/5a70f862689f93acec188f56/details"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0SGIYLP4DT466BWIG52XBD178N/ref=atv_dp",
+          "price": "USD3.99"
         }
       ],
       "ar": null,
@@ -8749,6 +8972,12 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
+          "service": "criterion",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.criterionchannel.com/the-battle-of-algiers"
+        },
+        {
           "service": "tubi",
           "type": "free",
           "quality": "hd",
@@ -8761,11 +8990,10 @@
           "link": "https://www.amazon.com/gp/video/detail/0GTE8V1ADQ1ZMIY2X3G4M9OGXI/ref=atv_dp"
         },
         {
-          "service": "prime",
-          "type": "buy",
+          "service": "hulu",
+          "type": "addon",
           "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0MF1HV62ZK7Z9EVXBUNF0OUZTA/ref=atv_dp",
-          "price": "USD14.99"
+          "link": "https://www.hulu.com/movie/the-battle-of-algiers-6a2ca325-bd66-4512-a809-9e1b0de38f83"
         },
         {
           "service": "prime",
@@ -8775,16 +9003,11 @@
           "price": "USD3.99"
         },
         {
-          "service": "criterion",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.criterionchannel.com/the-battle-of-algiers"
-        },
-        {
-          "service": "hulu",
-          "type": "addon",
+          "service": "prime",
+          "type": "buy",
           "quality": "hd",
-          "link": "https://www.hulu.com/movie/the-battle-of-algiers-6a2ca325-bd66-4512-a809-9e1b0de38f83"
+          "link": "https://www.amazon.com/gp/video/detail/0MF1HV62ZK7Z9EVXBUNF0OUZTA/ref=atv_dp",
+          "price": "USD14.99"
         },
         {
           "service": "hbo",
@@ -8837,17 +9060,17 @@
         },
         {
           "service": "prime",
-          "type": "rent",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0RCLWAV8DAHJLSA9AHDGCE04MF/ref=atv_dp",
-          "price": "USD3.99"
-        },
-        {
-          "service": "prime",
           "type": "buy",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0RCLWAV8DAHJLSA9AHDGCE04MF/ref=atv_dp",
           "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0RCLWAV8DAHJLSA9AHDGCE04MF/ref=atv_dp",
+          "price": "USD3.99"
         },
         {
           "service": "netflix",
@@ -9061,16 +9284,16 @@
           "price": "USD2.99"
         },
         {
-          "service": "prime",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0G9HS1V2KLYQUJCVT2IK83KZYM/ref=atv_dp"
-        },
-        {
           "service": "tubi",
           "type": "free",
           "quality": "hd",
           "link": "https://tubitv.com/movies/312177/force-10-from-navarone"
+        },
+        {
+          "service": "prime",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0G9HS1V2KLYQUJCVT2IK83KZYM/ref=atv_dp"
         },
         {
           "service": "prime",
@@ -9080,17 +9303,23 @@
         },
         {
           "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0G9HS1V2KLYQUJCVT2IK83KZYM/ref=atv_dp",
+          "price": "USD2.99"
+        },
+        {
+          "service": "prime",
           "type": "buy",
           "quality": "sd",
           "link": "https://www.amazon.com/gp/video/detail/0G9HS1V2KLYQUJCVT2IK83KZYM/ref=atv_dp",
           "price": "USD14.99"
         },
         {
-          "service": "prime",
-          "type": "rent",
+          "service": "plutotv",
+          "type": "free",
           "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0G9HS1V2KLYQUJCVT2IK83KZYM/ref=atv_dp",
-          "price": "USD2.99"
+          "link": "https://pluto.tv/gsa/on-demand/movies/58f79a21ba191f80426ac815/details"
         }
       ],
       "ar": null,
@@ -9186,10 +9415,10 @@
           "price": "USD3.99"
         },
         {
-          "service": "apple",
-          "type": "addon",
-          "quality": "uhd",
-          "link": "https://tv.apple.com/us/movie/enemy-at-the-gates/umc.cmc.7yy9e5w5yqs9vyx9davoe69t?playableId=tvs.sbd.1000185%3AMV000963020000"
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/5bd3338767f34cef7af449f0/details"
         },
         {
           "service": "apple",
