@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T13:13:46.326248Z",
+  "last_updated": "2026-05-18T13:27:34.483030Z",
   "total_movies": 168,
   "movies": [
     {
@@ -1209,16 +1209,16 @@
           "link": "https://www.amazon.com/gp/video/detail/B003UOD8BG/ref=atv_dp"
         },
         {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/5cb0d3d8be01cb2b0e2671f6/details"
-        },
-        {
           "service": "paramount",
           "type": "subscription",
           "quality": "sd",
           "link": "https://www.paramountplus.com/movies/video/opEPdY_NBgVdmdG8iDiHJsXto9OG6Zmu/"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/5cb0d3d8be01cb2b0e2671f6/details"
         },
         {
           "service": "prime",
@@ -2120,16 +2120,16 @@
           "price": "USD3.99"
         },
         {
-          "service": "criterion",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.criterionchannel.com/in-which-we-serve"
-        },
-        {
           "service": "tubi",
           "type": "free",
           "quality": "hd",
           "link": "https://tubitv.com/movies/100004549/in-which-we-serve"
+        },
+        {
+          "service": "criterion",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.criterionchannel.com/in-which-we-serve"
         },
         {
           "service": "prime",
@@ -2221,6 +2221,12 @@
           "price": "USD19.99"
         },
         {
+          "service": "netflix",
+          "type": "subscription",
+          "quality": "hd",
+          "link": "https://www.netflix.com/title/60000363/"
+        },
+        {
           "service": "prime",
           "type": "rent",
           "quality": "uhd",
@@ -2246,12 +2252,6 @@
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/independence-day/umc.cmc.7a0jd9qwrt8i855idp680wms3?playableId=tvs.sbd.9001%3A272967721",
           "price": "USD3.99"
-        },
-        {
-          "service": "netflix",
-          "type": "subscription",
-          "quality": "hd",
-          "link": "https://www.netflix.com/title/60000363/"
         }
       ],
       "ar": null,
@@ -2386,12 +2386,6 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0SXIOGGJFO9WADHZIDKBWAR340/ref=atv_dp",
           "price": "USD3.99"
-        },
-        {
-          "service": "hbo",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://play.hbomax.com/movie/6774b5a1-fc9e-41d4-8409-36e843409b0c"
         }
       ],
       "ar": null,
@@ -2785,6 +2779,12 @@
           "price": "USD14.99"
         },
         {
+          "service": "criterion",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.criterionchannel.com/the-steel-helmet"
+        },
+        {
           "service": "prime",
           "type": "rent",
           "quality": "hd",
@@ -2797,12 +2797,6 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0SC64NW5USK618Q6P0GGP6Y90R/ref=atv_dp",
           "price": "USD19.99"
-        },
-        {
-          "service": "criterion",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.criterionchannel.com/the-steel-helmet"
         }
       ],
       "ar": null,
@@ -4158,12 +4152,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BN2ZkYzdiODAtODUzZC00YjRhLWFhZWEtOTY3ZjllMGJiNTQwXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "paramount",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.paramountplus.com/movies/video/6Ii8rRdajId2HkgCuYwQN9IwFtXv2ktS/"
-        },
-        {
           "service": "prime",
           "type": "rent",
           "quality": "sd",
@@ -4189,6 +4177,12 @@
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/hamburger-hill/umc.cmc.5jxtukqc7xvlxy0uh2oyap1qx",
           "price": "USD3.99"
+        },
+        {
+          "service": "paramount",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.paramountplus.com/movies/video/6Ii8rRdajId2HkgCuYwQN9IwFtXv2ktS/"
         },
         {
           "service": "plutotv",
@@ -4393,6 +4387,12 @@
           "price": "USD3.59"
         },
         {
+          "service": "paramount",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.paramountplus.com/movies/video/lU4HitnFT_tjZjoUdjrbxO9LGziv3KKr/"
+        },
+        {
           "service": "prime",
           "type": "addon",
           "quality": "sd",
@@ -4411,12 +4411,6 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0L45IK8WEM4T8ADHC2R5CKI73V/ref=atv_dp",
           "price": "USD3.99"
-        },
-        {
-          "service": "paramount",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.paramountplus.com/movies/video/lU4HitnFT_tjZjoUdjrbxO9LGziv3KKr/"
         }
       ],
       "ar": null,
@@ -5714,16 +5708,16 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMDcyNGIyYWQtZDI2OS00YTU3LTg3OTItMDM2ZTIzZmFkMGYwXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "prime",
-          "type": "addon",
-          "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0SXHE4QVTEJZZ4P9BW29C2WVJP/ref=atv_dp"
-        },
-        {
           "service": "hulu",
           "type": "addon",
           "quality": "hd",
           "link": "https://www.hulu.com/movie/the-sum-of-all-fears-2a4aec5e-07b3-497f-ba49-dc3359a076c4"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0SXHE4QVTEJZZ4P9BW29C2WVJP/ref=atv_dp"
         },
         {
           "service": "prime",
@@ -7175,6 +7169,12 @@
           "price": "USD14.99"
         },
         {
+          "service": "criterion",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.criterionchannel.com/robocop"
+        },
+        {
           "service": "apple",
           "type": "buy",
           "quality": "hd",
@@ -7201,12 +7201,6 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0FPCQ27Z2W0SYNODR2YVYQYAQH/ref=atv_dp",
           "price": "USD3.99"
-        },
-        {
-          "service": "criterion",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.criterionchannel.com/robocop"
         }
       ],
       "ar": null,
@@ -7837,12 +7831,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "disney",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://www.disneyplus.com/browse/entity-a63c4b16-b350-423b-9131-ef0834b8e58e"
-        },
-        {
           "service": "prime",
           "type": "addon",
           "quality": "uhd",
@@ -7861,6 +7849,12 @@
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0P0XTHI3ZO4RBUNV34QAUMAAIJ/ref=atv_dp",
           "price": "USD4.99"
+        },
+        {
+          "service": "disney",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://www.disneyplus.com/browse/entity-a63c4b16-b350-423b-9131-ef0834b8e58e"
         },
         {
           "service": "apple",
@@ -8041,6 +8035,12 @@
           "link": "https://tv.apple.com/us/movie/wonder-woman/umc.cmc.z7v0grnlsjbdd8l699lou0wq?playableId=tvs.sbd.1000244%3AHB2D3"
         },
         {
+          "service": "hbo",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://play.hbomax.com/movie/a618358a-a71d-44a2-8294-24da8fae8591"
+        },
+        {
           "service": "apple",
           "type": "buy",
           "quality": "hd",
@@ -8059,12 +8059,6 @@
           "type": "addon",
           "quality": "hd",
           "link": "https://www.hulu.com/movie/wonder-woman-5895c91f-7881-48cc-8807-5ea2b8b797dd"
-        },
-        {
-          "service": "hbo",
-          "type": "subscription",
-          "quality": "uhd",
-          "link": "https://play.hbomax.com/movie/a618358a-a71d-44a2-8294-24da8fae8591"
         },
         {
           "service": "prime",
@@ -8287,6 +8281,12 @@
           "price": "USD4.99"
         },
         {
+          "service": "hulu",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://www.hulu.com/movie/aliens-%28director%27s-cut%29-6a3b89ad-a39f-4416-8563-97a0e8118549"
+        },
+        {
           "service": "prime",
           "type": "addon",
           "quality": "uhd",
@@ -8338,12 +8338,6 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0PTZ8YY0VGQ0X4HAGVOI125S66/ref=atv_dp",
           "price": "USD20.99"
-        },
-        {
-          "service": "hulu",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://www.hulu.com/movie/aliens-%28director%27s-cut%29-6a3b89ad-a39f-4416-8563-97a0e8118549"
         },
         {
           "service": "hbo",
@@ -8401,17 +8395,17 @@
           "price": "USD19.99"
         },
         {
+          "service": "disney",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://www.disneyplus.com/browse/entity-9a280e53-fcc0-4e17-a02c-b1f40913eb0b"
+        },
+        {
           "service": "prime",
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0TVOZ32BOZRFNQTVL3KCX2W3DT/ref=atv_dp",
           "price": "USD19.99"
-        },
-        {
-          "service": "disney",
-          "type": "subscription",
-          "quality": "uhd",
-          "link": "https://www.disneyplus.com/browse/entity-9a280e53-fcc0-4e17-a02c-b1f40913eb0b"
         }
       ],
       "ar": null,
@@ -8960,12 +8954,6 @@
           "price": "USD3.99"
         },
         {
-          "service": "hulu",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://www.hulu.com/movie/clear-and-present-danger-12c184f2-b917-40f6-9234-cf894edec046"
-        },
-        {
           "service": "paramount",
           "type": "subscription",
           "quality": "sd",
@@ -9221,17 +9209,17 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BOTA1NDcyOGMtYTc0Zi00OTQ0LTllZTEtMTIxZDcxMWYxZTVhXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "netflix",
-          "type": "subscription",
-          "quality": "uhd",
-          "link": "https://www.netflix.com/title/547335/"
-        },
-        {
           "service": "prime",
           "type": "buy",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0RCLWAV8DAHJLSA9AHDGCE04MF/ref=atv_dp",
           "price": "USD14.99"
+        },
+        {
+          "service": "netflix",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://www.netflix.com/title/547335/"
         },
         {
           "service": "prime",
