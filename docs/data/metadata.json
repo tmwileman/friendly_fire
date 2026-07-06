@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-29T13:42:51.516857Z",
-  "last_updated_readable": "June 29, 2026 at 13:42 UTC",
+  "last_updated": "2026-07-06T13:25:32.087504Z",
+  "last_updated_readable": "July 06, 2026 at 13:25 UTC",
   "statistics": {
     "total_movies": 168,
     "successful_omdb_queries": 168,
-    "successful_streaming_queries": 155,
+    "successful_streaming_queries": 156,
     "omdb_success_rate": "100.0%",
-    "streaming_success_rate": "92.3%"
+    "streaming_success_rate": "92.9%"
   },
   "data_sources": {
     "podcast": "Maximum Fun - Friendly Fire",
