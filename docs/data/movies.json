@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T17:30:52.312486Z",
+  "last_updated": "2026-09-14T17:55:57.586787Z",
   "total_movies": 168,
   "movies": [
     {
@@ -59,13 +59,13 @@
       "year": "1959",
       "imdb_id": "tt0053140",
       "imdb_rating": "6.5",
-      "imdb_votes": "913",
+      "imdb_votes": "995",
       "imdb_url": "https://www.imdb.com/title/tt0053140",
       "runtime": "104 min",
       "genre": "Drama, History, War",
       "director": "Michael McCarthy",
-      "plot": "When Germany invades Holland in 1940, a British intelligence officer and two Dutch diamond merchants go to Amsterdam to persuade the Dutch diamond merchants to evacuate their diamond supplies to England.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTJhOTA5MjItOGRlYy00ZDQ0LWFmOTQtMTI0MzU3MDU4YWYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot": "After Germany invades Holland in 1940, a British intelligence officer and two Dutch diamond merchants go to Amsterdam to persuade the Dutch diamond merchants to evacuate their diamond supplies to England.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTJhOTA5MjItOGRlYy00ZDQ0LWFmOTQtMTI0MzU3MDU4YWYyXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -158,12 +158,6 @@
           "link": "https://www.amazon.com/gp/video/detail/0J3T0PET61BSLKPVU6W9QUQL6Y?ref_=atv_dp"
         },
         {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/5f5ad94b638b1800139e73bf/details"
-        },
-        {
           "service": "roku",
           "type": "addon",
           "quality": "hd",
@@ -221,7 +215,7 @@
           "type": "rent",
           "quality": "sd",
           "link": "https://www.amazon.com/gp/video/detail/0L493T5GIRX1XCYI3E05YI6OM8?ref_=atv_dp",
-          "price": "USD2.99"
+          "price": "USD3.99"
         },
         {
           "service": "roku",
@@ -395,14 +389,14 @@
       "title": "In the Army Now",
       "year": "1994",
       "imdb_id": "tt0110123",
-      "imdb_rating": "4.9",
-      "imdb_votes": "15,130",
+      "imdb_rating": "5.0",
+      "imdb_votes": "15,752",
       "imdb_url": "https://www.imdb.com/title/tt0110123",
       "runtime": "91 min",
       "genre": "Comedy, War",
       "director": "Daniel Petrie Jr.",
       "plot": "Two misguided youths join the reserves to make some money for their entrepreneurial dreams. No sooner than they finish basic training are they called up to do their part to save the free world.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYjliOGJmOTAtNTQ1My00NzQ0LWE2MTMtOWYwOWM2NDU1YTU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjliOGJmOTAtNTQ1My00NzQ0LWE2MTMtOWYwOWM2NDU1YTU3XkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "apple",
@@ -1284,17 +1278,17 @@
         },
         {
           "service": "apple",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/mulan/umc.cmc.77brsbjadcf6s3i7g8cc6az36?playableId=tvs.sbd.9001%3A189134614",
-          "price": "USD19.99"
-        },
-        {
-          "service": "apple",
           "type": "rent",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/mulan/umc.cmc.77brsbjadcf6s3i7g8cc6az36?playableId=tvs.sbd.9001%3A189134614",
           "price": "USD4.99"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/mulan/umc.cmc.77brsbjadcf6s3i7g8cc6az36?playableId=tvs.sbd.9001%3A189134614",
+          "price": "USD19.99"
         },
         {
           "service": "prime",
@@ -1373,12 +1367,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BZTU3YzY0NjktMmRhMC00MzYyLWI0YmUtZGJkMzJjMWYwZDZkXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "apple",
-          "type": "subscription",
-          "quality": "uhd",
-          "link": "https://tv.apple.com/us/movie/greyhound/umc.cmc.o5z5ztufuu3uv8lx7m0jcega?playableId=tvs.sbd.4000%3AVGREY0560101"
-        },
-        {
           "service": "roku",
           "type": "addon",
           "quality": "hd",
@@ -1403,6 +1391,12 @@
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/greyhound/umc.cmc.o5z5ztufuu3uv8lx7m0jcega?playableId=tvs.sbd.9001%3A1805971117",
           "price": "USD3.99"
+        },
+        {
+          "service": "apple",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://tv.apple.com/us/movie/greyhound/umc.cmc.o5z5ztufuu3uv8lx7m0jcega?playableId=tvs.sbd.4000%3AVGREY0560101"
         },
         {
           "service": "prime",
@@ -1495,7 +1489,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/wargames/umc.cmc.4n8grrnb4vq7tgygwcd1cxzcq?playableId=tvs.sbd.9001%3A268643342",
-          "price": "USD4.99"
+          "price": "USD14.99"
         },
         {
           "service": "prime",
@@ -1608,7 +1602,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/wargames/umc.cmc.4n8grrnb4vq7tgygwcd1cxzcq?playableId=tvs.sbd.9001%3A268643342",
-          "price": "USD4.99"
+          "price": "USD14.99"
         },
         {
           "service": "prime",
@@ -1700,7 +1694,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/wargames/umc.cmc.4n8grrnb4vq7tgygwcd1cxzcq?playableId=tvs.sbd.9001%3A268643342",
-          "price": "USD4.99"
+          "price": "USD14.99"
         },
         {
           "service": "prime",
@@ -1763,6 +1757,12 @@
           "type": "addon",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/roaring-currents/umc.cmc.3w0txfczjpeo6erbtt3w70jne?playableId=tvs.sbd.1000547%3ACJAM100439"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/6874f4141210c6c91954e8f2/details"
         },
         {
           "service": "tubi",
@@ -2312,6 +2312,26 @@
           "price": "USD9.99"
         },
         {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0LYSCEHMYPKHQ5VL0B1YU171SM?ref_=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0LYSCEHMYPKHQ5VL0B1YU171SM?ref_=atv_dp",
+          "price": "USD2.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0LYSCEHMYPKHQ5VL0B1YU171SM?ref_=atv_dp",
+          "price": "USD3.99"
+        },
+        {
           "service": "roku",
           "type": "free",
           "quality": "hd",
@@ -2322,6 +2342,12 @@
           "type": "free",
           "quality": "hd",
           "link": "https://tubitv.com/movies/552502/the-final-countdown"
+        },
+        {
+          "service": "tubi",
+          "type": "free",
+          "quality": "hd",
+          "link": "https://tubitv.com/movies/100039979/la-cuenta-atr-s-final-subtitulado"
         },
         {
           "service": "prime",
@@ -2354,26 +2380,6 @@
           "type": "addon",
           "quality": "sd",
           "link": "https://www.amazon.com/gp/video/detail/0LYSCEHMYPKHQ5VL0B1YU171SM?ref_=atv_dp"
-        },
-        {
-          "service": "prime",
-          "type": "addon",
-          "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0LYSCEHMYPKHQ5VL0B1YU171SM?ref_=atv_dp"
-        },
-        {
-          "service": "prime",
-          "type": "rent",
-          "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0LYSCEHMYPKHQ5VL0B1YU171SM?ref_=atv_dp",
-          "price": "USD2.99"
-        },
-        {
-          "service": "prime",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0LYSCEHMYPKHQ5VL0B1YU171SM?ref_=atv_dp",
-          "price": "USD3.99"
         }
       ],
       "ar": null,
@@ -2554,12 +2560,6 @@
           "link": "https://www.hulu.com/movie/patriot-games-3a75b5d5-0b14-4aa0-bc3d-a5cf4cb9d95d"
         },
         {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/5bd3337867f34cef7af44774/details"
-        },
-        {
           "service": "roku",
           "type": "addon",
           "quality": "hd",
@@ -2599,7 +2599,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/good-morning-vietnam/umc.cmc.71kit5z4trm6zoy8uw3b2e4rg?playableId=tvs.sbd.9001%3A480078729",
-          "price": "USD17.99"
+          "price": "USD4.99"
         },
         {
           "service": "apple",
@@ -2771,12 +2771,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BNDUyODAzNDI1Nl5BMl5BanBnXkFtZTcwMDA2NDAzMw@@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "apple",
-          "type": "subscription",
-          "quality": "uhd",
-          "link": "https://tv.apple.com/us/movie/war-of-the-worlds/umc.cmc.5hnkwafey90ub95m8pxtaeb9t?playableId=tvs.sbd.4000%3APMTFY26FTR007"
-        },
-        {
           "service": "roku",
           "type": "addon",
           "quality": "hd",
@@ -2801,6 +2795,18 @@
           "type": "subscription",
           "quality": "sd",
           "link": "https://www.paramountplus.com/movies/video/6EBZOegEKE2E4svmjhQ4kIBNRI9y8eTq/"
+        },
+        {
+          "service": "apple",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://tv.apple.com/us/movie/war-of-the-worlds/umc.cmc.5hnkwafey90ub95m8pxtaeb9t?playableId=tvs.sbd.4000%3APMTFY26FTR007"
+        },
+        {
+          "service": "hbo",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://play.hbomax.com/movie/2fc053c2-a9f6-4fcc-b1ec-b5d08260c19d"
         },
         {
           "service": "prime",
@@ -3160,12 +3166,6 @@
           "link": "https://therokuchannel.roku.com/details/1df1d807df8c5c6fa01617e846607c84"
         },
         {
-          "service": "apple",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/the-english-patient/umc.cmc.61v7tb5a7940pr2qo1fuhdirf?playableId=tvs.sbd.1000185%3AMV000485870000"
-        },
-        {
           "service": "prime",
           "type": "rent",
           "quality": "hd",
@@ -3359,12 +3359,6 @@
           "type": "free",
           "quality": "sd",
           "link": "https://www.amazon.com/gp/video/detail/0GRAH76QXMWL8UGPBT73UCZ86T?ref_=atv_dp"
-        },
-        {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/64b95be463158100132f7d34/details"
         },
         {
           "service": "tubi",
@@ -3674,16 +3668,22 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BNjJiYzRiYWMtZTgyZC00YjliLWIwZWMtZTJlYjkyYzc2MDMxXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
+          "service": "apple",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/rocky-iv/umc.cmc.59frzuu5jxxcr29ydegryu87i?playableId=tvs.sbd.1000230%3AmGXrkTWDZx48fvLIJ_Qu4DcWg_OIQnIh"
+        },
+        {
           "service": "prime",
           "type": "addon",
           "quality": "sd",
           "link": "https://www.amazon.com/gp/video/detail/0NZF7C9U38SRGTNNJXSXKVR3B9?ref_=atv_dp"
         },
         {
-          "service": "amc",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.amcplus.com/movies/rocky-iv--1054034"
+          "service": "apple",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/rocky-iv/umc.cmc.59frzuu5jxxcr29ydegryu87i?playableId=tvs.sbd.1000383%3AAMCNFL0000001909"
         },
         {
           "service": "apple",
@@ -3691,6 +3691,12 @@
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/rocky-iv/umc.cmc.59frzuu5jxxcr29ydegryu87i?playableId=tvs.sbd.9001%3A278077103",
           "price": "USD3.99"
+        },
+        {
+          "service": "amc",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.amcplus.com/movies/rocky-iv--1054034"
         },
         {
           "service": "apple",
@@ -3739,13 +3745,13 @@
       "year": "2016",
       "imdb_id": "tt4190530",
       "imdb_rating": "7.2",
-      "imdb_votes": "56,635",
+      "imdb_votes": "60,671",
       "imdb_url": "https://www.imdb.com/title/tt4190530",
       "runtime": "120 min",
       "genre": "Action, Drama, History",
       "director": "Sean Ellis",
-      "plot": "Based on the extraordinary true story of Operation Anthropoid, the WWII mission to assassinate SS General Reinhard Heydrich, the main architect behind the Final Solution and the Reich's third in command after Hitler and Himmler.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjIxNzE0NjY1Nl5BMl5BanBnXkFtZTgwNjYzOTkxOTE@._V1_SX300.jpg",
+      "plot": "Operation Anthropoid is conceived during WWII to assassinate SS General Reinhard Heydrich, the main architect behind the Final Solution and the Reich's third in command.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjIxNzE0NjY1Nl5BMl5BanBnXkFtZTgwNjYzOTkxOTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "apple",
@@ -3759,12 +3765,6 @@
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/anthropoid/umc.cmc.2thf2p7zgw1jakr1aywrj689m?playableId=tvs.sbd.9001%3A6784761740",
           "price": "USD9.99"
-        },
-        {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/69f29cea25383e4478f3cea3/details"
         },
         {
           "service": "netflix",
@@ -3822,17 +3822,17 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BN2ZkYzdiODAtODUzZC00YjRhLWFhZWEtOTY3ZjllMGJiNTQwXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/5d24d164f55a8b137789813d/details"
-        },
-        {
           "service": "prime",
           "type": "rent",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0NBFQK99WVBYH0OJR6DRX7Z64Q?ref_=atv_dp",
           "price": "USD3.99"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/65bd00c0ecf2e5001360d763/details"
         }
       ],
       "ar": null,
@@ -4174,13 +4174,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/lord-of-war/umc.cmc.33c8emvylqpid7l1uf71orhz4?playableId=tvs.sbd.9001%3A256152991",
-          "price": "USD4.99"
-        },
-        {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/5a591b472aee82cc6ec114f7/details"
+          "price": "USD14.99"
         },
         {
           "service": "prime",
@@ -4319,12 +4313,6 @@
           "type": "free",
           "quality": "hd",
           "link": "https://tubitv.com/movies/100045963/eye-in-the-sky"
-        },
-        {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/69a06b314b1996b7d17cac3b/details"
         }
       ],
       "ar": null,
@@ -4522,6 +4510,12 @@
           "price": "USD3.99"
         },
         {
+          "service": "apple",
+          "type": "subscription",
+          "quality": "uhd",
+          "link": "https://tv.apple.com/us/movie/zero-dark-thirty/umc.cmc.5ndybc5g6f3yoasfs6bf8jg6x?playableId=tvs.sbd.4000%3ASPEFY26FTR008"
+        },
+        {
           "service": "prime",
           "type": "addon",
           "quality": "uhd",
@@ -4532,7 +4526,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/zero-dark-thirty/umc.cmc.5ndybc5g6f3yoasfs6bf8jg6x?playableId=tvs.sbd.9001%3A596004876",
-          "price": "USD7.99"
+          "price": "USD14.99"
         },
         {
           "service": "roku",
@@ -4628,13 +4622,13 @@
       "year": "2009",
       "imdb_id": "tt1483831",
       "imdb_rating": "6.9",
-      "imdb_votes": "12,116",
+      "imdb_votes": "12,342",
       "imdb_url": "https://www.imdb.com/title/tt1483831",
       "runtime": "93 min",
       "genre": "Drama, War",
       "director": "Samuel Maoz",
       "plot": "During the First Lebanon War in 1982, a lone tank and a paratroopers platoon are dispatched to search a hostile town.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTI3MzcyNTE3N15BMl5BanBnXkFtZTcwNjgyNzUzMw@@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTI3MzcyNTE3N15BMl5BanBnXkFtZTcwNjgyNzUzMw@@._V1_QL75_UX380_CR0,1,380,562_.jpg",
       "streaming_options": [
         {
           "service": "apple",
@@ -5055,37 +5049,31 @@
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bd3bb3ec-1f99-4558-ad2e-95d6c3350db3"
         },
         {
-          "service": "prime",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0QCX431JUO7FCJ6GJKS48S9XGZ?ref_=atv_dp",
-          "price": "USD3.99"
-        },
-        {
-          "service": "prime",
+          "service": "apple",
           "type": "buy",
           "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0QCX431JUO7FCJ6GJKS48S9XGZ?ref_=atv_dp",
+          "link": "https://tv.apple.com/us/movie/the-great-escape/umc.cmc.25wh6g4f4ayem0ia86iljy3gm?playableId=tvs.sbd.9001%3A268746886",
           "price": "USD14.99"
         },
         {
           "service": "apple",
-          "type": "addon",
-          "quality": "uhd",
-          "link": "https://tv.apple.com/us/movie/the-great-escape/umc.cmc.25wh6g4f4ayem0ia86iljy3gm?playableId=tvs.sbd.1000185%3AMV000052150000"
-        },
-        {
-          "service": "apple",
           "type": "rent",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/the-great-escape/umc.cmc.25wh6g4f4ayem0ia86iljy3gm?playableId=tvs.sbd.9001%3A268746886",
           "price": "USD3.99"
         },
         {
-          "service": "apple",
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0QCX431JUO7FCJ6GJKS48S9XGZ?ref_=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
           "type": "buy",
           "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/the-great-escape/umc.cmc.25wh6g4f4ayem0ia86iljy3gm?playableId=tvs.sbd.9001%3A268746886",
+          "link": "https://www.amazon.com/gp/video/detail/0QCX431JUO7FCJ6GJKS48S9XGZ?ref_=atv_dp",
           "price": "USD14.99"
         }
       ],
@@ -5349,18 +5337,6 @@
           "price": "USD3.99"
         },
         {
-          "service": "apple",
-          "type": "addon",
-          "quality": "uhd",
-          "link": "https://tv.apple.com/us/movie/the-sum-of-all-fears/umc.cmc.26mlopdbu6i55ut3nwmzfwcyl?playableId=tvs.sbd.1000230%3AM6sf20lzrz3fXd5ziQ8VFAkICibEgWvc"
-        },
-        {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/5f50317b3bb7850013d31885/details"
-        },
-        {
           "service": "prime",
           "type": "buy",
           "quality": "uhd",
@@ -5438,6 +5414,12 @@
       "plot": "Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Michael, a brilliant medical student, the beautiful and sophisticated Ana, and Chris - a renowned American journalist based in Paris.",
       "poster": "https://m.media-amazon.com/images/M/MV5BNzJhYjRiYjYtZGZmZS00MGZmLWI5NWQtZjdlNmEzOGY4YTU2XkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/64774ca213c2c2001a722747/details"
+        },
         {
           "service": "prime",
           "type": "buy",
@@ -5652,13 +5634,13 @@
       "year": "2018",
       "imdb_id": "tt6155374",
       "imdb_rating": "5.5",
-      "imdb_votes": "3,208",
+      "imdb_votes": "3,404",
       "imdb_url": "https://www.imdb.com/title/tt6155374",
       "runtime": "160 min",
       "genre": "Action, Drama, History",
       "director": "Roel Reiné",
       "plot": "The power struggles and wars between the Frisian Redbad and his sworn enemy Pepin of Herstal, Lord of the Franks.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZTg0NmRjNTgtMjI1Mi00Y2ZmLWE1NDgtOWQzZTkxNzg0YjM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTg0NmRjNTgtMjI1Mi00Y2ZmLWE1NDgtOWQzZTkxNzg0YjM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg",
       "streaming_options": [
         {
           "service": "apple",
@@ -5666,12 +5648,6 @@
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/redbad-754-ad/umc.cmc.4k2grpz1m3xpuemsrifhgfm4g?playableId=tvs.sbd.9001%3A1574218403",
           "price": "USD6.99"
-        },
-        {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/6966a879287ec44e14274926/details"
         },
         {
           "service": "roku",
@@ -5692,6 +5668,12 @@
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/redbad-754-ad/umc.cmc.4k2grpz1m3xpuemsrifhgfm4g?playableId=tvs.sbd.9001%3A1574218403",
           "price": "USD3.99"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/67b860e97d853fea5286ad66/details"
         },
         {
           "service": "tubi",
@@ -5874,7 +5856,14 @@
       "director": "John H. Lee",
       "plot": "A team of spies is sent into Incheon to gain intelligence on North Korean positions ahead of the invasion by UN forces.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZWRiODc4MDMtZTkyNy00NzA0LWIzMGEtOGMwYjljY2MwZTY2XkEyXkFqcGc@._V1_SX300.jpg",
-      "streaming_options": [],
+      "streaming_options": [
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/6874e49edf1220b53586f846/details"
+        }
+      ],
       "ar": null,
       "br": null,
       "jr": null,
@@ -6009,6 +5998,12 @@
           "price": "USD14.99"
         },
         {
+          "service": "apple",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/edge-of-tomorrow/umc.cmc.b5i2nkyck3kyifzh7d72atnd?playableId=tvs.sbd.1000230%3AI5QPe_ZWvcVpTMpKIMjYG392hXknGtsM"
+        },
+        {
           "service": "prime",
           "type": "addon",
           "quality": "uhd",
@@ -6026,12 +6021,6 @@
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0OFN3RXG6XPKJI65K2893ODWQX?ref_=atv_dp",
           "price": "USD14.99"
-        },
-        {
-          "service": "hulu",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://www.hulu.com/movie/edge-of-tomorrow-eb7637a7-4125-468b-ab93-54c348a46ea3"
         },
         {
           "service": "apple",
@@ -6101,7 +6090,7 @@
           "service": "apple",
           "type": "rent",
           "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/commando/umc.cmc.56wv0pme9x35bdenxi006mk6y?playableId=tvs.sbd.9001%3A401134798",
+          "link": "https://tv.apple.com/us/movie/commando/umc.cmc.56wv0pme9x35bdenxi006mk6y?playableId=tvs.sbd.9001%3A976436002",
           "price": "USD3.99"
         },
         {
@@ -6115,7 +6104,7 @@
           "service": "apple",
           "type": "buy",
           "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/commando/umc.cmc.56wv0pme9x35bdenxi006mk6y?playableId=tvs.sbd.9001%3A401134798",
+          "link": "https://tv.apple.com/us/movie/commando/umc.cmc.56wv0pme9x35bdenxi006mk6y?playableId=tvs.sbd.9001%3A976436002",
           "price": "USD14.99"
         },
         {
@@ -6130,7 +6119,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0NPXH45E55S9P9T40FDRANDONT?ref_=atv_dp",
-          "price": "USD14.99"
+          "price": "USD4.99"
         },
         {
           "service": "prime",
@@ -6242,13 +6231,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTA1NDMyNV5BMl5BanBnXkFtZTcwMzUwODY5Mg@@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "apple",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/green-zone/umc.cmc.6q22y2gw6lbh3q1zdfrp9x54q?playableId=tvs.sbd.9001%3A364196254",
-          "price": "USD3.99"
-        },
-        {
           "service": "prime",
           "type": "addon",
           "quality": "sd",
@@ -6259,6 +6241,13 @@
           "type": "addon",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/green-zone/umc.cmc.6q22y2gw6lbh3q1zdfrp9x54q?playableId=tvs.sbd.1000244%3A21313"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/green-zone/umc.cmc.6q22y2gw6lbh3q1zdfrp9x54q?playableId=tvs.sbd.9001%3A364196254",
+          "price": "USD3.99"
         },
         {
           "service": "apple",
@@ -6336,6 +6325,12 @@
       "plot": "A powerful warrior seeks to avenge the genocide of his people and the murder of his parents at the hands of a snake cult.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMjUzM2YzZDAtNzk1MS00YmNmLTg1ZmQtNjgyN2U3NTY0ZjE4XkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
+        {
+          "service": "apple",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/conan-the-barbarian/umc.cmc.n2btwym13ddi29hfn0ak42w0?playableId=tvs.sbd.1000383%3AAMCNFL0000000371"
+        },
         {
           "service": "netflix",
           "type": "subscription",
@@ -6423,7 +6418,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/behind-enemy-lines/umc.cmc.3friof6iehp2d12s0l1458owe?playableId=tvs.sbd.9001%3A270542889",
-          "price": "USD4.99"
+          "price": "USD14.99"
         },
         {
           "service": "roku",
@@ -6443,6 +6438,12 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0SPSWE1BDCGPRGZ3GBKTBZB9MS?ref_=atv_dp",
           "price": "USD4.99"
+        },
+        {
+          "service": "apple",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/behind-enemy-lines/umc.cmc.3friof6iehp2d12s0l1458owe?playableId=tvs.sbd.1000231%3Ae394995c-666f-4673-80ef-400462fd7788"
         },
         {
           "service": "starz",
@@ -6522,18 +6523,6 @@
           "type": "addon",
           "quality": "sd",
           "link": "https://www.amazon.com/gp/video/detail/0SGJENET5M8XBN2R89T5HQS9ZN?ref_=atv_dp"
-        },
-        {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/59a70191f0f9a0b8384dfcd5/details"
-        },
-        {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/62bbe4c509f31a001372e2fa/details"
         },
         {
           "service": "prime",
@@ -6941,12 +6930,6 @@
         },
         {
           "service": "apple",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/pearl-harbor/umc.cmc.4ccyloc8y8m8194unpio4r1os?playableId=tvs.sbd.1000185%3AMV001059990000"
-        },
-        {
-          "service": "apple",
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/pearl-harbor/umc.cmc.4ccyloc8y8m8194unpio4r1os?playableId=tvs.sbd.9001%3A207105360",
@@ -6974,12 +6957,6 @@
       "plot": "A dramatization of the July 20, 1944 assassination and political coup plot by desperate renegade German Army officers against Adolf Hitler during World War II.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMTg3Njc2ODEyN15BMl5BanBnXkFtZTcwNTAwMzc3NA@@._V1_SX300.jpg",
       "streaming_options": [
-        {
-          "service": "apple",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/valkyrie/umc.cmc.5i3oizmz85jrgc2o0cfi0nn40?playableId=tvs.sbd.1000185%3AMV002139660000"
-        },
         {
           "service": "roku",
           "type": "free",
@@ -7024,12 +7001,6 @@
           "type": "free",
           "quality": "hd",
           "link": "https://tubitv.com/movies/300466/valkyrie"
-        },
-        {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/599f0968e2e833f9fdd0da54/details"
         },
         {
           "service": "prime",
@@ -7117,6 +7088,20 @@
       "plot": "A German youth eagerly enters World War I, but his enthusiasm wanes as he gets a firsthand view of the horror.",
       "poster": "https://m.media-amazon.com/images/M/MV5BODY0NzU2MWYtODZmMi00Y2Y5LTliZmMtN2JjZTA1OTcyMzAzXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0JWRBFAZB8847EFSIH05LVITRX?ref_=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0JWRBFAZB8847EFSIH05LVITRX?ref_=atv_dp",
+          "price": "USD14.99"
+        },
         {
           "service": "roku",
           "type": "free",
@@ -7229,12 +7214,6 @@
           "quality": "sd",
           "link": "https://tv.apple.com/us/movie/downfall/umc.cmc.7ceid6aa44b9pdbrzmk1g4yn0?playableId=tvs.sbd.9001%3A1514514909",
           "price": "USD10.99"
-        },
-        {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/66588bafc3f49b0013e0226b/details"
         },
         {
           "service": "tubi",
@@ -7376,16 +7355,16 @@
           "price": "USD14.99"
         },
         {
-          "service": "hbo",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://play.hbomax.com/movie/825604ff-c3aa-49d1-a47f-55bb6f1535af"
-        },
-        {
           "service": "roku",
           "type": "addon",
           "quality": "hd",
           "link": "https://therokuchannel.roku.com/details/d96f6e6a97585b08873e3d2a447358c4"
+        },
+        {
+          "service": "hbo",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://play.hbomax.com/movie/825604ff-c3aa-49d1-a47f-55bb6f1535af"
         },
         {
           "service": "apple",
@@ -7411,16 +7390,16 @@
       "episode_number": "38",
       "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-38-sands-iwo-jima/",
       "title": "Sands of Iwo Jima",
-      "year": "1949",
+      "year": "1950",
       "imdb_id": "tt0041841",
       "imdb_rating": "7.0",
-      "imdb_votes": "11,865",
+      "imdb_votes": "12,520",
       "imdb_url": "https://www.imdb.com/title/tt0041841",
       "runtime": "100 min",
       "genre": "Action, Drama, Romance",
       "director": "Allan Dwan",
       "plot": "Haunted by personal demons, Marine Sgt. John Stryker is hated and feared by his men, who see him as a cold-hearted sadist. But when their boots hit the beaches, they begin to understand the reason for Stryker's rigid form of disci...",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTg5ZGI1YjUtYzUwMS00YTE0LThkNGEtMmNhZWYwOTY5MDRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTg5ZGI1YjUtYzUwMS00YTE0LThkNGEtMmNhZWYwOTY5MDRjXkEyXkFqcGc@._V1_QL75_UX380_CR0,13,380,562_.jpg",
       "streaming_options": [
         {
           "service": "apple",
@@ -7511,12 +7490,6 @@
           "price": "USD9.99"
         },
         {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/60da327bb8187f00136b07f2/details"
-        },
-        {
           "service": "prime",
           "type": "buy",
           "quality": "hd",
@@ -7585,16 +7558,16 @@
           "price": "USD14.99"
         },
         {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/e2fc7d09118d5a599d4d88e0cd4a37a6"
-        },
-        {
           "service": "hulu",
           "type": "addon",
           "quality": "hd",
           "link": "https://www.hulu.com/movie/wonder-woman-5895c91f-7881-48cc-8807-5ea2b8b797dd"
+        },
+        {
+          "service": "roku",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://therokuchannel.roku.com/details/e2fc7d09118d5a599d4d88e0cd4a37a6"
         },
         {
           "service": "prime",
@@ -7749,16 +7722,16 @@
       "episode_number": "36",
       "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-36-army-shadows-larm%c3%a9e-des-ombres/",
       "title": "Army of Shadows",
-      "year": "1969",
+      "year": "1970",
       "imdb_id": "tt0064040",
       "imdb_rating": "8.1",
-      "imdb_votes": "27,228",
+      "imdb_votes": "29,676",
       "imdb_url": "https://www.imdb.com/title/tt0064040",
       "runtime": "145 min",
       "genre": "Drama, War",
       "director": "Jean-Pierre Melville",
       "plot": "An account of underground resistance fighters in Nazi-occupied France.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTQxZGZhOTctM2MyYi00OGZkLTgwOWItNThlNjJkNWEwOWM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQxZGZhOTctM2MyYi00OGZkLTgwOWItNThlNjJkNWEwOWM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -7857,7 +7830,13 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/aliens/umc.cmc.65qmv8mospg448bevgyv8kjgf?playableId=tvs.sbd.9001%3A270212246",
-          "price": "USD4.99"
+          "price": "USD19.99"
+        },
+        {
+          "service": "roku",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://therokuchannel.roku.com/details/fec4b45a7d565755bafcdbe4dac4c410"
         },
         {
           "service": "roku",
@@ -7956,16 +7935,16 @@
       "episode_number": "32",
       "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-32-paisan/",
       "title": "Paisan",
-      "year": "1946",
+      "year": "1948",
       "imdb_id": "tt0038823",
       "imdb_rating": "7.6",
-      "imdb_votes": "9,963",
+      "imdb_votes": "10,856",
       "imdb_url": "https://www.imdb.com/title/tt0038823",
       "runtime": "120 min",
       "genre": "Drama, War",
       "director": "Roberto Rossellini",
       "plot": "American military personnel interact warily with a variety of Italian locals over a year and a half in the push north during the Italian Campaign of WWII as German forces make their retreat.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZjQ2YmE2YmYtMGM0YS00NGM5LWJmNDctNDJiZjI5Y2IyM2FmXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjQ2YmE2YmYtMGM0YS00NGM5LWJmNDctNDJiZjI5Y2IyM2FmXkEyXkFqcGc@._V1_QL75_UY562_CR10,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "roku",
@@ -8014,27 +7993,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BOWFhMDY1MjItMzkyZS00NmVkLWE1NDYtOTFkMmMwMjdkZjQyXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "apple",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/the-enemy-below/umc.cmc.3c0rfqb900u3h28b8oujocgct?playableId=tvs.sbd.9001%3A302866955",
-          "price": "USD3.99"
-        },
-        {
-          "service": "apple",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/the-enemy-below/umc.cmc.3c0rfqb900u3h28b8oujocgct?playableId=tvs.sbd.9001%3A302866955",
-          "price": "USD9.99"
-        },
-        {
-          "service": "prime",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0HOOHI9LLL8AYOOSV3OO914WLE?ref_=atv_dp",
-          "price": "USD3.99"
-        },
-        {
           "service": "prime",
           "type": "subscription",
           "quality": "sd",
@@ -8046,6 +8004,27 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0HOOHI9LLL8AYOOSV3OO914WLE?ref_=atv_dp",
           "price": "USD9.99"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/the-enemy-below/umc.cmc.3c0rfqb900u3h28b8oujocgct?playableId=tvs.sbd.9001%3A302866955",
+          "price": "USD3.99"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/the-enemy-below/umc.cmc.3c0rfqb900u3h28b8oujocgct?playableId=tvs.sbd.9001%3A302866955",
+          "price": "USD9.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0HOOHI9LLL8AYOOSV3OO914WLE?ref_=atv_dp",
+          "price": "USD3.99"
         }
       ],
       "ar": null,
@@ -8070,6 +8049,13 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BZjE4YjllODAtZGMxZS00Mjg2LThkOWUtZjNkMjQ5YThiNDU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,16,380,562_.jpg",
       "streaming_options": [
         {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/platoon/umc.cmc.5ecv7yrex9ocne1t2dzpygy8n?playableId=tvs.sbd.9001%3A268171320",
+          "price": "USD14.99"
+        },
+        {
           "service": "roku",
           "type": "addon",
           "quality": "hd",
@@ -8082,29 +8068,10 @@
           "link": "https://tv.apple.com/us/movie/platoon/umc.cmc.5ecv7yrex9ocne1t2dzpygy8n?playableId=tvs.sbd.1000185%3AMV000214430000"
         },
         {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/60634b5b9457110007ca0200/details"
-        },
-        {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/63be0a1a6d79340013528c3d/details"
-        },
-        {
           "service": "tubi",
           "type": "free",
           "quality": "hd",
           "link": "https://tubitv.com/movies/310145/platoon"
-        },
-        {
-          "service": "apple",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/platoon/umc.cmc.5ecv7yrex9ocne1t2dzpygy8n?playableId=tvs.sbd.9001%3A268171320",
-          "price": "USD14.99"
         },
         {
           "service": "apple",
@@ -8369,13 +8336,6 @@
       "streaming_options": [
         {
           "service": "apple",
-          "type": "buy",
-          "quality": "sd",
-          "link": "https://tv.apple.com/us/movie/the-last-of-the-mohicans/umc.cmc.6mq477wgqfw9hac6ay3nn8rra?playableId=tvs.sbd.9001%3A272507859",
-          "price": "USD12.99"
-        },
-        {
-          "service": "apple",
           "type": "rent",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/the-last-of-the-mohicans/umc.cmc.6mq477wgqfw9hac6ay3nn8rra?playableId=tvs.sbd.9001%3A553357676",
@@ -8393,7 +8353,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/the-last-of-the-mohicans/umc.cmc.6mq477wgqfw9hac6ay3nn8rra?playableId=tvs.sbd.9001%3A553357676",
-          "price": "USD14.99"
+          "price": "USD4.99"
         }
       ],
       "ar": null,
@@ -8470,14 +8430,14 @@
           "type": "rent",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0IQWGMZLJQUC04CFMXKAHRGSLF?ref_=atv_dp",
-          "price": "USD3.99"
+          "price": "USD4.99"
         },
         {
           "service": "prime",
           "type": "buy",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0IQWGMZLJQUC04CFMXKAHRGSLF?ref_=atv_dp",
-          "price": "USD12.99"
+          "price": "USD7.99"
         }
       ],
       "ar": null,
@@ -8507,12 +8467,6 @@
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0RBHNZFMR0GG6A0XMYYPKMUIYV?ref_=atv_dp",
           "price": "USD5.99"
-        },
-        {
-          "service": "plutotv",
-          "type": "free",
-          "quality": "sd",
-          "link": "https://pluto.tv/gsa/on-demand/movies/5a9da843fb6f2f17481afa96/details"
         },
         {
           "service": "prime",
@@ -8566,6 +8520,12 @@
       "streaming_options": [
         {
           "service": "prime",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.20aa7790-616d-dc71-e316-22e4ec1abb6a"
+        },
+        {
+          "service": "prime",
           "type": "rent",
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0H389XPD3WJDGTXHTRHV7HBR6Y?ref_=atv_dp",
@@ -8595,16 +8555,16 @@
       "episode_number": "19",
       "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-19-rescue-dawn/",
       "title": "Rescue Dawn",
-      "year": "2006",
+      "year": "2007",
       "imdb_id": "tt0462504",
-      "imdb_rating": "7.3",
-      "imdb_votes": "113,626",
+      "imdb_rating": "7.2",
+      "imdb_votes": "117,436",
       "imdb_url": "https://www.imdb.com/title/tt0462504",
       "runtime": "125 min",
       "genre": "Adventure, Biography, War",
       "director": "Werner Herzog",
       "plot": "A U.S. fighter pilot's epic struggle of survival after being shot down on a mission over Laos during the Vietnam War.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNzUxNzUzNzU2MV5BMl5BanBnXkFtZTcwNTgzNzU2NA@@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzUxNzUzNzU2MV5BMl5BanBnXkFtZTcwNTgzNzU2NA@@._V1_QL75_UX380_CR0,1,380,562_.jpg",
       "streaming_options": [
         {
           "service": "roku",
@@ -8794,6 +8754,20 @@
       "plot": "A group of teenagers look to save their town from an invasion of North Korean soldiers.",
       "poster": "https://m.media-amazon.com/images/M/MV5BNGZhODgzYTEtNmI2Mi00MmRmLWFhYzAtNGFkNjQzZmFiM2EwXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0G4TYHNTYEHYS7IOXWGJIAJ81M?ref_=atv_dp",
+          "price": "USD14.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0G4TYHNTYEHYS7IOXWGJIAJ81M?ref_=atv_dp",
+          "price": "USD3.99"
+        },
         {
           "service": "prime",
           "type": "buy",
@@ -9029,19 +9003,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BODM5MmQyYjktMzg5Ny00Y2Y1LThlNWQtNjQ5OGMwNmY2YjcyXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/d6562c40588f559889587f645bbfaac0"
-        },
-        {
-          "service": "apple",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/enemy-at-the-gates/umc.cmc.7yy9e5w5yqs9vyx9davoe69t?playableId=tvs.sbd.9001%3A211682344",
-          "price": "USD14.99"
-        },
-        {
           "service": "apple",
           "type": "addon",
           "quality": "uhd",
@@ -9053,6 +9014,19 @@
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/enemy-at-the-gates/umc.cmc.7yy9e5w5yqs9vyx9davoe69t?playableId=tvs.sbd.9001%3A211682344",
           "price": "USD5.99"
+        },
+        {
+          "service": "roku",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://therokuchannel.roku.com/details/d6562c40588f559889587f645bbfaac0"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/enemy-at-the-gates/umc.cmc.7yy9e5w5yqs9vyx9davoe69t?playableId=tvs.sbd.9001%3A211682344",
+          "price": "USD4.99"
         },
         {
           "service": "tubi",
@@ -9082,12 +9056,6 @@
       "plot": "A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
-        {
-          "service": "apple",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/fury/umc.cmc.4wfs3tno6kih50j21qgn1n0m3?playableId=tvs.sbd.1000185%3AMV005696210000"
-        },
         {
           "service": "prime",
           "type": "buy",
