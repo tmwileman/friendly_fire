@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T19:26:40.571791Z",
+  "last_updated": "2026-10-05T20:23:37.955158Z",
   "total_movies": 168,
   "movies": [
     {
@@ -259,6 +259,12 @@
           "price": "USD4.99"
         },
         {
+          "service": "roku",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://therokuchannel.roku.com/details/d00be81c46015c07b725e1b48a1793dc"
+        },
+        {
           "service": "prime",
           "type": "buy",
           "quality": "hd",
@@ -271,12 +277,6 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0N8VNX138FWG8S5AC7C58T1HY1?ref_=atv_dp",
           "price": "USD14.99"
-        },
-        {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/d00be81c46015c07b725e1b48a1793dc"
         },
         {
           "service": "prime",
@@ -304,27 +304,14 @@
       "year": "1998",
       "imdb_id": "tt0122690",
       "imdb_rating": "7.2",
-      "imdb_votes": "204,446",
+      "imdb_votes": "210,571",
       "imdb_url": "https://www.imdb.com/title/tt0122690",
       "runtime": "122 min",
       "genre": "Action, Crime, Thriller",
       "director": "John Frankenheimer",
-      "plot": "A freelancing former U.S. intelligence agent tries to track down a mysterious package that's wanted by both the Irish and the Russian governments.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYzU0MDEwOGMtZWFlMy00ZjllLWFmMWQtYWIxN2M1YmU5ZWQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot": "A freelancing former U.S. intelligence agent is hired as part of a team to steal a mysterious package that's wanted by both the IRA and Russian mercenaries.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzU0MDEwOGMtZWFlMy00ZjllLWFmMWQtYWIxN2M1YmU5ZWQwXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
       "streaming_options": [
-        {
-          "service": "roku",
-          "type": "free",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/30904148d939505b8f2f1419ae73ba9a"
-        },
-        {
-          "service": "prime",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0IP5M2MT4GFRFLP15HA9YTX5CC?ref_=atv_dp",
-          "price": "USD14.99"
-        },
         {
           "service": "apple",
           "type": "rent",
@@ -333,16 +320,23 @@
           "price": "USD3.99"
         },
         {
+          "service": "apple",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/ronin/umc.cmc.50z86u9tpbb3ni7q7r78yrra?playableId=tvs.sbd.1000185%3AMV000628980000"
+        },
+        {
           "service": "tubi",
           "type": "free",
           "quality": "hd",
           "link": "https://tubitv.com/movies/312424/ronin"
         },
         {
-          "service": "apple",
-          "type": "addon",
+          "service": "prime",
+          "type": "buy",
           "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/ronin/umc.cmc.50z86u9tpbb3ni7q7r78yrra?playableId=tvs.sbd.1000185%3AMV000628980000"
+          "link": "https://www.amazon.com/gp/video/detail/0IP5M2MT4GFRFLP15HA9YTX5CC?ref_=atv_dp",
+          "price": "USD14.99"
         },
         {
           "service": "prime",
@@ -537,14 +531,14 @@
       "title": "Age of Heroes",
       "year": "2011",
       "imdb_id": "tt1590950",
-      "imdb_rating": "5.5",
-      "imdb_votes": "10,388",
+      "imdb_rating": "5.6",
+      "imdb_votes": "10,464",
       "imdb_url": "https://www.imdb.com/title/tt1590950",
       "runtime": "94 min",
       "genre": "Action, Adventure, Drama",
       "director": "Adrian Vitoria",
       "plot": "The true story of the formation of Ian Fleming's 30 Commando unit, a precursor for the elite forces in the U.K.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjE2MzQ1MDA1M15BMl5BanBnXkFtZTcwNjUzMjEyNQ@@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjE2MzQ1MDA1M15BMl5BanBnXkFtZTcwNjUzMjEyNQ@@._V1_QL75_UY562_CR1,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -658,6 +652,12 @@
           "price": "USD14.99"
         },
         {
+          "service": "roku",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://therokuchannel.roku.com/details/4282a8c385ec54a98294d64697653222"
+        },
+        {
           "service": "prime",
           "type": "rent",
           "quality": "hd",
@@ -683,10 +683,10 @@
           "link": "https://www.hulu.com/movie/overlord-1139b449-fbd5-4b3d-8810-db94227eb414"
         },
         {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/4282a8c385ec54a98294d64697653222"
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/6446f20e559c07001a06ee31/details"
         },
         {
           "service": "prime",
@@ -805,6 +805,12 @@
           "link": "https://tubitv.com/movies/306947/the-secret-invasion"
         },
         {
+          "service": "roku",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://therokuchannel.roku.com/details/f618b849fbb4566192945529e7526358"
+        },
+        {
           "service": "prime",
           "type": "addon",
           "quality": "sd",
@@ -838,13 +844,13 @@
       "year": "1997",
       "imdb_id": "tt0118972",
       "imdb_rating": "6.2",
-      "imdb_votes": "76,244",
+      "imdb_votes": "79,044",
       "imdb_url": "https://www.imdb.com/title/tt0118972",
       "runtime": "111 min",
       "genre": "Action, Crime, Drama",
       "director": "Alan J. Pakula",
       "plot": "A police officer uncovers the real identity of his house-guest, an I.R.A. terrorist in hiding.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNDU1ODI0ZGUtZDA3My00NGViLWFhM2QtNmI1NzU0ZTA1ODc5XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDU1ODI0ZGUtZDA3My00NGViLWFhM2QtNmI1NzU0ZTA1ODc5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -941,14 +947,14 @@
       "title": "Dune",
       "year": "1984",
       "imdb_id": "tt0087182",
-      "imdb_rating": "6.3",
-      "imdb_votes": "191,067",
+      "imdb_rating": "6.2",
+      "imdb_votes": "194,395",
       "imdb_url": "https://www.imdb.com/title/tt0087182",
       "runtime": "137 min",
       "genre": "Action, Adventure, Sci-Fi",
       "director": "David Lynch",
       "plot": "A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis to free their desert world from the emperor's rule.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMGJlMGM3NDAtOWNhMy00MWExLWI2MzEtMDQ0ZDIzZDY5ZmQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGJlMGM3NDAtOWNhMy00MWExLWI2MzEtMDQ0ZDIzZDY5ZmQ2XkEyXkFqcGc@._V1_QL75_UX380_CR0,16,380,562_.jpg",
       "streaming_options": [
         {
           "service": "tubi",
@@ -984,13 +990,13 @@
       "year": "1991",
       "imdb_id": "tt0099587",
       "imdb_rating": "5.8",
-      "imdb_votes": "8,176",
+      "imdb_votes": "8,537",
       "imdb_url": "https://www.imdb.com/title/tt0099587",
       "runtime": "115 min",
       "genre": "Action, Drama, Thriller",
       "director": "John Milius",
       "plot": "During the air war over Vietnam, a U.S. Navy A-6 Intruder bomber pilot schemes with a hardened veteran to make an unauthorized air strike on Hanoi.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjQ5NTYwYzYtNDRlYi00N2NiLWExZTctODNmZDJkMTYxZjVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjQ5NTYwYzYtNDRlYi00N2NiLWExZTctODNmZDJkMTYxZjVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
       "streaming_options": [
         {
           "service": "apple",
@@ -1034,20 +1040,14 @@
       "year": "1999",
       "imdb_id": "tt0120716",
       "imdb_rating": "6.5",
-      "imdb_votes": "18,527",
+      "imdb_votes": "17,562",
       "imdb_url": "https://www.imdb.com/title/tt0120716",
       "runtime": "120 min",
       "genre": "Comedy, Drama, War",
       "director": "Peter Kassovitz",
       "plot": "During World War II, an ordinary inhabitant of a ghetto fakes news about Allied offensives to inspire hope for other victims of the Nazi regime.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BY2QyOTU2ZTAtYmRkMC00NDVjLThlNWQtMmI0MWI4NDM3YmRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2QyOTU2ZTAtYmRkMC00NDVjLThlNWQtMmI0MWI4NDM3YmRmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
-        {
-          "service": "roku",
-          "type": "free",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/812c78426e1c52bb8408298df4c7585a"
-        },
         {
           "service": "tubi",
           "type": "free",
@@ -1115,13 +1115,13 @@
       "year": "1995",
       "imdb_id": "tt0112819",
       "imdb_rating": "6.9",
-      "imdb_votes": "25,879",
+      "imdb_votes": "27,144",
       "imdb_url": "https://www.imdb.com/title/tt0112819",
       "runtime": "119 min",
       "genre": "Action, Crime, Drama",
       "director": "Albert Hughes, Allen Hughes",
       "plot": "A Vietnam vet adjusts to life after the war while trying to support his family, but the chance of a better life may involve crime and bloodshed.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTUzZTczZGItNjY4My00YTIyLTgyODYtNjFmNDY2ZWJlNTlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTUzZTczZGItNjY4My00YTIyLTgyODYtNjFmNDY2ZWJlNTlmXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "apple",
@@ -1268,6 +1268,12 @@
           "price": "USD9.99"
         },
         {
+          "service": "roku",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://therokuchannel.roku.com/details/8f4c575d01ef58f5bd78a32792f1f6cb"
+        },
+        {
           "service": "prime",
           "type": "rent",
           "quality": "hd",
@@ -1409,7 +1415,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/greyhound/umc.cmc.o5z5ztufuu3uv8lx7m0jcega?playableId=tvs.sbd.9001%3A1805971117",
-          "price": "USD14.99"
+          "price": "USD7.99"
         },
         {
           "service": "apple",
@@ -1423,7 +1429,7 @@
           "type": "buy",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0S3031CPPUTBEK0WB3Y3EZRZJE?ref_=atv_dp",
-          "price": "USD14.99"
+          "price": "USD7.99"
         },
         {
           "service": "prime",
@@ -1461,12 +1467,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMmM5MDlmZWUtYTE1Mi00M2JiLTk1NzYtMTg0NTdlMzM2N2RkXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "amc",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.amcplus.com/movies/wargames--1043773"
-        },
-        {
           "service": "apple",
           "type": "addon",
           "quality": "hd",
@@ -1477,12 +1477,6 @@
           "type": "addon",
           "quality": "uhd",
           "link": "https://tv.apple.com/us/movie/wargames/umc.cmc.4n8grrnb4vq7tgygwcd1cxzcq?playableId=tvs.sbd.1000185%3AMV000128870000"
-        },
-        {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/30c805e563ba50cc88d873b705b95e63"
         },
         {
           "service": "roku",
@@ -1516,12 +1510,6 @@
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/wargames/umc.cmc.4n8grrnb4vq7tgygwcd1cxzcq?playableId=tvs.sbd.9001%3A268643342",
           "price": "USD14.99"
-        },
-        {
-          "service": "prime",
-          "type": "addon",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0S45TMQXNRV5006I6Q64AH0E0H?ref_=atv_dp"
         },
         {
           "service": "apple",
@@ -1544,13 +1532,13 @@
       "year": "2005",
       "imdb_id": "tt0326905",
       "imdb_rating": "6.6",
-      "imdb_votes": "24,791",
+      "imdb_votes": "25,397",
       "imdb_url": "https://www.imdb.com/title/tt0326905",
       "runtime": "132 min",
       "genre": "Action, Drama, War",
       "director": "John Dahl",
       "plot": "Taking place towards the end of WWII, 500 American Soldiers have been entrapped in a camp for 3 years. Beginning to give up hope they will ever be rescued, a group of Rangers goes on a dangerous mission to try and save them.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODI3Nl5BMl5BanBnXkFtZTcwNjA1NzAzMQ@@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODI3Nl5BMl5BanBnXkFtZTcwNjA1NzAzMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [],
       "ar": null,
       "br": null,
@@ -1574,12 +1562,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMmM5MDlmZWUtYTE1Mi00M2JiLTk1NzYtMTg0NTdlMzM2N2RkXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "amc",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.amcplus.com/movies/wargames--1043773"
-        },
-        {
           "service": "apple",
           "type": "addon",
           "quality": "hd",
@@ -1590,12 +1572,6 @@
           "type": "addon",
           "quality": "uhd",
           "link": "https://tv.apple.com/us/movie/wargames/umc.cmc.4n8grrnb4vq7tgygwcd1cxzcq?playableId=tvs.sbd.1000185%3AMV000128870000"
-        },
-        {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/30c805e563ba50cc88d873b705b95e63"
         },
         {
           "service": "roku",
@@ -1629,12 +1605,6 @@
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/wargames/umc.cmc.4n8grrnb4vq7tgygwcd1cxzcq?playableId=tvs.sbd.9001%3A268643342",
           "price": "USD14.99"
-        },
-        {
-          "service": "prime",
-          "type": "addon",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0S45TMQXNRV5006I6Q64AH0E0H?ref_=atv_dp"
         },
         {
           "service": "apple",
@@ -1666,12 +1636,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMmM5MDlmZWUtYTE1Mi00M2JiLTk1NzYtMTg0NTdlMzM2N2RkXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "amc",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.amcplus.com/movies/wargames--1043773"
-        },
-        {
           "service": "apple",
           "type": "addon",
           "quality": "hd",
@@ -1682,12 +1646,6 @@
           "type": "addon",
           "quality": "uhd",
           "link": "https://tv.apple.com/us/movie/wargames/umc.cmc.4n8grrnb4vq7tgygwcd1cxzcq?playableId=tvs.sbd.1000185%3AMV000128870000"
-        },
-        {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/30c805e563ba50cc88d873b705b95e63"
         },
         {
           "service": "roku",
@@ -1721,12 +1679,6 @@
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/wargames/umc.cmc.4n8grrnb4vq7tgygwcd1cxzcq?playableId=tvs.sbd.9001%3A268643342",
           "price": "USD14.99"
-        },
-        {
-          "service": "prime",
-          "type": "addon",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0S45TMQXNRV5006I6Q64AH0E0H?ref_=atv_dp"
         },
         {
           "service": "apple",
@@ -1835,16 +1787,16 @@
       "episode_number": "133",
       "episode_url": "https://maximumfun.org/episodes/friendly-fire/good-kill-2014/",
       "title": "Good Kill",
-      "year": "2014",
+      "year": "2015",
       "imdb_id": "tt3297330",
       "imdb_rating": "6.4",
-      "imdb_votes": "25,545",
+      "imdb_votes": "26,066",
       "imdb_url": "https://www.imdb.com/title/tt3297330",
       "runtime": "102 min",
       "genre": "Drama, Thriller, War",
       "director": "Andrew Niccol",
       "plot": "A family man begins to question the ethics of his job as a drone pilot.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNDIxNzE5OF5BMl5BanBnXkFtZTgwODMxMTExNTE@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNDIxNzE5OF5BMl5BanBnXkFtZTgwODMxMTExNTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -1939,6 +1891,18 @@
         },
         {
           "service": "roku",
+          "type": "free",
+          "quality": "hd",
+          "link": "https://therokuchannel.roku.com/details/78b43189d3365216ac2987f131a47b99"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/61e9e0530a7fe8001a13a7f2/details"
+        },
+        {
+          "service": "roku",
           "type": "addon",
           "quality": "hd",
           "link": "https://therokuchannel.roku.com/details/78b43189d3365216ac2987f131a47b99"
@@ -1964,13 +1928,13 @@
       "year": "1942",
       "imdb_id": "tt0034891",
       "imdb_rating": "7.2",
-      "imdb_votes": "6,880",
+      "imdb_votes": "7,201",
       "imdb_url": "https://www.imdb.com/title/tt0034891",
       "runtime": "115 min",
       "genre": "Drama, War",
       "director": "Noël Coward, David Lean",
       "plot": "This \"story of a ship\", the British destroyer H.M.S. Torrin, is told in flashbacks by survivors as they cling to a life raft.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjE3MTJkOWUtMDMwNy00MWU5LWFjZjctZTI4MTlmZGJkMzU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzY4ZGViODktOGQ0MC00NmZhLTg3MGMtMTEwMmYyYTA4MmViXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
       "streaming_options": [
         {
           "service": "apple",
@@ -2151,6 +2115,12 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BODE4ZTRiYWYtMDU3MC00OGRkLTk1ZjEtMTRiN2IxNjk4MTk2XkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/617747b80b4e8f001a99ab20/details"
+        },
+        {
           "service": "tubi",
           "type": "free",
           "quality": "hd",
@@ -2170,13 +2140,13 @@
       "year": "2020",
       "imdb_id": "tt9777644",
       "imdb_rating": "6.5",
-      "imdb_votes": "56,595",
+      "imdb_votes": "58,011",
       "imdb_url": "https://www.imdb.com/title/tt9777644",
       "runtime": "154 min",
       "genre": "Adventure, Drama, War",
       "director": "Spike Lee",
       "plot": "Four black veterans battle the forces of man and nature when they return to Vietnam seeking the remains of their fallen squad leader and the gold fortune he helped them hide.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNjIwN2IxODEtNDhhMi00NDEwLWIwODEtYjIzZDVhZjg0Y2MyXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjIwN2IxODEtNDhhMi00NDEwLWIwODEtYjIzZDVhZjg0Y2MyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "netflix",
@@ -2240,13 +2210,13 @@
       "year": "2017",
       "imdb_id": "tt4899370",
       "imdb_rating": "7.1",
-      "imdb_votes": "29,641",
+      "imdb_votes": "30,512",
       "imdb_url": "https://www.imdb.com/title/tt4899370",
       "runtime": "116 min",
       "genre": "Action, Biography, Drama",
       "director": "Gabriela Cowperthwaite",
       "plot": "Based on the true life story of a young Marine corporal whose unique discipline and bond with her military combat dog saved many lives during their deployment in Iraq.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTUxOTk2NTkxNF5BMl5BanBnXkFtZTgwOTUyOTM3MTI@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTUxOTk2NTkxNF5BMl5BanBnXkFtZTgwOTUyOTM3MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "apple",
@@ -2606,14 +2576,14 @@
       "title": "Patriot Games",
       "year": "1992",
       "imdb_id": "tt0105112",
-      "imdb_rating": "6.8",
-      "imdb_votes": "126,564",
+      "imdb_rating": "6.9",
+      "imdb_votes": "129,776",
       "imdb_url": "https://www.imdb.com/title/tt0105112",
       "runtime": "117 min",
       "genre": "Action, Thriller",
       "director": "Phillip Noyce",
-      "plot": "When CIA analyst Jack Ryan interferes with an IRA assassination, a renegade faction targets him and his family for revenge.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZWQ3Y2NiOGEtNjdmMS00ODI1LTk0ODktM2U3NjllNzlmZTkxXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot": "An ex-CIA analyst protects his family from IRA-fringe terrorists on his trail.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWQ3Y2NiOGEtNjdmMS00ODI1LTk0ODktM2U3NjllNzlmZTkxXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -2640,6 +2610,12 @@
           "type": "addon",
           "quality": "hd",
           "link": "https://www.hulu.com/movie/patriot-games-3a75b5d5-0b14-4aa0-bc3d-a5cf4cb9d95d"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/5bd3337867f34cef7af44774/details"
         },
         {
           "service": "roku",
@@ -2670,18 +2646,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BYThiZTU4N2UtYWU2Mi00ZGUyLWI2ZmEtM2U1ZmJmOGY1ZTc3XkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "prime",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0O2PU0CGQCA2VFFBGEEYDQCWOX?ref_=atv_dp",
-          "price": "USD3.99"
-        },
-        {
           "service": "apple",
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/good-morning-vietnam/umc.cmc.71kit5z4trm6zoy8uw3b2e4rg?playableId=tvs.sbd.9001%3A480078729",
           "price": "USD17.99"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0O2PU0CGQCA2VFFBGEEYDQCWOX?ref_=atv_dp",
+          "price": "USD3.99"
         },
         {
           "service": "apple",
@@ -2859,12 +2835,6 @@
           "link": "https://pluto.tv/gsa/on-demand/movies/625ef985025eb50013a4cb42/details"
         },
         {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/7e1ca5701ac95260a28e0e5be55d861c"
-        },
-        {
           "service": "apple",
           "type": "rent",
           "quality": "hd",
@@ -2872,16 +2842,29 @@
           "price": "USD4.99"
         },
         {
-          "service": "paramount",
-          "type": "subscription",
-          "quality": "hd",
-          "link": "https://www.paramountplus.com/movies/video/6EBZOegEKE2E4svmjhQ4kIBNRI9y8eTq/"
-        },
-        {
           "service": "prime",
           "type": "addon",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0FM1O78Z3CKXE65XBXU2LT2IM8?ref_=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0FM1O78Z3CKXE65XBXU2LT2IM8?ref_=atv_dp",
+          "price": "USD3.99"
+        },
+        {
+          "service": "roku",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://therokuchannel.roku.com/details/7e1ca5701ac95260a28e0e5be55d861c"
+        },
+        {
+          "service": "paramount",
+          "type": "subscription",
+          "quality": "hd",
+          "link": "https://www.paramountplus.com/movies/video/6EBZOegEKE2E4svmjhQ4kIBNRI9y8eTq/"
         },
         {
           "service": "prime",
@@ -2898,10 +2881,21 @@
         },
         {
           "service": "prime",
-          "type": "rent",
+          "type": "addon",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0FM1O78Z3CKXE65XBXU2LT2IM8?ref_=atv_dp"
+        },
+        {
+          "service": "peacock",
+          "type": "subscription",
           "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0FM1O78Z3CKXE65XBXU2LT2IM8?ref_=atv_dp",
-          "price": "USD4.99"
+          "link": "https://www.peacocktv.com/watch/asset/movies/war-of-the-worlds/accab0be-dd0c-36ff-a00d-a89b8844a582"
+        },
+        {
+          "service": "roku",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://therokuchannel.roku.com/details/7e1ca5701ac95260a28e0e5be55d861c"
         },
         {
           "service": "apple",
@@ -2940,12 +2934,6 @@
           "link": "https://therokuchannel.roku.com/details/7e1ca5701ac95260a28e0e5be55d861c"
         },
         {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/7e1ca5701ac95260a28e0e5be55d861c"
-        },
-        {
           "service": "apple",
           "type": "buy",
           "quality": "hd",
@@ -2966,13 +2954,13 @@
       "year": "1962",
       "imdb_id": "tt0056172",
       "imdb_rating": "8.3",
-      "imdb_votes": "334,419",
+      "imdb_votes": "346,878",
       "imdb_url": "https://www.imdb.com/title/tt0056172",
       "runtime": "227 min",
       "genre": "Adventure, Biography, Drama",
       "director": "David Lean",
       "plot": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYjY0YTQ1OTAtYjEyNy00NTQ4LThlMTQtM2QwYTVhYWFhNjU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjY0YTQ1OTAtYjEyNy00NTQ4LThlMTQtM2QwYTVhYWFhNjU5XkEyXkFqcGc@._V1_QL75_UY562_CR5,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -3079,13 +3067,13 @@
       "year": "1943",
       "imdb_id": "tt0035608",
       "imdb_rating": "7.0",
-      "imdb_votes": "4,833",
+      "imdb_votes": "5,077",
       "imdb_url": "https://www.imdb.com/title/tt0035608",
       "runtime": "126 min",
       "genre": "Drama, War",
       "director": "Lloyd Bacon, Byron Haskin, Raoul Walsh",
       "plot": "An American tanker is sunk by a German U-boat, and the survivors spend 11 days at sea on a raft. Their next assignment - bound for Murmansk through the sub-stalked N. Atlantic.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYWZkNTI2NmUtNTRlYS00YTE3LWI0Y2ItNzcwZDc3MDExYWUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWZkNTI2NmUtNTRlYS00YTE3LWI0Y2ItNzcwZDc3MDExYWUzXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -3113,16 +3101,37 @@
       "episode_url": "https://maximumfun.org/boco/",
       "title": "Outbreak",
       "year": "1995",
-      "imdb_id": null,
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "imdb_url": null,
-      "runtime": "N/A",
-      "genre": "N/A",
-      "director": "N/A",
-      "plot": "IMDb data not found for this movie. Episode information scraped from podcast website.",
-      "poster": "",
-      "streaming_options": [],
+      "imdb_id": "tt0114069",
+      "imdb_rating": "6.6",
+      "imdb_votes": "147,339",
+      "imdb_url": "https://www.imdb.com/title/tt0114069",
+      "runtime": "128 min",
+      "genre": "Action, Drama, Thriller",
+      "director": "Wolfgang Petersen",
+      "plot": "A team of Army doctors struggle to find a cure for the deadly Motaba virus that was transported from Africa to North America by a white-headed Capuchin monkey and is now spreading quickly throughout a small California town.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGYxY2Q0YzUtMmE3OS00ZmQ5LWFiOGUtZDZmNTJlM2YyZjJmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "streaming_options": [
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0IE4XM5IKDRH6WT1ZLEZVQ466B?ref_=atv_dp",
+          "price": "USD4.99"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "sd",
+          "link": "https://www.amazon.com/gp/video/detail/0IE4XM5IKDRH6WT1ZLEZVQ466B?ref_=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0IE4XM5IKDRH6WT1ZLEZVQ466B?ref_=atv_dp",
+          "price": "USD4.99"
+        }
+      ],
       "ar": null,
       "br": null,
       "jr": null,
@@ -3136,13 +3145,13 @@
       "year": "1981",
       "imdb_id": "tt0082432",
       "imdb_rating": "7.4",
-      "imdb_votes": "43,587",
+      "imdb_votes": "45,123",
       "imdb_url": "https://www.imdb.com/title/tt0082432",
       "runtime": "110 min",
       "genre": "Adventure, Drama, History",
       "director": "Peter Weir",
       "plot": "Two Australian sprinters face the brutal realities of war when they are sent to fight in the Gallipoli campaign in Turkey during World War I.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYjlmMzdiZjAtNTI5Yi00MWNlLTk4NWItOTAxZDQwN2UwZTc5XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjlmMzdiZjAtNTI5Yi00MWNlLTk4NWItOTAxZDQwN2UwZTc5XkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
       "streaming_options": [
         {
           "service": "apple",
@@ -3227,6 +3236,12 @@
           "link": "https://therokuchannel.roku.com/details/1df1d807df8c5c6fa01617e846607c84"
         },
         {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/624c79cb6b411b00137d13b7/details"
+        },
+        {
           "service": "apple",
           "type": "addon",
           "quality": "hd",
@@ -3266,13 +3281,13 @@
       "year": "1943",
       "imdb_id": "tt0035616",
       "imdb_rating": "7.0",
-      "imdb_votes": "4,114",
+      "imdb_votes": "4,220",
       "imdb_url": "https://www.imdb.com/title/tt0035616",
       "runtime": "124 min",
       "genre": "Action, Drama, History",
       "director": "Howard Hawks",
       "plot": "The crew of an Air Force bomber arrives in Pearl Harbor in the aftermath of the Japanese attack on December 7, 1941, and is sent on to Manila to help with the defense of the Philippines.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYzg2N2I1YzUtOTlmYi00YjE2LTk0ZTQtYmVhYWVjZmMyZmJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzg2N2I1YzUtOTlmYi00YjE2LTk0ZTQtYmVhYWVjZmMyZmJlXkEyXkFqcGc@._V1_QL75_UX380_CR0,14,380,562_.jpg",
       "streaming_options": [],
       "ar": null,
       "br": null,
@@ -3348,18 +3363,6 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0KLR6CPFRK50RR5VO0J1GZYRHJ?ref_=atv_dp",
           "price": "USD9.99"
-        },
-        {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/3b2596c3e0f35f3487ebc4550cee459e"
-        },
-        {
-          "service": "amc",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.amcplus.com/movies/rambo-iii--1010521"
         }
       ],
       "ar": null,
@@ -3397,6 +3400,12 @@
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1b106e47-d277-4f70-8a85-7e7c4a35c835"
         },
         {
+          "service": "peacock",
+          "type": "subscription",
+          "quality": "hd",
+          "link": "https://www.peacocktv.com/watch/asset/movies/k-19-the-widowmaker/53728148-951c-378e-aa98-621e11584cef"
+        },
+        {
           "service": "roku",
           "type": "free",
           "quality": "hd",
@@ -3415,16 +3424,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0GRAH76QXMWL8UGPBT73UCZ86T?ref_=atv_dp"
         },
         {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/64b95be463158100132f7d34/details"
+        },
+        {
           "service": "tubi",
           "type": "free",
           "quality": "hd",
           "link": "https://tubitv.com/movies/100007995/k-19-the-widowmaker"
-        },
-        {
-          "service": "peacock",
-          "type": "subscription",
-          "quality": "hd",
-          "link": "https://www.peacocktv.com/watch/asset/movies/k-19-the-widowmaker/53728148-951c-378e-aa98-621e11584cef"
         },
         {
           "service": "prime",
@@ -3529,13 +3538,13 @@
       "year": "1964",
       "imdb_id": "tt0057879",
       "imdb_rating": "6.7",
-      "imdb_votes": "2,450",
+      "imdb_votes": "2,500",
       "imdb_url": "https://www.imdb.com/title/tt0057879",
       "runtime": "121 min",
       "genre": "Drama, War",
       "director": "Fred Zinnemann",
       "plot": "Famous Spanish bandit Artiguez returns to his native Spanish village after 20 years in French exile, but Spanish cop Vinolas sets a trap for him.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMDYxZGYxOTItOGJiMS00MjBlLWEwZWMtM2Y0NDk5YTFkYTkzXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDYxZGYxOTItOGJiMS00MjBlLWEwZWMtM2Y0NDk5YTFkYTkzXkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -3723,6 +3732,13 @@
       "streaming_options": [
         {
           "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/rocky-iv/umc.cmc.59frzuu5jxxcr29ydegryu87i?playableId=tvs.sbd.9001%3A278077103",
+          "price": "USD3.99"
+        },
+        {
+          "service": "apple",
           "type": "addon",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/rocky-iv/umc.cmc.59frzuu5jxxcr29ydegryu87i?playableId=tvs.sbd.1000230%3AmGXrkTWDZx48fvLIJ_Qu4DcWg_OIQnIh"
@@ -3734,17 +3750,10 @@
           "link": "https://tv.apple.com/us/movie/rocky-iv/umc.cmc.59frzuu5jxxcr29ydegryu87i?playableId=tvs.sbd.1000383%3AAMCNFL0000001909"
         },
         {
-          "service": "apple",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/rocky-iv/umc.cmc.59frzuu5jxxcr29ydegryu87i?playableId=tvs.sbd.9001%3A278077103",
-          "price": "USD3.99"
-        },
-        {
-          "service": "amc",
-          "type": "subscription",
+          "service": "plutotv",
+          "type": "free",
           "quality": "sd",
-          "link": "https://www.amcplus.com/movies/rocky-iv--1054034"
+          "link": "https://pluto.tv/gsa/on-demand/movies/63fd65c42fc2340013573896/details"
         },
         {
           "service": "apple",
@@ -3752,12 +3761,6 @@
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/rocky-iv/umc.cmc.59frzuu5jxxcr29ydegryu87i?playableId=tvs.sbd.9001%3A278077103",
           "price": "USD14.99"
-        },
-        {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/f47c5adae4565a60a969592739e99015"
         },
         {
           "service": "roku",
@@ -3847,14 +3850,20 @@
       "year": "1987",
       "imdb_id": "tt0093137",
       "imdb_rating": "6.7",
-      "imdb_votes": "29,633",
+      "imdb_votes": "30,369",
       "imdb_url": "https://www.imdb.com/title/tt0093137",
       "runtime": "110 min",
       "genre": "Action, Drama, Thriller",
       "director": "John Irvin",
-      "plot": "A very realistic interpretation of one of the bloodiest battles of the Vietnam War.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BN2ZkYzdiODAtODUzZC00YjRhLWFhZWEtOTY3ZjllMGJiNTQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot": "The story of the 101st Airborne Division in the Vietnam War and their difficult 10-day struggle to take over a strategic mountainside in South Vietnam.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDI0MDBhMDEtYjUyYy00OTZjLTg2MWYtMmE0OTJmNTY0N2VjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/5d24d164f55a8b137789813d/details"
+        },
         {
           "service": "prime",
           "type": "rent",
@@ -3937,12 +3946,6 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0LNIICI8FLPB33ADDYAPYM8GTB?ref_=atv_dp",
           "price": "USD3.99"
-        },
-        {
-          "service": "roku",
-          "type": "free",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/d245e97838d959e58fe3354852c8a6d0"
         },
         {
           "service": "prime",
@@ -4172,6 +4175,13 @@
           "price": "USD3.99"
         },
         {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/lord-of-war/umc.cmc.33c8emvylqpid7l1uf71orhz4?playableId=tvs.sbd.9001%3A256152991",
+          "price": "USD14.99"
+        },
+        {
           "service": "roku",
           "type": "free",
           "quality": "hd",
@@ -4198,11 +4208,10 @@
           "price": "USD4.99"
         },
         {
-          "service": "apple",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/lord-of-war/umc.cmc.33c8emvylqpid7l1uf71orhz4?playableId=tvs.sbd.9001%3A256152991",
-          "price": "USD4.99"
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/5a591b472aee82cc6ec114f7/details"
         },
         {
           "service": "prime",
@@ -4224,13 +4233,13 @@
       "year": "2015",
       "imdb_id": "tt1365050",
       "imdb_rating": "7.7",
-      "imdb_votes": "90,320",
+      "imdb_votes": "92,398",
       "imdb_url": "https://www.imdb.com/title/tt1365050",
       "runtime": "137 min",
       "genre": "Drama, War",
       "director": "Cary Joji Fukunaga",
       "plot": "A drama based on the experiences of Agu, a child soldier fighting in the civil war of an unnamed African country.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTYwMzMzMDI0NF5BMl5BanBnXkFtZTgwNDQ3NjI3NjE@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYwMzMzMDI0NF5BMl5BanBnXkFtZTgwNDQ3NjI3NjE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "netflix",
@@ -4491,32 +4500,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4OTUyNzcwN15BMl5BanBnXkFtZTcwMTQ1NDE3OA@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
-          "service": "prime",
-          "type": "addon",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0HK9XQB5FFVNQMZVSAVDGTZKSO?ref_=atv_dp"
-        },
-        {
-          "service": "prime",
-          "type": "buy",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0RUMZZ179LPFDGLAZMX92GY43C?ref_=atv_dp",
-          "price": "USD16.99"
-        },
-        {
-          "service": "netflix",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.netflix.com/title/70251669"
-        },
-        {
-          "service": "prime",
-          "type": "rent",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0RUMZZ179LPFDGLAZMX92GY43C?ref_=atv_dp",
-          "price": "USD3.99"
-        },
-        {
           "service": "apple",
           "type": "rent",
           "quality": "hd",
@@ -4527,8 +4510,40 @@
           "service": "prime",
           "type": "buy",
           "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0RUMZZ179LPFDGLAZMX92GY43C?ref_=atv_dp",
+          "price": "USD16.99"
+        },
+        {
+          "service": "prime",
+          "type": "addon",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0HK9XQB5FFVNQMZVSAVDGTZKSO?ref_=atv_dp"
+        },
+        {
+          "service": "prime",
+          "type": "buy",
+          "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0HK9XQB5FFVNQMZVSAVDGTZKSO?ref_=atv_dp",
           "price": "USD14.99"
+        },
+        {
+          "service": "netflix",
+          "type": "subscription",
+          "quality": "sd",
+          "link": "https://www.netflix.com/title/70251669"
+        },
+        {
+          "service": "roku",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://therokuchannel.roku.com/details/426f3eff681e5c88aaff400a3272da3e"
+        },
+        {
+          "service": "prime",
+          "type": "rent",
+          "quality": "uhd",
+          "link": "https://www.amazon.com/gp/video/detail/0RUMZZ179LPFDGLAZMX92GY43C?ref_=atv_dp",
+          "price": "USD3.99"
         },
         {
           "service": "prime",
@@ -4555,12 +4570,6 @@
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/zero-dark-thirty/umc.cmc.5ndybc5g6f3yoasfs6bf8jg6x?playableId=tvs.sbd.9001%3A596004876",
           "price": "USD14.99"
-        },
-        {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/426f3eff681e5c88aaff400a3272da3e"
         }
       ],
       "ar": null,
@@ -4797,17 +4806,17 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_QL75_UX380_CR0,12,380,562_.jpg",
       "streaming_options": [
         {
-          "service": "apple",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/hacksaw-ridge/umc.cmc.62aqgczvqwoqyzv1vwv8er5wr?playableId=tvs.sbd.9001%3A1168450249",
-          "price": "USD14.99"
-        },
-        {
           "service": "prime",
           "type": "buy",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0SJRCVTNQIVC1M3U7EIJQHBT0M?ref_=atv_dp",
+          "price": "USD14.99"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/hacksaw-ridge/umc.cmc.62aqgczvqwoqyzv1vwv8er5wr?playableId=tvs.sbd.9001%3A1168450249",
           "price": "USD14.99"
         },
         {
@@ -4844,13 +4853,13 @@
       "year": "2000",
       "imdb_id": "tt0187393",
       "imdb_rating": "7.2",
-      "imdb_votes": "305,970",
+      "imdb_votes": "316,941",
       "imdb_url": "https://www.imdb.com/title/tt0187393",
       "runtime": "165 min",
       "genre": "Action, Drama, War",
       "director": "Roland Emmerich",
       "plot": "Peaceful farmer Benjamin Martin is driven to lead the Colonial Militia during the American Revolution when a sadistic British officer murders his son.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYThjZWExNTItYmE5Yi00ZDE3LTk1ZDktMGJiMWUyYTc2YmFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYThjZWExNTItYmE5Yi00ZDE3LTk1ZDktMGJiMWUyYTc2YmFkXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -4872,6 +4881,12 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0TISNMO3ASUZ6SXEKBCLZZ2UM0?ref_=atv_dp",
           "price": "USD14.99"
+        },
+        {
+          "service": "roku",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://therokuchannel.roku.com/details/edf329eebed05c8e8f2b7acc02ae6168"
         },
         {
           "service": "prime",
@@ -4950,13 +4965,13 @@
       "year": "1989",
       "imdb_id": "tt0097027",
       "imdb_rating": "7.1",
-      "imdb_votes": "50,600",
+      "imdb_votes": "52,433",
       "imdb_url": "https://www.imdb.com/title/tt0097027",
       "runtime": "113 min",
       "genre": "Action, Crime, Drama",
       "director": "Brian De Palma",
-      "plot": "During the Vietnam War, a soldier finds himself the outsider of his own squad when they unnecessarily kidnap a female villager, for their sexual enjoyment.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNWE1ZTIzOWYtZjVmNC00NmQ2LWEyYmEtMGI4ZWE0YzU0M2IyXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot": "During the Vietnam War, a soldier finds himself the outsider of his own squad when they kidnap a female villager for their sexual enjoyment.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWE1ZTIzOWYtZjVmNC00NmQ2LWEyYmEtMGI4ZWE0YzU0M2IyXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -5026,13 +5041,13 @@
       "year": "2018",
       "imdb_id": "tt2368254",
       "imdb_rating": "6.7",
-      "imdb_votes": "22,254",
+      "imdb_votes": "22,839",
       "imdb_url": "https://www.imdb.com/title/tt2368254",
       "runtime": "110 min",
       "genre": "Biography, Drama, War",
       "director": "Matthew Heineman",
       "plot": "One of the most celebrated war correspondents of our time, Marie Colvin is an utterly fearless and rebellious spirit, driven to the frontline of conflicts across the globe to give voice to the voiceless.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMDQzOTUxZGUtMjU5MS00OTY0LWI5ZDUtYzgyMTRjNGRhYWM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDQzOTUxZGUtMjU5MS00OTY0LWI5ZDUtYzgyMTRjNGRhYWM1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "tubi",
@@ -5087,7 +5102,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/the-great-escape/umc.cmc.25wh6g4f4ayem0ia86iljy3gm?playableId=tvs.sbd.9001%3A268746886",
-          "price": "USD14.99"
+          "price": "USD4.99"
         },
         {
           "service": "apple",
@@ -5119,6 +5134,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/644971e71a5081001a13e9f7/details"
+        },
+        {
+          "service": "apple",
+          "type": "addon",
+          "quality": "uhd",
+          "link": "https://tv.apple.com/us/movie/indiana-jones-and-the-raiders-of-the-lost-ark/umc.cmc.askk2uyh039pu6ik4h8kv4dn?playableId=tvs.sbd.1000230%3Ac2AHD3t22ykRDQgjMAoxNrcvYY2Pg_Q_"
+        },
+        {
           "service": "apple",
           "type": "rent",
           "quality": "hd",
@@ -5130,12 +5157,6 @@
           "type": "addon",
           "quality": "hd",
           "link": "https://therokuchannel.roku.com/details/1fc271e16325539ea149fe77b9f2930a"
-        },
-        {
-          "service": "apple",
-          "type": "addon",
-          "quality": "uhd",
-          "link": "https://tv.apple.com/us/movie/indiana-jones-and-the-raiders-of-the-lost-ark/umc.cmc.askk2uyh039pu6ik4h8kv4dn?playableId=tvs.sbd.1000230%3Ac2AHD3t22ykRDQgjMAoxNrcvYY2Pg_Q_"
         },
         {
           "service": "prime",
@@ -5357,6 +5378,12 @@
           "price": "USD3.99"
         },
         {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/5f50317b3bb7850013d31885/details"
+        },
+        {
           "service": "prime",
           "type": "buy",
           "quality": "uhd",
@@ -5424,75 +5451,16 @@
       "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-73-promise-2016/",
       "title": "The Promise",
       "year": "2016",
-      "imdb_id": "tt4776998",
-      "imdb_rating": "6.1",
-      "imdb_votes": "179,878",
-      "imdb_url": "https://www.imdb.com/title/tt4776998",
-      "runtime": "133 min",
-      "genre": "Action, Adventure, Drama",
-      "director": "Terry George",
-      "plot": "Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Michael, a brilliant medical student, the beautiful and sophisticated Ana, and Chris - a renowned American journalist based in Paris.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNzJhYjRiYjYtZGZmZS00MGZmLWI5NWQtZjdlNmEzOGY4YTU2XkEyXkFqcGc@._V1_SX300.jpg",
-      "streaming_options": [
-        {
-          "service": "prime",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0GQH44KZLF3KGBAOQHQO8VH50L?ref_=atv_dp",
-          "price": "USD14.99"
-        },
-        {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/dacf57135d5c5d97b69fdd2e5afed10f"
-        },
-        {
-          "service": "apple",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/the-promise/umc.cmc.7g1q1ceae9tduiz5m9v7ud2nh?playableId=tvs.sbd.9001%3A1783198737",
-          "price": "USD14.99"
-        },
-        {
-          "service": "hulu",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://www.hulu.com/movie/the-promise-05ff626b-b895-4da5-b984-4f7c9c85516d"
-        },
-        {
-          "service": "prime",
-          "type": "addon",
-          "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0GQH44KZLF3KGBAOQHQO8VH50L?ref_=atv_dp"
-        },
-        {
-          "service": "apple",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/the-promise/umc.cmc.7g1q1ceae9tduiz5m9v7ud2nh?playableId=tvs.sbd.1000231%3AAS00039906"
-        },
-        {
-          "service": "apple",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/the-promise/umc.cmc.7g1q1ceae9tduiz5m9v7ud2nh?playableId=tvs.sbd.9001%3A1783198737",
-          "price": "USD3.99"
-        },
-        {
-          "service": "prime",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0GQH44KZLF3KGBAOQHQO8VH50L?ref_=atv_dp",
-          "price": "USD3.99"
-        },
-        {
-          "service": "starz",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.starz.com/us/en/movies/the-promise-51610"
-        }
-      ],
+      "imdb_id": "tt6072400",
+      "imdb_rating": "5.0",
+      "imdb_votes": "22",
+      "imdb_url": "https://www.imdb.com/title/tt6072400",
+      "runtime": "90 min",
+      "genre": "Thriller",
+      "director": "Bambang Drias",
+      "plot": "N/A",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzM3ZTllYzQtNWNlMi00MDJkLWEyZjktNDZiZjcyYjdiYWQwXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+      "streaming_options": [],
       "ar": null,
       "br": null,
       "jr": null,
@@ -5506,13 +5474,13 @@
       "year": "1985",
       "imdb_id": "tt0091251",
       "imdb_rating": "8.3",
-      "imdb_votes": "119,291",
+      "imdb_votes": "127,084",
       "imdb_url": "https://www.imdb.com/title/tt0091251",
       "runtime": "142 min",
       "genre": "Drama, Thriller, War",
       "director": "Elem Klimov",
-      "plot": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNDlkZmVkZDAtZGFmMS00OWIzLWJkY2YtNWE5NjNhNjhiZGE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "plot": "After finding a rifle, a Belarusian teenager joins Soviet partisans in World War II and is swept into the harrowing realities of Nazi occupation.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDlkZmVkZDAtZGFmMS00OWIzLWJkY2YtNWE5NjNhNjhiZGE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg",
       "streaming_options": [
         {
           "service": "apple",
@@ -5657,10 +5625,10 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BZTg0NmRjNTgtMjI1Mi00Y2ZmLWE1NDgtOWQzZTkxNzg0YjM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg",
       "streaming_options": [
         {
-          "service": "roku",
+          "service": "plutotv",
           "type": "free",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/32be8e5407d256a88d13edcc573187c8"
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/6966a879287ec44e14274926/details"
         },
         {
           "service": "apple",
@@ -5675,6 +5643,12 @@
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/redbad-754-ad/umc.cmc.4k2grpz1m3xpuemsrifhgfm4g?playableId=tvs.sbd.9001%3A1574218403",
           "price": "USD3.99"
+        },
+        {
+          "service": "roku",
+          "type": "free",
+          "quality": "hd",
+          "link": "https://therokuchannel.roku.com/details/32be8e5407d256a88d13edcc573187c8"
         },
         {
           "service": "tubi",
@@ -5739,13 +5713,13 @@
       "year": "2017",
       "imdb_id": "tt4555426",
       "imdb_rating": "7.4",
-      "imdb_votes": "236,263",
+      "imdb_votes": "246,264",
       "imdb_url": "https://www.imdb.com/title/tt4555426",
       "runtime": "125 min",
       "genre": "Biography, Drama, History",
       "director": "Joe Wright",
       "plot": "In May 1940, the fate of World War II hangs on Winston Churchill, who must decide whether to negotiate with Adolf Hitler, or fight on knowing that it could mean the end of the British Empire.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNDkyMTgzMV5BMl5BanBnXkFtZTgwNTQwNjg2MzI@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNDkyMTgzMV5BMl5BanBnXkFtZTgwNTQwNjg2MzI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -5935,13 +5909,13 @@
       "year": "1990",
       "imdb_id": "tt0100133",
       "imdb_rating": "6.9",
-      "imdb_votes": "31,554",
+      "imdb_votes": "32,344",
       "imdb_url": "https://www.imdb.com/title/tt0100133",
       "runtime": "107 min",
       "genre": "Action, Drama, War",
       "director": "Michael Caton-Jones",
       "plot": "In 1943, the crew of a B-17 based in the UK prepares for its 25th and final bombing mission over Germany before returning home to the USA.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNjQ3MzVlNzQtMDkyZi00ZDI2LTg5NTQtZmYwOGRhZDU1YWFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjQ3MzVlNzQtMDkyZi00ZDI2LTg5NTQtZmYwOGRhZDU1YWFkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "roku",
@@ -5993,16 +5967,16 @@
       "streaming_options": [
         {
           "service": "apple",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/edge-of-tomorrow/umc.cmc.b5i2nkyck3kyifzh7d72atnd?playableId=tvs.sbd.9001%3A878770824",
-          "price": "USD14.99"
-        },
-        {
-          "service": "apple",
           "type": "addon",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/edge-of-tomorrow/umc.cmc.b5i2nkyck3kyifzh7d72atnd?playableId=tvs.sbd.1000230%3AI5QPe_ZWvcVpTMpKIMjYG392hXknGtsM"
+        },
+        {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/edge-of-tomorrow/umc.cmc.b5i2nkyck3kyifzh7d72atnd?playableId=tvs.sbd.9001%3A878770824",
+          "price": "USD9.99"
         },
         {
           "service": "prime",
@@ -6015,7 +5989,7 @@
           "type": "buy",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0OFN3RXG6XPKJI65K2893ODWQX?ref_=atv_dp",
-          "price": "USD14.99"
+          "price": "USD9.99"
         },
         {
           "service": "roku",
@@ -6051,13 +6025,13 @@
       "year": "2019",
       "imdb_id": "tt1488606",
       "imdb_rating": "6.5",
-      "imdb_votes": "157,291",
+      "imdb_votes": "163,933",
       "imdb_url": "https://www.imdb.com/title/tt1488606",
       "runtime": "125 min",
       "genre": "Action, Adventure, Thriller",
       "director": "J.C. Chandor",
       "plot": "Loyalties are tested when five friends and former special forces operatives reunite to take down a South American drug lord, unleashing a chain of unintended consequences.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BODU4MzM2MDAxMl5BMl5BanBnXkFtZTgwNDEzNjM0NzM@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODU4MzM2MDAxMl5BMl5BanBnXkFtZTgwNDEzNjM0NzM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "netflix",
@@ -6089,6 +6063,13 @@
       "streaming_options": [
         {
           "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/commando/umc.cmc.56wv0pme9x35bdenxi006mk6y?playableId=tvs.sbd.9001%3A976436002",
+          "price": "USD4.99"
+        },
+        {
+          "service": "apple",
           "type": "rent",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/commando/umc.cmc.56wv0pme9x35bdenxi006mk6y?playableId=tvs.sbd.9001%3A976436002",
@@ -6100,13 +6081,6 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0NPXH45E55S9P9T40FDRANDONT?ref_=atv_dp",
           "price": "USD3.99"
-        },
-        {
-          "service": "apple",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/commando/umc.cmc.56wv0pme9x35bdenxi006mk6y?playableId=tvs.sbd.9001%3A976436002",
-          "price": "USD14.99"
         },
         {
           "service": "tubi",
@@ -6149,13 +6123,13 @@
       "year": "2016",
       "imdb_id": "tt2032572",
       "imdb_rating": "5.3",
-      "imdb_votes": "15,232",
+      "imdb_votes": "15,753",
       "imdb_url": "https://www.imdb.com/title/tt2032572",
       "runtime": "128 min",
       "genre": "Action, Drama, History",
       "director": "Mario Van Peebles",
       "plot": "During World War II, an American navy ship is sunk by a Japanese submarine leaving 890 crewmen stranded in shark infested waters.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZTBlNGMxYzMtZWU4Ny00NmUwLTk5MGUtYzAzYjNlNmU1NmIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTBlNGMxYzMtZWU4Ny00NmUwLTk5MGUtYzAzYjNlNmU1NmIwXkEyXkFqcGc@._V1_QL75_UY562_CR12,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "apple",
@@ -6169,12 +6143,6 @@
           "type": "subscription",
           "quality": "sd",
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.caac7bab-7453-073c-4d0b-10b36d041bb8"
-        },
-        {
-          "service": "roku",
-          "type": "free",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/52226286255a57acbe20aadebb042860"
         },
         {
           "service": "prime",
@@ -6194,12 +6162,6 @@
           "type": "addon",
           "quality": "sd",
           "link": "https://www.amazon.com/gp/video/detail/0R5KCV9QMO65V2O74PUJHVPBY0?ref_=atv_dp"
-        },
-        {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/52226286255a57acbe20aadebb042860"
         },
         {
           "service": "prime",
@@ -6241,13 +6203,13 @@
       "year": "2010",
       "imdb_id": "tt0947810",
       "imdb_rating": "6.8",
-      "imdb_votes": "146,910",
+      "imdb_votes": "148,840",
       "imdb_url": "https://www.imdb.com/title/tt0947810",
       "runtime": "115 min",
       "genre": "Action, Drama, Thriller",
       "director": "Paul Greengrass",
       "plot": "Discovering covert and faulty intelligence causes a U.S. Army officer to go rogue as he hunts for Weapons of Mass Destruction in an unstable region.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTA1NDMyNV5BMl5BanBnXkFtZTcwMzUwODY5Mg@@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTA1NDMyNV5BMl5BanBnXkFtZTcwMzUwODY5Mg@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -6345,12 +6307,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMjUzM2YzZDAtNzk1MS00YmNmLTg1ZmQtNjgyN2U3NTY0ZjE4XkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
-          "service": "apple",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/conan-the-barbarian/umc.cmc.n2btwym13ddi29hfn0ak42w0?playableId=tvs.sbd.1000383%3AAMCNFL0000000371"
-        },
-        {
           "service": "netflix",
           "type": "subscription",
           "quality": "sd",
@@ -6368,7 +6324,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/conan-the-barbarian/umc.cmc.n2btwym13ddi29hfn0ak42w0?playableId=tvs.sbd.9001%3A311306408",
-          "price": "USD12.99"
+          "price": "USD4.99"
         },
         {
           "service": "apple",
@@ -6428,12 +6384,6 @@
           "price": "USD14.99"
         },
         {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/9e19bc55995154b4b34d2abd0c12d60e"
-        },
-        {
           "service": "hulu",
           "type": "addon",
           "quality": "hd",
@@ -6451,12 +6401,6 @@
           "type": "addon",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/behind-enemy-lines/umc.cmc.3friof6iehp2d12s0l1458owe?playableId=tvs.sbd.1000231%3Ae394995c-666f-4673-80ef-400462fd7788"
-        },
-        {
-          "service": "starz",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.starz.com/us/en/movies/behind-enemy-lines-24618"
         },
         {
           "service": "prime",
@@ -6532,6 +6476,12 @@
           "link": "https://www.amazon.com/gp/video/detail/0SGJENET5M8XBN2R89T5HQS9ZN?ref_=atv_dp"
         },
         {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/59a70191f0f9a0b8384dfcd5/details"
+        },
+        {
           "service": "prime",
           "type": "subscription",
           "quality": "sd",
@@ -6571,7 +6521,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/inglourious-basterds/umc.cmc.3r1vekw1q5380qojcz9t1ie6a?playableId=tvs.sbd.9001%3A333325378",
-          "price": "USD14.99"
+          "price": "USD7.99"
         },
         {
           "service": "disney",
@@ -6620,13 +6570,13 @@
       "year": "2006",
       "imdb_id": "tt0418689",
       "imdb_rating": "7.1",
-      "imdb_votes": "133,207",
+      "imdb_votes": "135,277",
       "imdb_url": "https://www.imdb.com/title/tt0418689",
       "runtime": "135 min",
       "genre": "Action, Adventure, Drama",
       "director": "Clint Eastwood",
       "plot": "The life stories of the six men who raised the flag at the Battle of Iwo Jima, a turning point in World War II.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTU2MjYxMjMyMF5BMl5BanBnXkFtZTYwMzAwMDc3._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTU2MjYxMjMyMF5BMl5BanBnXkFtZTYwMzAwMDc3._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -6719,24 +6669,10 @@
           "link": "https://mubi.com/films/paths-of-glory"
         },
         {
-          "service": "prime",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0PL2E8U0IE33M52O4M0ULBBQSM?ref_=atv_dp",
-          "price": "USD3.99"
-        },
-        {
-          "service": "prime",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0PL2E8U0IE33M52O4M0ULBBQSM?ref_=atv_dp",
-          "price": "USD7.99"
-        },
-        {
-          "service": "prime",
-          "type": "addon",
+          "service": "plutotv",
+          "type": "free",
           "quality": "sd",
-          "link": "https://www.amazon.com/gp/video/detail/0PL2E8U0IE33M52O4M0ULBBQSM?ref_=atv_dp"
+          "link": "https://pluto.tv/gsa/on-demand/movies/5ff7dc1c926015001311d370/details"
         }
       ],
       "ar": null,
@@ -6774,6 +6710,18 @@
           "link": "https://www.amazon.com/gp/video/detail/0FPCQ27Z2W0SYNODR2YVYQYAQH?ref_=atv_dp"
         },
         {
+          "service": "roku",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://therokuchannel.roku.com/details/7bcc1da147c95d7fb71119fb4603cc84"
+        },
+        {
+          "service": "roku",
+          "type": "addon",
+          "quality": "hd",
+          "link": "https://therokuchannel.roku.com/details/d8999b122366595c9793a50adf487780"
+        },
+        {
           "service": "apple",
           "type": "buy",
           "quality": "hd",
@@ -6786,6 +6734,12 @@
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/robocop/umc.cmc.1a8d88y8168wemudh9skn3qje?playableId=tvs.sbd.9001%3A251112030",
           "price": "USD3.99"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/59d6646b142b60f007cb045e/details"
         },
         {
           "service": "prime",
@@ -6876,13 +6830,13 @@
       "year": "1996",
       "imdb_id": "tt0115956",
       "imdb_rating": "6.6",
-      "imdb_votes": "62,796",
+      "imdb_votes": "64,352",
       "imdb_url": "https://www.imdb.com/title/tt0115956",
       "runtime": "116 min",
       "genre": "Action, Drama, Mystery",
       "director": "Edward Zwick",
       "plot": "A U.S. Army officer, despondent about a deadly mistake he made, investigates a female chopper commander's worthiness for the Medal of Honor.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZTU2MGZmZjAtOWVjNy00NTlkLTg0ZTUtN2Q3NmUxNTNhNGVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTU2MGZmZjAtOWVjNy00NTlkLTg0ZTUtN2Q3NmUxNTNhNGVhXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
       "streaming_options": [
         {
           "service": "apple",
@@ -6985,6 +6939,13 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMTg3Njc2ODEyN15BMl5BanBnXkFtZTcwNTAwMzc3NA@@._V1_SX300.jpg",
       "streaming_options": [
         {
+          "service": "prime",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://www.amazon.com/gp/video/detail/0NV4IPXLBWJGHWI6EN7N3G1HXT?ref_=atv_dp",
+          "price": "USD14.99"
+        },
+        {
           "service": "apple",
           "type": "buy",
           "quality": "hd",
@@ -7000,13 +6961,6 @@
         },
         {
           "service": "prime",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://www.amazon.com/gp/video/detail/0NV4IPXLBWJGHWI6EN7N3G1HXT?ref_=atv_dp",
-          "price": "USD14.99"
-        },
-        {
-          "service": "prime",
           "type": "free",
           "quality": "sd",
           "link": "https://www.amazon.com/gp/video/detail/0NV4IPXLBWJGHWI6EN7N3G1HXT?ref_=atv_dp"
@@ -7016,12 +6970,6 @@
           "type": "free",
           "quality": "hd",
           "link": "https://tubitv.com/movies/300466/valkyrie"
-        },
-        {
-          "service": "roku",
-          "type": "free",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/3c982375410a5d439e077dd5c8f4c7e8"
         },
         {
           "service": "prime",
@@ -7365,7 +7313,7 @@
           "type": "buy",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0P0XTHI3ZO4RBUNV34QAUMAAIJ?ref_=atv_dp",
-          "price": "USD14.99"
+          "price": "USD4.99"
         },
         {
           "service": "roku",
@@ -7384,7 +7332,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/sicario/umc.cmc.2hmfcfgt55co8borra1prueqx?playableId=tvs.sbd.9001%3A1040631578",
-          "price": "USD14.99"
+          "price": "USD4.99"
         },
         {
           "service": "prime",
@@ -7434,6 +7382,12 @@
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/sands-of-iwo-jima/umc.cmc.1hubwsyx3eoc59tpjdjxm7aaj?playableId=tvs.sbd.9001%3A696015660",
           "price": "USD3.99"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/5d9b9aac02119c67cb64e8f0/details"
         },
         {
           "service": "prime",
@@ -7497,6 +7451,12 @@
           "price": "USD3.99"
         },
         {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/60da327bb8187f00136b07f2/details"
+        },
+        {
           "service": "prime",
           "type": "addon",
           "quality": "sd",
@@ -7551,6 +7511,13 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMjEzYmZkNjktODBmYi00NzNkLWIzMjItMjhkMWZiZTZlN2MwXkEyXkFqcGc@._V1_SX300.jpg",
       "streaming_options": [
         {
+          "service": "apple",
+          "type": "buy",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/wonder-woman/umc.cmc.z7v0grnlsjbdd8l699lou0wq?playableId=tvs.sbd.9001%3A1235765633",
+          "price": "USD7.99"
+        },
+        {
           "service": "prime",
           "type": "addon",
           "quality": "uhd",
@@ -7568,13 +7535,6 @@
           "type": "buy",
           "quality": "uhd",
           "link": "https://www.amazon.com/gp/video/detail/0H3D1WUX960B8QBO6CYCWOOYZ3?ref_=atv_dp",
-          "price": "USD7.99"
-        },
-        {
-          "service": "apple",
-          "type": "buy",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/wonder-woman/umc.cmc.z7v0grnlsjbdd8l699lou0wq?playableId=tvs.sbd.9001%3A1235765633",
           "price": "USD7.99"
         },
         {
@@ -7678,18 +7638,6 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0MNNJQM8AWU2MYTWXF9D000KEA?ref_=atv_dp",
           "price": "USD3.99"
-        },
-        {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/1a14f147bb5354cd8a496a21fea68452"
-        },
-        {
-          "service": "amc",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.amcplus.com/movies/rambo-first-blood-part-ii--1010517"
         },
         {
           "service": "prime",
@@ -7860,18 +7808,6 @@
           "price": "USD4.99"
         },
         {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/fec4b45a7d565755bafcdbe4dac4c410"
-        },
-        {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/8cc9ca4f412955a4ba1f6dcd06c8e164"
-        },
-        {
           "service": "prime",
           "type": "rent",
           "quality": "uhd",
@@ -7888,7 +7824,7 @@
           "service": "apple",
           "type": "addon",
           "quality": "uhd",
-          "link": "https://tv.apple.com/us/movie/aliens/umc.cmc.65qmv8mospg448bevgyv8kjgf?playableId=tvs.sbd.1000185%3AMV000206880000"
+          "link": "https://tv.apple.com/us/movie/aliens/umc.cmc.65qmv8mospg448bevgyv8kjgf?playableId=tvs.sbd.1000185%3AMV023224570000"
         },
         {
           "service": "prime",
@@ -8102,12 +8038,6 @@
           "price": "USD3.99"
         },
         {
-          "service": "roku",
-          "type": "free",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/27b6b97ee02e5cd9b6b31f682f6ca3f1"
-        },
-        {
           "service": "prime",
           "type": "rent",
           "quality": "hd",
@@ -8268,13 +8198,13 @@
       "year": "2005",
       "imdb_id": "tt0445620",
       "imdb_rating": "7.4",
-      "imdb_votes": "24,726",
+      "imdb_votes": "25,013",
       "imdb_url": "https://www.imdb.com/title/tt0445620",
       "runtime": "91 min",
       "genre": "Crime, Drama, Thriller",
       "director": "Hany Abu-Assad",
       "plot": "Two childhood friends are recruited for a suicide bombing in Tel Aviv.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTIyNTg4MjE4Ml5BMl5BanBnXkFtZTYwNzk0Mzc2._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTIyNTg4MjE4Ml5BMl5BanBnXkFtZTYwNzk0Mzc2._V1_QL75_UY562_CR0,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "apple",
@@ -8318,27 +8248,27 @@
       "year": "1992",
       "imdb_id": "tt0104691",
       "imdb_rating": "7.6",
-      "imdb_votes": "203,439",
+      "imdb_votes": "210,214",
       "imdb_url": "https://www.imdb.com/title/tt0104691",
       "runtime": "112 min",
       "genre": "Action, Adventure, Drama",
       "director": "Michael Mann",
       "plot": "Three Mohican trappers agree to protect the daughters of a British Colonel in the midst of the French and Indian War.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BODAxNTAxMDItMzkwZS00ZTEyLWJlZmMtYTc0MGI1NDdkNWZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODAxNTAxMDItMzkwZS00ZTEyLWJlZmMtYTc0MGI1NDdkNWZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
       "streaming_options": [
-        {
-          "service": "apple",
-          "type": "rent",
-          "quality": "hd",
-          "link": "https://tv.apple.com/us/movie/the-last-of-the-mohicans/umc.cmc.6mq477wgqfw9hac6ay3nn8rra?playableId=tvs.sbd.9001%3A553357676",
-          "price": "USD4.99"
-        },
         {
           "service": "apple",
           "type": "rent",
           "quality": "sd",
           "link": "https://tv.apple.com/us/movie/the-last-of-the-mohicans/umc.cmc.6mq477wgqfw9hac6ay3nn8rra?playableId=tvs.sbd.9001%3A272507859",
           "price": "USD3.99"
+        },
+        {
+          "service": "apple",
+          "type": "rent",
+          "quality": "hd",
+          "link": "https://tv.apple.com/us/movie/the-last-of-the-mohicans/umc.cmc.6mq477wgqfw9hac6ay3nn8rra?playableId=tvs.sbd.9001%3A553357676",
+          "price": "USD4.99"
         },
         {
           "service": "apple",
@@ -8445,13 +8375,13 @@
       "year": "1994",
       "imdb_id": "tt0109444",
       "imdb_rating": "6.9",
-      "imdb_votes": "113,327",
+      "imdb_votes": "118,063",
       "imdb_url": "https://www.imdb.com/title/tt0109444",
       "runtime": "141 min",
       "genre": "Action, Crime, Drama",
       "director": "Phillip Noyce",
-      "plot": "CIA Analyst Jack Ryan is drawn into an illegal war fought by the US government against a Colombian drug cartel.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZmRhZWJhZTctZjE4OS00NzM0LWIyYzEtNTM2MDgyY2MwNTQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot": "CIA analyst Jack Ryan investigates a murdered businessman tied to Colombian cartels, uncovering a widening crisis where political pressure, criminal power, and national security interests collide.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmRhZWJhZTctZjE4OS00NzM0LWIyYzEtNTM2MDgyY2MwNTQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -8502,13 +8432,13 @@
       "year": "1953",
       "imdb_id": "tt0045793",
       "imdb_rating": "7.6",
-      "imdb_votes": "53,180",
+      "imdb_votes": "54,941",
       "imdb_url": "https://www.imdb.com/title/tt0045793",
       "runtime": "118 min",
       "genre": "Drama, Romance, War",
       "director": "Fred Zinnemann",
       "plot": "At a U.S. Army base in 1941 Hawaii, a pugilistic private is cruelly punished for refusing to join his unit's boxing team. Meanwhile, his commanding officer's wife and top NCO are indulging in a torrid love affair.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYjNhMDFkMDUtODFkMy00MGE0LTliZGUtNjNlYWM2ZjhiOWQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjNhMDFkMDUtODFkMy00MGE0LTliZGUtNjNlYWM2ZjhiOWQ2XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -8529,12 +8459,6 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0H389XPD3WJDGTXHTRHV7HBR6Y?ref_=atv_dp",
           "price": "USD14.99"
-        },
-        {
-          "service": "roku",
-          "type": "free",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/54e9d1fb0a2f52b08ffc796fa067d963"
         }
       ],
       "ar": null,
@@ -8559,12 +8483,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BNzUxNzUzNzU2MV5BMl5BanBnXkFtZTcwNTgzNzU2NA@@._V1_QL75_UX380_CR0,1,380,562_.jpg",
       "streaming_options": [
         {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/8331131c936c5e0ea327abf5717b6fa4"
-        },
-        {
           "service": "prime",
           "type": "addon",
           "quality": "sd",
@@ -8575,12 +8493,6 @@
           "type": "free",
           "quality": "hd",
           "link": "https://tubitv.com/movies/405451/rescue-dawn"
-        },
-        {
-          "service": "roku",
-          "type": "free",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/8331131c936c5e0ea327abf5717b6fa4"
         },
         {
           "service": "prime",
@@ -8688,43 +8600,16 @@
       "episode_url": "https://maximumfun.org/episodes/friendly-fire/friendly-fire-ep-17-glory/",
       "title": "Glory",
       "year": "1989",
-      "imdb_id": "tt0097441",
-      "imdb_rating": "7.8",
-      "imdb_votes": "150,916",
-      "imdb_url": "https://www.imdb.com/title/tt0097441",
-      "runtime": "122 min",
-      "genre": "Biography, Drama, History",
-      "director": "Edward Zwick",
-      "plot": "Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union Army, and the Confederates.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BOTA1NDcyOGMtYTc0Zi00OTQ0LTllZTEtMTIxZDcxMWYxZTVhXkEyXkFqcGc@._V1_SX300.jpg",
-      "streaming_options": [
-        {
-          "service": "prime",
-          "type": "addon",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0RCLWAV8DAHJLSA9AHDGCE04MF?ref_=atv_dp"
-        },
-        {
-          "service": "prime",
-          "type": "buy",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0RCLWAV8DAHJLSA9AHDGCE04MF?ref_=atv_dp",
-          "price": "USD12.99"
-        },
-        {
-          "service": "prime",
-          "type": "rent",
-          "quality": "uhd",
-          "link": "https://www.amazon.com/gp/video/detail/0RCLWAV8DAHJLSA9AHDGCE04MF?ref_=atv_dp",
-          "price": "USD3.99"
-        },
-        {
-          "service": "tubi",
-          "type": "free",
-          "quality": "hd",
-          "link": "https://tubitv.com/movies/100003413/glory"
-        }
-      ],
+      "imdb_id": "tt0775476",
+      "imdb_rating": "8.2",
+      "imdb_votes": "5",
+      "imdb_url": "https://www.imdb.com/title/tt0775476",
+      "runtime": "N/A",
+      "genre": "Drama",
+      "director": "N/A",
+      "plot": "N/A",
+      "poster": "N/A",
+      "streaming_options": [],
       "ar": null,
       "br": null,
       "jr": null,
@@ -8738,13 +8623,13 @@
       "year": "2012",
       "imdb_id": "tt1234719",
       "imdb_rating": "5.3",
-      "imdb_votes": "83,019",
+      "imdb_votes": "84,472",
       "imdb_url": "https://www.imdb.com/title/tt1234719",
       "runtime": "93 min",
       "genre": "Action, War",
       "director": "Dan Bradley",
       "plot": "A group of teenagers look to save their town from an invasion of North Korean soldiers.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNGZhODgzYTEtNmI2Mi00MmRmLWFhYzAtNGFkNjQzZmFiM2EwXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGZhODgzYTEtNmI2Mi00MmRmLWFhYzAtNGFkNjQzZmFiM2EwXkEyXkFqcGc@._V1_QL75_UY562_CR11,0,380,562_.jpg",
       "streaming_options": [
         {
           "service": "prime",
@@ -8810,22 +8695,10 @@
           "price": "USD14.99"
         },
         {
-          "service": "amc",
-          "type": "subscription",
-          "quality": "sd",
-          "link": "https://www.amcplus.com/movies/red-dawn--1053006"
-        },
-        {
           "service": "prime",
           "type": "addon",
           "quality": "sd",
           "link": "https://www.amazon.com/gp/video/detail/0L7B2PRJVEZX5K8V9U0234OHHP?ref_=atv_dp"
-        },
-        {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/9db3060651305b98a9f5d19fbb76f5ad"
         },
         {
           "service": "prime",
@@ -8871,12 +8744,6 @@
           "price": "USD14.99"
         },
         {
-          "service": "roku",
-          "type": "free",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/294df78ad9b75149915a21b77b722583"
-        },
-        {
           "service": "tubi",
           "type": "free",
           "quality": "hd",
@@ -8887,6 +8754,12 @@
           "type": "addon",
           "quality": "hd",
           "link": "https://therokuchannel.roku.com/details/294df78ad9b75149915a21b77b722583"
+        },
+        {
+          "service": "plutotv",
+          "type": "free",
+          "quality": "sd",
+          "link": "https://pluto.tv/gsa/on-demand/movies/58f79a21ba191f80426ac815/details"
         },
         {
           "service": "prime",
@@ -8915,13 +8788,13 @@
       "year": "1999",
       "imdb_id": "tt0120188",
       "imdb_rating": "7.1",
-      "imdb_votes": "185,340",
+      "imdb_votes": "187,478",
       "imdb_url": "https://www.imdb.com/title/tt0120188",
       "runtime": "114 min",
       "genre": "Action, Adventure, Comedy",
       "director": "David O. Russell",
       "plot": "In the aftermath of the Persian Gulf War, four soldiers set out to steal gold that was stolen from Kuwait, but they discover people who desperately need their help.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BODdlODNiYWUtNDU4Mi00OWY0LTk2MmMtZWMwNzA4Yzc1NTAyXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODdlODNiYWUtNDU4Mi00OWY0LTk2MmMtZWMwNzA4Yzc1NTAyXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
       "streaming_options": [
         {
           "service": "apple",
@@ -8943,6 +8816,12 @@
           "quality": "hd",
           "link": "https://www.amazon.com/gp/video/detail/0FFJSE406P01VFI4CLYT0SJALQ?ref_=atv_dp",
           "price": "USD3.99"
+        },
+        {
+          "service": "roku",
+          "type": "free",
+          "quality": "hd",
+          "link": "https://therokuchannel.roku.com/details/79f54c1871a258de8c4a1c5cb6dca540"
         },
         {
           "service": "prime",
@@ -9001,12 +8880,6 @@
           "link": "https://tv.apple.com/us/movie/enemy-at-the-gates/umc.cmc.7yy9e5w5yqs9vyx9davoe69t?playableId=tvs.sbd.1000185%3AMV000963020000"
         },
         {
-          "service": "roku",
-          "type": "addon",
-          "quality": "hd",
-          "link": "https://therokuchannel.roku.com/details/d6562c40588f559889587f645bbfaac0"
-        },
-        {
           "service": "apple",
           "type": "buy",
           "quality": "hd",
@@ -9060,7 +8933,7 @@
           "type": "buy",
           "quality": "hd",
           "link": "https://tv.apple.com/us/movie/fury/umc.cmc.4wfs3tno6kih50j21qgn1n0m3?playableId=tvs.sbd.9001%3A922628991",
-          "price": "USD14.99"
+          "price": "USD4.99"
         },
         {
           "service": "apple",
